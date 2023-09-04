@@ -1,0 +1,28 @@
+{
+  "name": "Moonbeam",
+  "chain": "MOON",
+  "rpc": [
+    "https://rpc.api.moonbeam.network",
+    "wss://wss.api.moonbeam.network"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Glimmer",
+    "symbol": "GLMR",
+    "decimals": 18
+  },
+  "infoURL": "https://moonbeam.network/networks/moonbeam/",
+  "shortName": "mbeam",
+  "chainId": 1284,
+  "networkId": 1284,
+  "explorers": [
+    {
+      "name": "moonscan",
+      "url": "https://moonbeam.moonscan.io",
+      "standard": "none"
+    }
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_moonbeam.jpg",
+  "tvl": 39240627.60883524,
+  "chainSlug": "moonbeam"
+}

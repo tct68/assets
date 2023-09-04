@@ -1,0 +1,36 @@
+{
+  "name": "Metis Andromeda Mainnet",
+  "chain": "ETH",
+  "rpc": [
+    "https://andromeda.metis.io/?owner=1088"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Metis",
+    "symbol": "METIS",
+    "decimals": 18
+  },
+  "infoURL": "https://www.metis.io",
+  "shortName": "metis-andromeda",
+  "chainId": 1088,
+  "networkId": 1088,
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://andromeda-explorer.metis.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "parent": {
+    "type": "L2",
+    "chain": "eip155-1",
+    "bridges": [
+      {
+        "url": "https://bridge.metis.io"
+      }
+    ]
+  },
+  "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_metis.jpg",
+  "tvl": 24545543.711831816,
+  "chainSlug": "metis"
+}

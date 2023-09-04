@@ -1,0 +1,31 @@
+{
+  "name": "Omax Mainnet",
+  "chain": "OMAX Chain",
+  "rpc": [
+    "https://mainapi.omaxray.com"
+  ],
+  "faucets": [
+    "https://faucet.omaxray.com/"
+  ],
+  "nativeCurrency": {
+    "name": "OMAX COIN",
+    "symbol": "OMAX",
+    "decimals": 18
+  },
+  "infoURL": "https://www.omaxcoin.com/",
+  "shortName": "omax",
+  "chainId": 311,
+  "networkId": 311,
+  "icon": "omaxchain",
+  "explorers": [
+    {
+      "name": "Omax Chain Explorer",
+      "url": "https://omaxray.com",
+      "icon": "omaxray",
+      "standard": "EIP3091"
+    }
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_omax.jpg",
+  "tvl": 0.004573122990670159,
+  "chainSlug": "omax"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Fuse Mainnet",
+  "chain": "FUSE",
+  "rpc": [
+    "https://rpc.fuse.io"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Fuse",
+    "symbol": "FUSE",
+    "decimals": 18
+  },
+  "infoURL": "https://fuse.io/",
+  "shortName": "fuse",
+  "chainId": 122,
+  "networkId": 122,
+  "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_fuse.jpg",
+  "tvl": 1345840.1309353875,
+  "chainSlug": "fuse"
+}

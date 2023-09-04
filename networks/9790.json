@@ -1,0 +1,22 @@
+{
+  "name": "Carbon EVM",
+  "chain": "Carbon",
+  "icon": "carbon",
+  "rpc": [
+    "https://evm-api.carbon.network/"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "swth",
+    "symbol": "SWTH",
+    "decimals": 18
+  },
+  "infoURL": "https://carbon.network/",
+  "shortName": "carbon",
+  "chainId": 9790,
+  "networkId": 9790,
+  "explorers": [],
+  "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_carbon.jpg",
+  "tvl": 1831069.7975577433,
+  "chainSlug": "carbon"
+}

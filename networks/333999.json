@@ -1,0 +1,23 @@
+{
+  "name": "Polis Mainnet",
+  "chain": "Olympus",
+  "icon": "polis",
+  "rpc": [
+    "https://rpc.polis.tech"
+  ],
+  "faucets": [
+    "https://faucet.polis.tech"
+  ],
+  "nativeCurrency": {
+    "name": "Polis",
+    "symbol": "POLIS",
+    "decimals": 18
+  },
+  "infoURL": "https://polis.tech",
+  "shortName": "olympus",
+  "chainId": 333999,
+  "networkId": 333999,
+  "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_polis.jpg",
+  "tvl": 0,
+  "chainSlug": "polis"
+}

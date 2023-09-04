@@ -1,0 +1,28 @@
+{
+  "name": "Moonriver",
+  "chain": "MOON",
+  "rpc": [
+    "https://rpc.api.moonriver.moonbeam.network",
+    "wss://wss.api.moonriver.moonbeam.network"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Moonriver",
+    "symbol": "MOVR",
+    "decimals": 18
+  },
+  "infoURL": "https://moonbeam.network/networks/moonriver/",
+  "shortName": "mriver",
+  "chainId": 1285,
+  "networkId": 1285,
+  "explorers": [
+    {
+      "name": "moonscan",
+      "url": "https://moonriver.moonscan.io",
+      "standard": "none"
+    }
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_moonriver.jpg",
+  "tvl": 5938150.255253221,
+  "chainSlug": "moonriver"
+}

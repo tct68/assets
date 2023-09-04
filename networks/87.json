@@ -1,0 +1,30 @@
+{
+  "name": "Nova Network",
+  "chain": "NNW",
+  "icon": "novanetwork",
+  "rpc": [
+    "https://connect.novanetwork.io",
+    "https://0x57.redjackstudio.com",
+    "https://rpc.novanetwork.io:9070"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Supernova",
+    "symbol": "SNT",
+    "decimals": 18
+  },
+  "infoURL": "https://novanetwork.io",
+  "shortName": "nnw",
+  "chainId": 87,
+  "networkId": 87,
+  "explorers": [
+    {
+      "name": "novanetwork",
+      "url": "https://explorer.novanetwork.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_nova network.jpg",
+  "tvl": 989936.1699668826,
+  "chainSlug": "nova network"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Dogechain Mainnet",
+  "chain": "DC",
+  "icon": "dogechain",
+  "rpc": [
+    "https://rpc.dogechain.dog",
+    "https://rpc01-sg.dogechain.dog",
+    "https://rpc.ankr.com/dogechain"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "decimals": 18
+  },
+  "infoURL": "https://dogechain.dog",
+  "shortName": "dc",
+  "chainId": 2000,
+  "networkId": 2000,
+  "explorers": [
+    {
+      "name": "dogechain explorer",
+      "url": "https://explorer.dogechain.dog",
+      "standard": "EIP3091"
+    }
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_dogechain.jpg",
+  "tvl": 2540414.965229676,
+  "chainSlug": "dogechain"
+}
