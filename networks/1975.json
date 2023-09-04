@@ -24,7 +24,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_onus.jpg",
-  "tvl": 1064186.3496743594,
+  "tvl": 1064076.6004869319,
   "chainSlug": "onus"
 }

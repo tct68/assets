@@ -28,7 +28,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_kucoin.jpg",
-  "tvl": 1753001.1968348054,
+  "tvl": 1751781.004334189,
   "chainSlug": "kucoin"
 }

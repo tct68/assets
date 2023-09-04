@@ -14,5 +14,6 @@
   "shortName": "clv",
   "chainId": 1024,
   "networkId": 1024,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

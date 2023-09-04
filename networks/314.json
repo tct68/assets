@@ -54,7 +54,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_filecoin.jpg",
-  "tvl": 55747975.05152828,
+  "tvl": 55439560.97679885,
   "chainSlug": "filecoin"
 }

@@ -14,5 +14,6 @@
   "shortName": "mintme",
   "chainId": 24734,
   "networkId": 37480,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

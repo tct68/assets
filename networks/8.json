@@ -23,7 +23,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_ubiq.jpg",
-  "tvl": 60826.196334852124,
+  "tvl": 60507.90615340469,
   "chainSlug": "ubiq"
 }

@@ -31,5 +31,6 @@
       "icon": "irishub"
     }
   ],
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

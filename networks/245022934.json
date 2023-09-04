@@ -29,7 +29,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_neon.jpg",
-  "tvl": 60980.442703986286,
+  "tvl": 64109.76904852314,
   "chainSlug": "neon"
 }

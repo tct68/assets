@@ -28,7 +28,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_klaytn.jpg",
-  "tvl": 168095149.61320558,
+  "tvl": 167526151.76502746,
   "chainSlug": "klaytn"
 }

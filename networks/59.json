@@ -17,5 +17,6 @@
   "networkId": 59,
   "explorers": [],
   "status": "deprecated",
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

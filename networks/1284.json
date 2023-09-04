@@ -31,7 +31,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_moonbeam.jpg",
-  "tvl": 39245519.08050537,
+  "tvl": 39099732.514950976,
   "chainSlug": "moonbeam"
 }

@@ -17,5 +17,6 @@
   "networkId": 431140,
   "explorers": [],
   "status": "incubating",
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

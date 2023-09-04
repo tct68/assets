@@ -12,5 +12,6 @@
   "shortName": "setm",
   "chainId": 258,
   "networkId": 258,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

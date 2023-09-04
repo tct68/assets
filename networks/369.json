@@ -27,7 +27,8 @@
     "decimals": 18
   },
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_pulse.jpg",
-  "tvl": 126206892.27015482,
+  "tvl": 125984911.97060737,
   "chainSlug": "pulse"
 }

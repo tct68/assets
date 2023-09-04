@@ -15,5 +15,6 @@
   "shortName": "kot",
   "chainId": 6,
   "networkId": 6,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

@@ -24,7 +24,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_velas.jpg",
-  "tvl": 1480881.5469312498,
+  "tvl": 1487644.2122720405,
   "chainSlug": "velas"
 }

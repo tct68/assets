@@ -18,7 +18,8 @@
   "chainId": 122,
   "networkId": 122,
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_fuse.jpg",
-  "tvl": 1349849.265576959,
+  "tvl": 1348118.2970815348,
   "chainSlug": "fuse"
 }

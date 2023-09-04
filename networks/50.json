@@ -35,7 +35,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_xdc.jpg",
-  "tvl": 3575529.4514413737,
+  "tvl": 4096106.1015915195,
   "chainSlug": "xdc"
 }

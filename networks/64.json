@@ -13,5 +13,6 @@
   "chainId": 64,
   "networkId": 64,
   "slip44": 163,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

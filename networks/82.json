@@ -26,7 +26,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_meter.jpg",
-  "tvl": 6874543.807926885,
+  "tvl": 6926634.116228299,
   "chainSlug": "meter"
 }

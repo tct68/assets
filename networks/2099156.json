@@ -21,5 +21,6 @@
       "standard": "EIP3091"
     }
   ],
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

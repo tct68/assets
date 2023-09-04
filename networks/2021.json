@@ -40,5 +40,6 @@
       "icon": "subscan"
     }
   ],
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

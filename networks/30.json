@@ -25,7 +25,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_rsk.jpg",
-  "tvl": 81325730.01973075,
+  "tvl": 81122640.26321949,
   "chainSlug": "rsk"
 }

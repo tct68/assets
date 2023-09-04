@@ -30,5 +30,6 @@
     "chain": "eip155-5",
     "bridges": []
   },
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

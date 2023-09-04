@@ -12,5 +12,6 @@
   "shortName": "UZMI",
   "chainId": 5315,
   "networkId": 5315,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

@@ -25,7 +25,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_core.jpg",
-  "tvl": 3975210.771343803,
+  "tvl": 3926097.0611163587,
   "chainSlug": "core"
 }

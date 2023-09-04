@@ -23,7 +23,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_songbird.jpg",
-  "tvl": 13563800.78297708,
+  "tvl": 13592228.85542244,
   "chainSlug": "songbird"
 }

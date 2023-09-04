@@ -14,5 +14,6 @@
   "shortName": "GENEC",
   "chainId": 9100,
   "networkId": 9100,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

@@ -14,5 +14,6 @@
   "shortName": "tao",
   "chainId": 558,
   "networkId": 558,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

@@ -12,5 +12,6 @@
     "symbol": "DWU",
     "decimals": 18
   },
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

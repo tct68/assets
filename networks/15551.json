@@ -22,7 +22,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_loop.jpg",
-  "tvl": 165154.49231584507,
+  "tvl": 162233.7351103407,
   "chainSlug": "loop"
 }

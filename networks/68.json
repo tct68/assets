@@ -12,5 +12,6 @@
   "shortName": "SO1",
   "chainId": 68,
   "networkId": 68,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

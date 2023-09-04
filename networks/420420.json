@@ -27,7 +27,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_kekchain.jpg",
-  "tvl": 169.8213767860634,
+  "tvl": 169.73938738975124,
   "chainSlug": "kekchain"
 }

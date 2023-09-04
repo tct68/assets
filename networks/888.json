@@ -17,7 +17,8 @@
   "networkId": 888,
   "slip44": 5718350,
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_wanchain.jpg",
-  "tvl": 4643686.897511109,
+  "tvl": 4674323.210722564,
   "chainSlug": "wanchain"
 }

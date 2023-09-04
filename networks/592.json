@@ -39,7 +39,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_astar.jpg",
-  "tvl": 44329007.77272293,
+  "tvl": 43156232.029696606,
   "chainSlug": "astar"
 }

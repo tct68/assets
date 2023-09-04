@@ -24,7 +24,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_oasis.jpg",
-  "tvl": 1618737.9684888911,
+  "tvl": 1608816.4244708286,
   "chainSlug": "oasis"
 }

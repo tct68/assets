@@ -57,7 +57,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_binance.jpg",
-  "tvl": 3519100519.667532,
+  "tvl": 3509889604.9585037,
   "chainSlug": "binance"
 }

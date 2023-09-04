@@ -26,7 +26,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_omax.jpg",
-  "tvl": 0.004573122990670159,
+  "tvl": 0.004613067913224054,
   "chainSlug": "omax"
 }

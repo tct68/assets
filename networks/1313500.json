@@ -14,5 +14,6 @@
   "shortName": "xero",
   "chainId": 1313500,
   "networkId": 1313500,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

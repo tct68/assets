@@ -16,5 +16,6 @@
   "chainId": 50001,
   "networkId": 50001,
   "explorers": [],
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

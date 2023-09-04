@@ -22,7 +22,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_theta.jpg",
-  "tvl": 942444.4422241948,
+  "tvl": 937420.369822565,
   "chainSlug": "theta"
 }

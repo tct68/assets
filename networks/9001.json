@@ -33,7 +33,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_evmos.jpg",
-  "tvl": 2221375.2314433088,
+  "tvl": 2227082.359199537,
   "chainSlug": "evmos"
 }

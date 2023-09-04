@@ -15,5 +15,6 @@
   "chainId": 971,
   "networkId": 971,
   "icon": "ccn",
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

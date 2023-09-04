@@ -24,7 +24,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_oasys.jpg",
-  "tvl": 1535936.6029732109,
+  "tvl": 1528989.0960127825,
   "chainSlug": "oasys"
 }

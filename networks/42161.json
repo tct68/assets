@@ -51,7 +51,8 @@
     ]
   },
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_arbitrum.jpg",
-  "tvl": 1879966896.8063269,
+  "tvl": 1874511755.9415205,
   "chainSlug": "arbitrum"
 }

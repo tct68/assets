@@ -14,5 +14,6 @@
   "shortName": "pht",
   "chainId": 163,
   "networkId": 163,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

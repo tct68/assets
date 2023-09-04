@@ -22,7 +22,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_rei.jpg",
-  "tvl": 9474.59011007759,
+  "tvl": 9598.349619498424,
   "chainSlug": "rei"
 }

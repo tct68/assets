@@ -27,7 +27,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_iotex.jpg",
-  "tvl": 11364375.230184052,
+  "tvl": 11293796.733508166,
   "chainSlug": "iotex"
 }

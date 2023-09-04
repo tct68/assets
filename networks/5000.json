@@ -34,7 +34,8 @@
     ]
   },
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_mantle.jpg",
-  "tvl": 36707113.57704844,
+  "tvl": 36480387.139077514,
   "chainSlug": "mantle"
 }

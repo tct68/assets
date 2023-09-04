@@ -18,5 +18,6 @@
   "shortName": "Baobab",
   "chainId": 1001,
   "networkId": 1001,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

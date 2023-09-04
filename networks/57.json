@@ -26,7 +26,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_syscoin.jpg",
-  "tvl": 89654.44698213562,
+  "tvl": 87558.12638790539,
   "chainSlug": "syscoin"
 }

@@ -29,5 +29,6 @@
       "icon": "teleport"
     }
   ],
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

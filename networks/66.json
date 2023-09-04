@@ -25,7 +25,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_okexchain.jpg",
-  "tvl": 109611419.82810345,
+  "tvl": 110623727.01102534,
   "chainSlug": "okexchain"
 }

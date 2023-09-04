@@ -24,7 +24,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_palm.jpg",
-  "tvl": 510.8749093640566,
+  "tvl": 510.454817403946,
   "chainSlug": "palm"
 }

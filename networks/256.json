@@ -16,5 +16,6 @@
   "shortName": "hecot",
   "chainId": 256,
   "networkId": 256,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

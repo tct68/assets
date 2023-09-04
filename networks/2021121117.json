@@ -12,5 +12,6 @@
   "shortName": "hop",
   "chainId": 2021121117,
   "networkId": 2021121117,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

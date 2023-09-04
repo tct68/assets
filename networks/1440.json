@@ -17,5 +17,6 @@
   "chainId": 1440,
   "networkId": 1440,
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_living assets mainnet.jpg"
 }

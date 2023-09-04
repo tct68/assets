@@ -15,5 +15,6 @@
   "shortName": "metc",
   "chainId": 63,
   "networkId": 7,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

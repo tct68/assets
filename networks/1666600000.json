@@ -31,7 +31,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_harmony.jpg",
-  "tvl": 2317533.9761986653,
+  "tvl": 2318761.770072626,
   "chainSlug": "harmony"
 }

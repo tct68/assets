@@ -26,7 +26,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_rollux.jpg",
-  "tvl": 562854.0777882425,
+  "tvl": 552391.4418543226,
   "chainSlug": "rollux"
 }

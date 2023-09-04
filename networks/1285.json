@@ -28,7 +28,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_moonriver.jpg",
-  "tvl": 5937622.560539615,
+  "tvl": 5941315.273273736,
   "chainSlug": "moonriver"
 }

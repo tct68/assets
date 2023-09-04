@@ -17,7 +17,8 @@
   "chainId": 10000,
   "networkId": 10000,
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_smartbch.jpg",
-  "tvl": 4999270.5415631095,
+  "tvl": 4957893.061534462,
   "chainSlug": "smartbch"
 }

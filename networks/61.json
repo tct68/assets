@@ -34,7 +34,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_ethereumclassic.jpg",
-  "tvl": 262018.16656465377,
+  "tvl": 258460.4422836984,
   "chainSlug": "ethereumclassic"
 }

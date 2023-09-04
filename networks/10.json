@@ -42,7 +42,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_optimism.jpg",
-  "tvl": 767414171.0123206,
+  "tvl": 765717454.5519664,
   "chainSlug": "optimism"
 }

@@ -23,5 +23,6 @@
       "standard": "none"
     }
   ],
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

@@ -26,7 +26,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_kava.jpg",
-  "tvl": 285957678.0541835,
+  "tvl": 284073938.019943,
   "chainSlug": "kava"
 }

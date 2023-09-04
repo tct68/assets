@@ -12,5 +12,6 @@
   "shortName": "haic",
   "chainId": 803,
   "networkId": 803,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

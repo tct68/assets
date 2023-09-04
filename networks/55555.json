@@ -25,7 +25,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_reichain.jpg",
-  "tvl": 30461.871304987082,
+  "tvl": 30461.60938741462,
   "chainSlug": "reichain"
 }

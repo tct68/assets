@@ -12,5 +12,6 @@
   "shortName": "ktoc",
   "chainId": 2559,
   "networkId": 2559,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

@@ -16,5 +16,6 @@
   "networkId": 2221,
   "slip44": 2221,
   "status": "deprecated",
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

@@ -43,7 +43,8 @@
   ],
   "status": "active",
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_linea.jpg",
-  "tvl": 18397161.431292478,
+  "tvl": 18407626.185466133,
   "chainSlug": "linea"
 }

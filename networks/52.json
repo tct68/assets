@@ -26,7 +26,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_csc.jpg",
-  "tvl": 1846199.5948725906,
+  "tvl": 1833687.0388536197,
   "chainSlug": "csc"
 }

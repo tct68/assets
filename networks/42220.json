@@ -32,7 +32,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_celo.jpg",
-  "tvl": 88241110.74760711,
+  "tvl": 87826162.97855836,
   "chainSlug": "celo"
 }

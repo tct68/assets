@@ -23,7 +23,8 @@
   "networkId": 888888,
   "slip44": 60,
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_vision.jpg",
-  "tvl": 7225744.055945587,
+  "tvl": 7228693.453175386,
   "chainSlug": "vision"
 }

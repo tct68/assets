@@ -12,5 +12,6 @@
   "shortName": "GooD",
   "chainId": 33,
   "networkId": 33,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

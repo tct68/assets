@@ -15,5 +15,6 @@
   "shortName": "eladid",
   "chainId": 22,
   "networkId": 22,
-  "isDefault": false
+  "isDefault": false,
+  "contract": {}
 }

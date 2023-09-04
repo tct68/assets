@@ -45,7 +45,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_avalanche.jpg",
-  "tvl": 667960650.2052922,
+  "tvl": 665152710.7327611,
   "chainSlug": "avalanche"
 }

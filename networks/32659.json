@@ -36,7 +36,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_fusion.jpg",
-  "tvl": 157604594.75526023,
+  "tvl": 157460410.2149519,
   "chainSlug": "fusion"
 }

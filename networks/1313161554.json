@@ -25,7 +25,8 @@
     }
   ],
   "isDefault": false,
+  "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_aurora.jpg",
-  "tvl": 11817530.06434039,
+  "tvl": 11827328.93768032,
   "chainSlug": "aurora"
 }
