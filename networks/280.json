@@ -2,7 +2,7 @@
   "name": "zkSync Era Testnet",
   "chain": "ETH",
   "rpc": [
-    "https://testnet.era.zksync.dev"
+    "https://zksync-era-testnet.blockpi.network/v1/rpc/public"
   ],
   "faucets": [
     "https://goerli.portal.zksync.io/faucet"
@@ -33,5 +33,6 @@
         "url": "https://goerli.portal.zksync.io/bridge"
       }
     ]
-  }
+  },
+  "isDefault": false
 }

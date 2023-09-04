@@ -11,7 +11,10 @@
   },
   "rpc": [
     "https://nova.arbitrum.io/rpc",
-    "https://arbitrum-nova.publicnode.com"
+    "https://arbitrum-nova.public.blastapi.io",
+    "https://arbitrum-nova.blockpi.network/v1/rpc/public",
+    "https://arbitrum-nova.publicnode.com",
+    "https://arbitrum-nova.drpc.org"
   ],
   "faucets": [],
   "explorers": [
@@ -32,5 +35,6 @@
       }
     ]
   },
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_arbitrum_nova.jpg"
 }

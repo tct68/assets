@@ -1,9 +1,7 @@
 {
   "name": "Valorbit",
   "chain": "VAL",
-  "rpc": [
-    "https://rpc.valorbit.com/v2"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Valorbit",
@@ -14,5 +12,6 @@
   "shortName": "val",
   "chainId": 38,
   "networkId": 38,
-  "slip44": 538
+  "slip44": 538,
+  "isDefault": false
 }

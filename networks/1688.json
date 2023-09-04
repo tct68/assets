@@ -2,7 +2,7 @@
   "name": "LUDAN Mainnet",
   "chain": "LUDAN",
   "rpc": [
-    "https://rpc.ludan.org/"
+    "https://rpc.ludan.org"
   ],
   "faucets": [],
   "nativeCurrency": {

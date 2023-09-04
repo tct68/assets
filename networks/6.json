@@ -2,7 +2,8 @@
   "name": "Ethereum Classic Testnet Kotti",
   "chain": "ETC",
   "rpc": [
-    "https://www.ethercluster.com/kotti"
+    "https://www.ethercluster.com/kotti",
+    "https://geth-kotti.etc-network.info"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -13,5 +14,6 @@
   "infoURL": "https://explorer.jade.builders/?network=kotti",
   "shortName": "kot",
   "chainId": 6,
-  "networkId": 6
+  "networkId": 6,
+  "isDefault": false
 }

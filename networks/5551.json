@@ -32,7 +32,8 @@
       }
     ]
   },
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_nahmii.jpg",
-  "tvl": 916542.7058095343,
+  "tvl": 912029.7381977651,
   "chainSlug": "nahmii"
 }

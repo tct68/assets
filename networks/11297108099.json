@@ -3,7 +3,7 @@
   "chain": "Palm",
   "icon": "palm",
   "rpc": [
-    "https://palm-testnet.infura.io/v3/${INFURA_API_KEY}"
+    "https://palm-testnet.public.blastapi.io"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -21,5 +21,6 @@
       "url": "https://explorer.palm-uat.xyz",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

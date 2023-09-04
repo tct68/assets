@@ -2,7 +2,7 @@
   "name": "BitTorrent Chain Mainnet",
   "chain": "BTTC",
   "rpc": [
-    "https://rpc.bittorrentchain.io/"
+    "https://rpc.bittorrentchain.io"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -20,5 +20,6 @@
       "url": "https://bttcscan.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

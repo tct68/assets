@@ -2,7 +2,10 @@
   "name": "Fuse Mainnet",
   "chain": "FUSE",
   "rpc": [
-    "https://rpc.fuse.io"
+    "https://fuse-rpc.gateway.pokt.network",
+    "https://rpc.fuse.io",
+    "https://fuse-mainnet.chainstacklabs.com",
+    "https://fuse.api.onfinality.io/public"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -14,7 +17,8 @@
   "shortName": "fuse",
   "chainId": 122,
   "networkId": 122,
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_fuse.jpg",
-  "tvl": 1345840.1309353875,
+  "tvl": 1349849.265576959,
   "chainSlug": "fuse"
 }

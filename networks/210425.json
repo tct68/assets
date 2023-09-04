@@ -1,10 +1,7 @@
 {
   "name": "PlatON Mainnet",
   "chain": "PlatON",
-  "rpc": [
-    "https://openapi2.platon.network/rpc",
-    "wss://openapi2.platon.network/ws"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "LAT",
@@ -22,5 +19,6 @@
       "url": "https://scan.platon.network",
       "standard": "none"
     }
-  ]
+  ],
+  "isDefault": false
 }

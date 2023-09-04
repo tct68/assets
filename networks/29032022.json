@@ -3,7 +3,7 @@
   "chain": "FLX",
   "icon": "flacoin",
   "rpc": [
-    "https://flachain.flaexchange.top/"
+    "https://flachain.flaexchange.top"
   ],
   "features": [
     {

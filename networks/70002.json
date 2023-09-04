@@ -2,7 +2,7 @@
   "name": "Thinkium Mainnet Chain 2",
   "chain": "Thinkium",
   "rpc": [
-    "https://proxy2.thinkiumrpc.net/"
+    "https://proxy2.thinkiumrpc.net"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -20,5 +20,6 @@
       "url": "https://chain2.thinkiumscan.net",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

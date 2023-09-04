@@ -3,7 +3,7 @@
   "chain": "SHYFT",
   "icon": "shyft",
   "rpc": [
-    "https://rpc.shyft.network/"
+    "https://rpc.shyft.network"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -22,5 +22,6 @@
       "url": "https://bx.shyft.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

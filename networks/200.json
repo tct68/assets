@@ -2,7 +2,7 @@
   "name": "Arbitrum on xDai",
   "chain": "AOX",
   "rpc": [
-    "https://arbitrum.xdaichain.com/"
+    "https://arbitrum.xdaichain.com"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -25,5 +25,6 @@
     "chain": "eip155-100",
     "type": "L2"
   },
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_xdaiarb.jpg"
 }

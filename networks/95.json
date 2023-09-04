@@ -2,7 +2,7 @@
   "name": "CamDL Mainnet",
   "chain": "CADL",
   "rpc": [
-    "https://rpc1.camdl.gov.kh/"
+    "https://rpc1.camdl.gov.kh"
   ],
   "faucets": [
     "https://faucet.camdl.gov.kh/"

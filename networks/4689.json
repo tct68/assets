@@ -2,7 +2,12 @@
   "name": "IoTeX Network Mainnet",
   "chain": "iotex.io",
   "rpc": [
-    "https://babel-api.mainnet.iotex.io"
+    "https://iotex-mainnet.gateway.pokt.network/v1/lb/6176f902e19001003499f492",
+    "https://rpc.ankr.com/iotex",
+    "https://babel-api.mainnet.iotex.io",
+    "https://babel-api.mainnet.iotex.one",
+    "https://pokt-api.iotex.io",
+    "https://babel-api.fastblocks.io"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -21,7 +26,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_iotex.jpg",
-  "tvl": 11354878.128980795,
+  "tvl": 11364375.230184052,
   "chainSlug": "iotex"
 }

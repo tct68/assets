@@ -1,9 +1,7 @@
 {
   "name": "EnterChain Mainnet",
   "chain": "ENTER",
-  "rpc": [
-    "https://tapi.entercoin.net/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "EnterCoin",
@@ -22,5 +20,6 @@
       "icon": "enter",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

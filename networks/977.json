@@ -1,10 +1,7 @@
 {
   "name": "Nepal Blockchain Network",
   "chain": "YETI",
-  "rpc": [
-    "https://api.nepalblockchain.dev",
-    "https://api.nepalblockchain.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.nepalblockchain.network"
   ],
@@ -16,5 +13,6 @@
   "infoURL": "https://nepalblockchain.network",
   "shortName": "yeti",
   "chainId": 977,
-  "networkId": 977
+  "networkId": 977,
+  "isDefault": false
 }

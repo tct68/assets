@@ -23,7 +23,8 @@
       "standard": "none"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_ultron.jpg",
-  "tvl": 6868576.136462908,
+  "tvl": 6877115.907617506,
   "chainSlug": "ultron"
 }

@@ -3,10 +3,10 @@
   "chain": "Boba BNB Mainnet",
   "rpc": [
     "https://bnb.boba.network",
-    "https://boba-bnb.gateway.tenderly.co/",
+    "https://boba-bnb.gateway.tenderly.co",
     "https://gateway.tenderly.co/public/boba-bnb",
     "https://replica.bnb.boba.network",
-    "wss://boba-bnb.gateway.tenderly.co/",
+    "wss://boba-bnb.gateway.tenderly.co",
     "wss://gateway.tenderly.co/public/boba-bnb"
   ],
   "faucets": [],

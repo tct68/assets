@@ -2,7 +2,9 @@
   "name": "Klaytn Testnet Baobab",
   "chain": "KLAY",
   "rpc": [
-    "https://api.baobab.klaytn.net:8651"
+    "https://public-node-api.klaytnapi.com/v1/baobab",
+    "https://baobab.fautor.app/archive",
+    "https://klaytn-baobab.blockpi.network/v1/rpc/public"
   ],
   "faucets": [
     "https://baobab.wallet.klaytn.com/access?next=faucet"
@@ -15,5 +17,6 @@
   "infoURL": "https://www.klaytn.com/",
   "shortName": "Baobab",
   "chainId": 1001,
-  "networkId": 1001
+  "networkId": 1001,
+  "isDefault": false
 }

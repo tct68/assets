@@ -2,8 +2,21 @@
   "name": "Fantom Opera",
   "chain": "FTM",
   "rpc": [
+    "https://rpcapi.fantom.network",
+    "https://endpoints.omniatech.io/v1/fantom/mainnet/public",
+    "https://fantom-mainnet.gateway.pokt.network/v1/lb/62759259ea1b320039c9e7ac",
     "https://rpc.ftm.tools",
-    "https://fantom.publicnode.com"
+    "https://rpc.ankr.com/fantom",
+    "https://rpc.fantom.network",
+    "https://rpc2.fantom.network",
+    "https://rpc3.fantom.network",
+    "https://fantom-mainnet.public.blastapi.io",
+    "https://1rpc.io/ftm",
+    "https://fantom.blockpi.network/v1/rpc/public",
+    "https://fantom.publicnode.com",
+    "https://fantom.api.onfinality.io/public",
+    "https://rpc.fantom.gateway.fm",
+    "https://fantom.drpc.org"
   ],
   "faucets": [
     "https://free-online-app.com/faucet-for-eth-evm-chains/"
@@ -26,7 +39,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_fantom.jpg",
-  "tvl": 69481884.03927815,
+  "tvl": 69472557.36660092,
   "chainSlug": "fantom"
 }

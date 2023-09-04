@@ -2,7 +2,7 @@
   "name": "Oort Mainnet",
   "chain": "Oort Mainnet",
   "rpc": [
-    "https://rpc.oortech.com"
+    "https://rpc.mainnet.computecoin.com"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -14,5 +14,6 @@
   "shortName": "ccn",
   "chainId": 970,
   "networkId": 970,
-  "icon": "ccn"
+  "icon": "ccn",
+  "isDefault": false
 }

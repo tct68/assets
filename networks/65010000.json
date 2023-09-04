@@ -2,8 +2,8 @@
   "name": "Autonity Bakerloo (Thames) Testnet",
   "chain": "AUT",
   "rpc": [
-    "https://rpc1.bakerloo.autonity.org/",
-    "wss://rpc1.bakerloo.autonity.org/ws/"
+    "https://rpc1.bakerloo.autonity.org",
+    "wss://rpc1.bakerloo.autonity.org/ws"
   ],
   "faucets": [
     "https://faucet.autonity.org/"

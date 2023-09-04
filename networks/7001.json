@@ -3,7 +3,7 @@
   "chain": "ZetaChain",
   "icon": "zetachain",
   "rpc": [
-    "https://rpc.ankr.com/zetachain_evm_athens_testnet"
+    "https://zetachain-athens-evm.blockpi.network/v1/rpc/public"
   ],
   "faucets": [
     "https://labs.zetachain.com/get-zeta"
@@ -30,5 +30,6 @@
       "icon": "blockscout",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

@@ -3,7 +3,13 @@
   "title": "Polygon zkEVM",
   "chain": "Polygon",
   "rpc": [
-    "https://zkevm-rpc.com"
+    "https://rpc.ankr.com/polygon_zkevm",
+    "https://rpc.polygon-zkevm.gateway.fm",
+    "https://1rpc.io/polygon/zkevm",
+    "https://polygon-zkevm.blockpi.network/v1/rpc/public",
+    "https://polygon-zkevm-mainnet.public.blastapi.io",
+    "https://api.zan.top/node/v1/polygonzkevm/mainnet/public",
+    "https://polygon-zkevm.drpc.org"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -33,5 +39,6 @@
       }
     ]
   },
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_polygon_zkevm.jpg"
 }

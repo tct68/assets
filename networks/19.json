@@ -3,10 +3,7 @@
   "chain": "SGB",
   "icon": "songbird",
   "rpc": [
-    "https://songbird-api.flare.network/ext/C/rpc",
-    "https://sgb.ftso.com.au/ext/bc/C/rpc",
-    "https://sgb.lightft.so/rpc",
-    "https://sgb-rpc.ftso.eu"
+    "https://songbird.towolabs.com/rpc"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -25,7 +22,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_songbird.jpg",
-  "tvl": 13634350.765826244,
+  "tvl": 13563800.78297708,
   "chainSlug": "songbird"
 }

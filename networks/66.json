@@ -3,7 +3,7 @@
   "chain": "okxchain",
   "rpc": [
     "https://exchainrpc.okex.org",
-    "https://okc-mainnet.gateway.pokt.network/v1/lb/6275309bea1b320039c893ff"
+    "https://oktc-mainnet.public.blastapi.io"
   ],
   "faucets": [
     "https://free-online-app.com/faucet-for-eth-evm-chains/?"
@@ -24,7 +24,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_okexchain.jpg",
-  "tvl": 109553546.66859694,
+  "tvl": 109611419.82810345,
   "chainSlug": "okexchain"
 }

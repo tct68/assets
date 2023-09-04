@@ -22,5 +22,6 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_sx.jpg"
 }

@@ -3,7 +3,8 @@
   "chain": "Heco",
   "rpc": [
     "https://http-mainnet.hecochain.com",
-    "wss://ws-mainnet.hecochain.com"
+    "https://http-mainnet-node.huobichain.com",
+    "https://hecoapi.terminet.io/rpc"
   ],
   "faucets": [
     "https://free-online-app.com/faucet-for-eth-evm-chains/"
@@ -25,7 +26,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_heco.jpg",
-  "tvl": 50228514.3967713,
+  "tvl": 50232547.8924498,
   "chainSlug": "heco"
 }

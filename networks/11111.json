@@ -3,7 +3,7 @@
   "chain": "WAGMI",
   "icon": "wagmi",
   "rpc": [
-    "https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc"
+    "https://api.trywagmi.xyz/rpc"
   ],
   "faucets": [
     "https://faucet.avax.network/?subnet=wagmi"
@@ -23,5 +23,6 @@
       "url": "https://subnets-test.avax.network/wagmi",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

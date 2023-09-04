@@ -2,7 +2,7 @@
   "name": "ShibaChain",
   "chain": "SHIB",
   "rpc": [
-    "https://rpc.shibchain.org"
+    "https://rpc.shibachain.net"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -20,5 +20,6 @@
       "url": "https://exp.shibchain.org",
       "standard": "none"
     }
-  ]
+  ],
+  "isDefault": false
 }

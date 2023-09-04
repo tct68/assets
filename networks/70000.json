@@ -1,9 +1,7 @@
 {
   "name": "Thinkium Mainnet Chain 0",
   "chain": "Thinkium",
-  "rpc": [
-    "https://proxy.thinkiumrpc.net/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "TKM",
@@ -20,5 +18,6 @@
       "url": "https://chain0.thinkiumscan.net",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

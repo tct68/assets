@@ -3,7 +3,15 @@
   "chain": "MOON",
   "rpc": [
     "https://rpc.api.moonbeam.network",
-    "wss://wss.api.moonbeam.network"
+    "https://moonbeam.api.onfinality.io/public",
+    "wss://moonbeam.api.onfinality.io/public-ws",
+    "https://moonbeam.unitedbloc.com:3000",
+    "wss://moonbeam.unitedbloc.com:3001",
+    "https://moonbeam.public.blastapi.io",
+    "https://rpc.ankr.com/moonbeam",
+    "https://1rpc.io/glmr",
+    "https://moonbeam-rpc.dwellir.com",
+    "wss://moonbeam-rpc.dwellir.com"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -22,7 +30,8 @@
       "standard": "none"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_moonbeam.jpg",
-  "tvl": 39240627.60883524,
+  "tvl": 39245519.08050537,
   "chainSlug": "moonbeam"
 }

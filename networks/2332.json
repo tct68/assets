@@ -2,10 +2,8 @@
   "name": "SOMA Network Mainnet",
   "chain": "SOMA",
   "rpc": [
-    "https://data-mainnet-v1.somanetwork.io/",
-    "https://id-mainnet.somanetwork.io",
-    "https://hk-mainnet.somanetwork.io",
-    "https://sg-mainnet.somanetwork.io"
+    "https://data-mainnet-v1.somanetwork.io",
+    "https://block-mainnet-v1.somanetwork.io"
   ],
   "faucets": [
     "https://airdrop.somanetwork.io"
@@ -29,5 +27,6 @@
       "standard": "none"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_soma.jpg"
 }

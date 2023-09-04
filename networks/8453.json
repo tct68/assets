@@ -2,11 +2,17 @@
   "name": "Base",
   "chain": "ETH",
   "rpc": [
-    "https://mainnet.base.org/",
-    "https://developer-access-mainnet.base.org/",
+    "https://developer-access-mainnet.base.org",
+    "https://base-mainnet.diamondswap.org/rpc",
+    "https://base.blockpi.network/v1/rpc/public",
+    "https://1rpc.io/base",
+    "https://base.meowrpc.com",
+    "https://base-mainnet.public.blastapi.io",
     "https://base.gateway.tenderly.co",
-    "wss://base.gateway.tenderly.co",
-    "https://base.publicnode.com"
+    "https://gateway.tenderly.co/public/base",
+    "https://rpc.notadegen.com/base",
+    "https://base.publicnode.com",
+    "https://base.drpc.org"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -33,7 +39,8 @@
     }
   ],
   "status": "active",
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_base.jpg",
-  "tvl": 431834759.7060147,
+  "tvl": 431458551.43037426,
   "chainSlug": "base"
 }

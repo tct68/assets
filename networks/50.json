@@ -2,10 +2,12 @@
   "name": "XinFin XDC Network",
   "chain": "XDC",
   "rpc": [
+    "https://rpc.xdcrpc.com",
+    "https://rpc1.xinfin.network",
     "https://erpc.xinfin.network",
     "https://rpc.xinfin.network",
-    "https://rpc1.xinfin.network",
-    "https://rpc-xdc.icecreamswap.com"
+    "https://rpc-xdc.icecreamswap.com",
+    "https://erpc.xdcrpc.com"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -32,7 +34,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_xdc.jpg",
-  "tvl": 3590460.1690263897,
+  "tvl": 3575529.4514413737,
   "chainSlug": "xdc"
 }

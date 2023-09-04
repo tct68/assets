@@ -2,7 +2,8 @@
   "name": "Conflux eSpace",
   "chain": "Conflux",
   "rpc": [
-    "https://evm.confluxrpc.com"
+    "https://evm.confluxrpc.com",
+    "https://conflux-espace-public.unifra.io"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -21,5 +22,6 @@
       "url": "https://evm.confluxscan.net",
       "standard": "none"
     }
-  ]
+  ],
+  "isDefault": false
 }

@@ -2,7 +2,7 @@
   "name": "Ecoball Mainnet",
   "chain": "ECO",
   "rpc": [
-    "https://api.ecoball.org/ecoball/"
+    "https://api.ecoball.org/ecoball"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -20,5 +20,6 @@
       "url": "https://scan.ecoball.org",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

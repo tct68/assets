@@ -2,8 +2,8 @@
   "name": "Tres Mainnet",
   "chain": "TresLeches",
   "rpc": [
-    "https://rpc.tresleches.finance/",
-    "https://rpc.treschain.io/"
+    "https://rpc.tresleches.finance",
+    "https://rpc.treschain.io"
   ],
   "faucets": [],
   "nativeCurrency": {

@@ -2,7 +2,7 @@
   "name": "Teslafunds",
   "chain": "TSF",
   "rpc": [
-    "https://tsfapi.europool.me"
+    "rpcWorking:false"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -13,5 +13,6 @@
   "infoURL": "https://teslafunds.io",
   "shortName": "tsf",
   "chainId": 1856,
-  "networkId": 1
+  "networkId": 1,
+  "isDefault": false
 }

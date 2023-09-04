@@ -2,9 +2,13 @@
   "name": "Base Goerli Testnet",
   "chain": "ETH",
   "rpc": [
-    "https://goerli.base.org",
+    "https://base-goerli.diamondswap.org/rpc",
+    "https://base-goerli.public.blastapi.io",
+    "https://1rpc.io/base-goerli",
+    "https://base-goerli.blockpi.network/v1/rpc/public",
     "https://base-goerli.gateway.tenderly.co",
-    "wss://base-goerli.gateway.tenderly.co",
+    "https://gateway.tenderly.co/public/base-goerli",
+    "https://rpc.notadegen.com/base/goerli",
     "https://base-goerli.publicnode.com"
   ],
   "faucets": [
@@ -32,5 +36,6 @@
       "icon": "blockscout",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

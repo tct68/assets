@@ -2,8 +2,8 @@
   "name": "Acala Network",
   "chain": "ACA",
   "rpc": [
-    "https://eth-rpc-acala.aca-api.network",
-    "wss://eth-rpc-acala.aca-api.network"
+    "https://eth-rpc-acala.aca-staging.network",
+    "https://rpc.evm.acala.network"
   ],
   "features": [
     {
@@ -30,5 +30,6 @@
       "url": "https://blockscout.acala.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

@@ -3,7 +3,8 @@
   "chain": "Oasys",
   "icon": "oasys",
   "rpc": [
-    "https://rpc.mainnet.oasys.games"
+    "https://oasys-rpc.gateway.pokt.network",
+    "https://oasys.blockpi.network/v1/rpc/public"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -22,7 +23,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_oasys.jpg",
-  "tvl": 1536638.3594258388,
+  "tvl": 1535936.6029732109,
   "chainSlug": "oasys"
 }

@@ -2,7 +2,8 @@
   "name": "Wanchain",
   "chain": "WAN",
   "rpc": [
-    "https://gwan-ssl.wandevs.org:56891/"
+    "https://gwan-ssl.wandevs.org:56891",
+    "https://gwan2-ssl.wandevs.org"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -15,7 +16,8 @@
   "chainId": 888,
   "networkId": 888,
   "slip44": 5718350,
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_wanchain.jpg",
-  "tvl": 4648298.146713216,
+  "tvl": 4643686.897511109,
   "chainSlug": "wanchain"
 }

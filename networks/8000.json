@@ -2,7 +2,7 @@
   "name": "Teleport",
   "chain": "Teleport",
   "rpc": [
-    "https://evm-rpc.teleport.network"
+    "https://dataseed.testnet.teleport.network"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -28,5 +28,6 @@
       "standard": "none",
       "icon": "teleport"
     }
-  ]
+  ],
+  "isDefault": false
 }

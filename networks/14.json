@@ -2,9 +2,7 @@
   "name": "Flare Mainnet",
   "chain": "FLR",
   "icon": "flare",
-  "rpc": [
-    "https://flare-api.flare.network/ext/C/rpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Flare",
@@ -21,5 +19,6 @@
       "url": "https://flare-explorer.flare.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

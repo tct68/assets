@@ -2,8 +2,6 @@
   "name": "Syscoin Tanenbaum Testnet",
   "chain": "SYS",
   "rpc": [
-    "https://rpc.tanenbaum.io",
-    "wss://rpc.tanenbaum.io/wss",
     "https://syscoin-tanenbaum-evm.publicnode.com"
   ],
   "faucets": [
@@ -24,5 +22,6 @@
       "url": "https://tanenbaum.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

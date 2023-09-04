@@ -30,5 +30,6 @@
         "url": "https://bridge.testnet.evm.eosnetwork.com"
       }
     ]
-  }
+  },
+  "isDefault": false
 }

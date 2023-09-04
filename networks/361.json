@@ -21,7 +21,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_theta.jpg",
-  "tvl": 942731.3326741548,
+  "tvl": 942444.4422241948,
   "chainSlug": "theta"
 }

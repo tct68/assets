@@ -2,9 +2,7 @@
   "name": "TLChain Network Mainnet",
   "chain": "TLC",
   "icon": "tlc",
-  "rpc": [
-    "https://mainnet-rpc.tlxscan.com/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "TLChain Network",
@@ -21,5 +19,6 @@
       "url": "https://explorer.tlchain.network",
       "standard": "none"
     }
-  ]
+  ],
+  "isDefault": false
 }

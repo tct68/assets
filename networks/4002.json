@@ -3,6 +3,9 @@
   "chain": "FTM",
   "rpc": [
     "https://rpc.testnet.fantom.network",
+    "https://endpoints.omniatech.io/v1/fantom/testnet/public",
+    "https://rpc.ankr.com/fantom_testnet",
+    "https://fantom-testnet.public.blastapi.io",
     "https://fantom-testnet.publicnode.com"
   ],
   "faucets": [
@@ -25,5 +28,6 @@
       "icon": "ftmscan",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

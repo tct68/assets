@@ -2,8 +2,13 @@
   "name": "Moonriver",
   "chain": "MOON",
   "rpc": [
-    "https://rpc.api.moonriver.moonbeam.network",
-    "wss://wss.api.moonriver.moonbeam.network"
+    "wss://moonriver.api.onfinality.io/public-ws",
+    "https://moonriver.api.onfinality.io/public",
+    "https://moonriver.unitedbloc.com:2000",
+    "wss://moonriver.unitedbloc.com:2001",
+    "https://moonriver.public.blastapi.io",
+    "https://moonriver-rpc.dwellir.com",
+    "wss://moonriver-rpc.dwellir.com"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -22,7 +27,8 @@
       "standard": "none"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_moonriver.jpg",
-  "tvl": 5938150.255253221,
+  "tvl": 5937622.560539615,
   "chainSlug": "moonriver"
 }

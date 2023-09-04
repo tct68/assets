@@ -2,7 +2,16 @@
   "name": "Evmos",
   "chain": "Evmos",
   "rpc": [
-    "https://evmos-evm.publicnode.com"
+    "https://eth.bd.evmos.org:8545",
+    "https://evmos-mainnet.gateway.pokt.network/v1/lb/627586ddea1b320039c95205",
+    "https://evmos-json-rpc.stakely.io",
+    "https://jsonrpc-evmos-ia.cosmosia.notional.ventures",
+    "https://json-rpc.evmos.blockhunters.org",
+    "https://evmos-json-rpc.agoranodes.com",
+    "https://evmos-mainnet.public.blastapi.io",
+    "https://evmos-evm.publicnode.com",
+    "https://jsonrpc-evmos.goldenratiostaking.net",
+    "https://evmos.api.onfinality.io/public"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -23,7 +32,8 @@
       "icon": "evmos"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_evmos.jpg",
-  "tvl": 2212649.16425225,
+  "tvl": 2221375.2314433088,
   "chainSlug": "evmos"
 }

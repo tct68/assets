@@ -3,8 +3,8 @@
   "title": "Ethereum Testnet Rinkeby",
   "chain": "ETH",
   "rpc": [
-    "https://rinkeby.infura.io/v3/${INFURA_API_KEY}",
-    "wss://rinkeby.infura.io/ws/v3/${INFURA_API_KEY}"
+    "https://rpc.ankr.com/eth_rinkeby",
+    "https://rinkeby.infura.io/3/9aa3d95b3bc440fa88ea12eaa4456161"
   ],
   "faucets": [
     "http://fauceth.komputing.org?chain=4&address=${ADDRESS}",
@@ -28,5 +28,6 @@
       "url": "https://rinkeby.etherscan.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

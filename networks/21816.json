@@ -3,7 +3,7 @@
   "chain": "OML",
   "icon": "omlira",
   "rpc": [
-    "https://seed.omchain.io"
+    "https://seed.omlira.com"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -21,5 +21,6 @@
       "url": "https://explorer.omchain.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

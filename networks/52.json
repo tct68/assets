@@ -2,7 +2,11 @@
   "name": "CoinEx Smart Chain Mainnet",
   "chain": "CSC",
   "rpc": [
-    "https://rpc.coinex.net"
+    "https://rpc.coinex.net",
+    "https://rpc1.coinex.net",
+    "https://rpc2.coinex.net",
+    "https://rpc3.coinex.net",
+    "https://rpc4.coinex.net"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -21,7 +25,8 @@
       "standard": "none"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_csc.jpg",
-  "tvl": 1830194.0796144274,
+  "tvl": 1846199.5948725906,
   "chainSlug": "csc"
 }

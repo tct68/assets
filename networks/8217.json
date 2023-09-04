@@ -2,7 +2,12 @@
   "name": "Klaytn Mainnet Cypress",
   "chain": "KLAY",
   "rpc": [
-    "https://public-node-api.klaytnapi.com/v1/cypress"
+    "https://public-node-api.klaytnapi.com/v1/cypress",
+    "https://cypress.fautor.app/archive",
+    "https://klaytn.blockpi.network/v1/rpc/public",
+    "https://klaytn.api.onfinality.io/public",
+    "https://1rpc.io/klay",
+    "https://klaytn.drpc.org"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -22,7 +27,8 @@
       "standard": "none"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_klaytn.jpg",
-  "tvl": 168167610.0807002,
+  "tvl": 168095149.61320558,
   "chainSlug": "klaytn"
 }

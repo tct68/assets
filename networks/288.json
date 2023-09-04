@@ -3,11 +3,9 @@
   "chain": "ETH",
   "rpc": [
     "https://mainnet.boba.network",
-    "https://replica.boba.network",
+    "https://boba-mainnet.gateway.pokt.network/v1/lb/623ad21b20354900396fed7f",
     "https://boba-ethereum.gateway.tenderly.co",
-    "https://gateway.tenderly.co/public/boba-ethereum",
-    "wss://boba-ethereum.gateway.tenderly.co/",
-    "wss://gateway.tenderly.co/public/boba-ethereum"
+    "https://gateway.tenderly.co/public/boba-ethereum"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -40,7 +38,8 @@
       }
     ]
   },
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_boba.jpg",
-  "tvl": 1868052.9004730736,
+  "tvl": 1868865.1430022444,
   "chainSlug": "boba"
 }

@@ -3,7 +3,10 @@
   "chain": "ETH",
   "status": "deprecated",
   "rpc": [
-    "https://alpha-rpc.scroll.io/l2"
+    "https://scroll-alpha-public.unifra.io",
+    "https://scroll-alphanet.public.blastapi.io",
+    "https://scroll-testnet.blockpi.network/v1/rpc/public",
+    "https://scroll-alphanet.public.blastapi.io"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -26,5 +29,6 @@
     "type": "L2",
     "chain": "eip155-5",
     "bridges": []
-  }
+  },
+  "isDefault": false
 }

@@ -2,7 +2,7 @@
   "name": "TechPay Mainnet",
   "chain": "TPC",
   "rpc": [
-    "https://api.techpay.io/"
+    "https://api.techpay.io"
   ],
   "faucets": [],
   "nativeCurrency": {

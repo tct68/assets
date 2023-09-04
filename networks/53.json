@@ -2,7 +2,7 @@
   "name": "CoinEx Smart Chain Testnet",
   "chain": "CSC",
   "rpc": [
-    "https://testnet-rpc.coinex.net/"
+    "https://testnet-rpc.coinex.net"
   ],
   "faucets": [],
   "nativeCurrency": {

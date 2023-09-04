@@ -2,9 +2,7 @@
   "name": "ThunderCore Mainnet",
   "chain": "TT",
   "rpc": [
-    "https://mainnet-rpc.thundercore.com",
-    "https://mainnet-rpc.thundertoken.net",
-    "https://mainnet-rpc.thundercore.io"
+    "https://mainnet-rpc.thundercore.com"
   ],
   "faucets": [
     "https://faucet.thundercore.com"
@@ -26,7 +24,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_thundercore.jpg",
-  "tvl": 3917537.7476418084,
+  "tvl": 3918378.3359803995,
   "chainSlug": "thundercore"
 }

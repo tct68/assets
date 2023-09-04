@@ -2,8 +2,7 @@
   "name": "REI Network",
   "chain": "REI",
   "rpc": [
-    "https://rpc.rei.network",
-    "wss://rpc.rei.network"
+    "https://rpc.rei.network"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -22,7 +21,8 @@
       "standard": "none"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_rei.jpg",
-  "tvl": 9474.454108050446,
+  "tvl": 9474.59011007759,
   "chainSlug": "rei"
 }

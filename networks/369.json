@@ -6,8 +6,6 @@
   "networkId": 369,
   "infoURL": "https://pulsechain.com/",
   "rpc": [
-    "https://rpc.pulsechain.com",
-    "wss://rpc.pulsechain.com",
     "https://pulsechain.publicnode.com"
   ],
   "features": [
@@ -28,7 +26,8 @@
     "symbol": "PLS",
     "decimals": 18
   },
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_pulse.jpg",
-  "tvl": 126848530.37174769,
+  "tvl": 126206892.27015482,
   "chainSlug": "pulse"
 }

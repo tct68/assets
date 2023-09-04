@@ -2,7 +2,7 @@
   "name": "Candle",
   "chain": "Candle",
   "rpc": [
-    "https://candle-rpc.com/",
+    "https://candle-rpc.com",
     "https://rpc.cndlchain.com"
   ],
   "faucets": [],

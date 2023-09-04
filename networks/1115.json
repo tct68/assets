@@ -3,7 +3,7 @@
   "chain": "Core",
   "icon": "core",
   "rpc": [
-    "https://rpc.test.btcs.network/"
+    "https://rpc.test.btcs.network"
   ],
   "faucets": [
     "https://scan.test.btcs.network/faucet"
@@ -24,5 +24,6 @@
       "icon": "core",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

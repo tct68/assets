@@ -1,9 +1,7 @@
 {
   "name": "Web3Q Mainnet",
   "chain": "Web3Q",
-  "rpc": [
-    "https://mainnet.web3q.io:8545"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Web3Q",
@@ -20,5 +18,6 @@
       "url": "https://explorer.mainnet.web3q.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

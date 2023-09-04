@@ -1,9 +1,7 @@
 {
   "name": "Atheios",
   "chain": "ATH",
-  "rpc": [
-    "https://rpc.atheios.org/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Atheios Ether",
@@ -14,5 +12,6 @@
   "shortName": "ath",
   "chainId": 1620,
   "networkId": 11235813,
-  "slip44": 1620
+  "slip44": 1620,
+  "isDefault": false
 }

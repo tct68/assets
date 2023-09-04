@@ -4,15 +4,15 @@
   "icon": "gnosis",
   "rpc": [
     "https://rpc.gnosischain.com",
+    "https://xdai-rpc.gateway.pokt.network",
+    "https://xdai-archive.blockscout.com",
     "https://rpc.gnosis.gateway.fm",
-    "https://rpc.ankr.com/gnosis",
-    "https://gnosischain-rpc.gateway.pokt.network",
     "https://gnosis-mainnet.public.blastapi.io",
-    "https://gnosis.api.onfinality.io/public",
+    "https://rpc.ankr.com/gnosis",
+    "https://rpc.ap-southeast-1.gateway.fm/v4/gnosis/non-archival/mainnet",
     "https://gnosis.blockpi.network/v1/rpc/public",
-    "https://web3endpoints.com/gnosischain-mainnet",
-    "https://gnosis.oat.farm",
-    "wss://rpc.gnosischain.com/wss"
+    "https://gnosis.api.onfinality.io/public",
+    "https://gnosis.drpc.org"
   ],
   "faucets": [
     "https://gnosisfaucet.com",
@@ -42,7 +42,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_xdai.jpg",
-  "tvl": 80422533.61193292,
+  "tvl": 80407465.99782453,
   "chainSlug": "xdai"
 }

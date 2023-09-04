@@ -1,9 +1,7 @@
 {
   "name": "Ambros Chain Mainnet",
   "chain": "ambroschain",
-  "rpc": [
-    "https://api.ambros.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "AMBROS",
@@ -20,5 +18,6 @@
       "url": "https://ambrosscan.com",
       "standard": "none"
     }
-  ]
+  ],
+  "isDefault": false
 }

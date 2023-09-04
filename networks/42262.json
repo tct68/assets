@@ -4,7 +4,7 @@
   "icon": "oasis",
   "rpc": [
     "https://emerald.oasis.dev",
-    "wss://emerald.oasis.dev/ws"
+    "https://1rpc.io/oasis/emerald"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -23,7 +23,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_oasis.jpg",
-  "tvl": 1617729.0246442403,
+  "tvl": 1618737.9684888911,
   "chainSlug": "oasis"
 }

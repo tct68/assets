@@ -3,8 +3,8 @@
   "chain": "Raba",
   "icon": "raba",
   "rpc": [
-    "https://rpc.x.raba.app/",
-    "wss://rpc.x.raba.app/ws/"
+    "https://rpc.x.raba.app",
+    "wss://rpc.x.raba.app/ws"
   ],
   "faucets": [],
   "nativeCurrency": {

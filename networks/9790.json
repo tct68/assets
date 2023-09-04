@@ -3,7 +3,7 @@
   "chain": "Carbon",
   "icon": "carbon",
   "rpc": [
-    "https://evm-api.carbon.network/"
+    "https://evm-api.carbon.network"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -17,6 +17,6 @@
   "networkId": 9790,
   "explorers": [],
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_carbon.jpg",
-  "tvl": 1831069.7975577433,
+  "tvl": 1828161.6382756922,
   "chainSlug": "carbon"
 }

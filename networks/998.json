@@ -1,11 +1,7 @@
 {
   "name": "Lucky Network",
   "chain": "LN",
-  "rpc": [
-    "https://rpc.luckynetwork.org",
-    "wss://ws.lnscan.org",
-    "https://rpc.lnscan.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Lucky",
@@ -28,5 +24,6 @@
       "url": "https://lnscan.org",
       "standard": "none"
     }
-  ]
+  ],
+  "isDefault": false
 }

@@ -2,7 +2,10 @@
   "name": "Kekchain",
   "chain": "kek",
   "rpc": [
-    "https://mainnet.kekchain.com"
+    "https://mainnet.kekchain.com",
+    "https://rpc2.kekchain.com",
+    "https://kek.interchained.org",
+    "https://kekchain.interchained.org"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -23,6 +26,7 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_kekchain.jpg",
   "tvl": 169.8213767860634,
   "chainSlug": "kekchain"

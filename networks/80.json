@@ -2,7 +2,7 @@
   "name": "GeneChain",
   "chain": "GeneChain",
   "rpc": [
-    "https://rpc.genechain.io"
+    "website:https://genechain.io/en/index.html"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -20,5 +20,6 @@
       "url": "https://scan.genechain.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

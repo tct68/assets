@@ -2,7 +2,8 @@
   "name": "Elastos Smart Chain",
   "chain": "ETH",
   "rpc": [
-    "https://api.elastos.io/eth"
+    "https://api.elastos.io/esc",
+    "https://api.trinity-tech.io/esc"
   ],
   "faucets": [
     "https://faucet.elastos.org/"
@@ -23,7 +24,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_elastos.jpg",
-  "tvl": 1625310.2241797051,
+  "tvl": 1624120.8561131516,
   "chainSlug": "elastos"
 }

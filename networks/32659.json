@@ -3,8 +3,10 @@
   "chain": "FSN",
   "icon": "fusion",
   "rpc": [
-    "https://mainnet.fusionnetwork.io",
-    "wss://mainnet.fusionnetwork.io"
+    "https://mainnet.anyswap.exchange",
+    "https://mainway.freemoon.xyz/gate",
+    "https://fsn.dev/api",
+    "https://mainnet.fusionnetwork.io"
   ],
   "features": [
     {
@@ -33,7 +35,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_fusion.jpg",
-  "tvl": 157582483.57580093,
+  "tvl": 157604594.75526023,
   "chainSlug": "fusion"
 }

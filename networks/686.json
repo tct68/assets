@@ -2,8 +2,8 @@
   "name": "Karura Network",
   "chain": "KAR",
   "rpc": [
-    "https://eth-rpc-karura.aca-api.network",
-    "wss://eth-rpc-karura.aca-api.network"
+    "https://eth-rpc-karura.aca-staging.network",
+    "https://rpc.evm.karura.network"
   ],
   "features": [
     {
@@ -30,5 +30,6 @@
       "url": "https://blockscout.karura.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

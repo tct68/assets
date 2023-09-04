@@ -24,6 +24,7 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_gochain.jpg",
   "tvl": 12063.248819245295,
   "chainSlug": "gochain"

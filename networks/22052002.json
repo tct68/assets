@@ -3,7 +3,7 @@
   "chain": "XLON",
   "icon": "xlon",
   "rpc": [
-    "https://edgewallet1.xlon.org/"
+    "https://edgewallet1.xlon.org"
   ],
   "faucets": [],
   "nativeCurrency": {

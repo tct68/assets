@@ -2,9 +2,7 @@
   "name": "POA Network Sokol",
   "chain": "POA",
   "rpc": [
-    "https://sokol.poa.network",
-    "wss://sokol.poa.network/wss",
-    "ws://sokol.poa.network:8546"
+    "https://sokol.poa.network"
   ],
   "faucets": [
     "https://faucet.poa.network"
@@ -25,5 +23,6 @@
       "icon": "blockscout",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

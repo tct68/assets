@@ -2,7 +2,6 @@
   "name": "QuarkChain Devnet Shard 0",
   "chain": "QuarkChain",
   "rpc": [
-    "https://devnet-s0-ethapi.quarkchain.io",
     "http://eth-jrpc.devnet.quarkchain.io:39900"
   ],
   "faucets": [],
@@ -25,5 +24,6 @@
       "url": "https://devnet.quarkchain.io/0",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

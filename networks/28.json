@@ -2,7 +2,7 @@
   "name": "Boba Network Rinkeby Testnet",
   "chain": "ETH",
   "rpc": [
-    "https://rinkeby.boba.network/"
+    "https://rinkeby.boba.network"
   ],
   "faucets": [],
   "nativeCurrency": {

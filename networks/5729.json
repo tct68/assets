@@ -4,7 +4,7 @@
   "chain": "HIK",
   "icon": "hik",
   "rpc": [
-    "https://rpc-testnet.hika.network/"
+    "https://rpc-testnet.hika.network"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -22,5 +22,6 @@
       "url": "https://scan-testnet.hika.network",
       "standard": "none"
     }
-  ]
+  ],
+  "isDefault": false
 }

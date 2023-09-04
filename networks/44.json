@@ -2,7 +2,7 @@
   "name": "Darwinia Crab Network",
   "chain": "crab",
   "rpc": [
-    "https://crab-rpc.darwinia.network"
+    "https://crab.api.onfinality.io/public"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -20,5 +20,6 @@
       "url": "https://crab.subscan.io",
       "standard": "none"
     }
-  ]
+  ],
+  "isDefault": false
 }

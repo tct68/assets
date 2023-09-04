@@ -3,7 +3,13 @@
   "chain": "ETH",
   "status": "active",
   "rpc": [
-    "https://sepolia-rpc.scroll.io/"
+    "https://scroll-sepolia.blockpi.network/v1/rpc/public",
+    "http://scroll-testnet-public.unifra.io",
+    "https://rpc.ankr.com/scroll_sepolia_testnet",
+    "https://1rpc.io/scroll/sepolia",
+    "https://scroll-public.scroll-testnet.quiknode.pro",
+    "https://scroll-sepolia.chainstacklabs.com",
+    "http://scroll-sepolia-rpc.01no.de:8545"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -30,5 +36,6 @@
         "url": "https://scroll.io/bridge"
       }
     ]
-  }
+  },
+  "isDefault": false
 }

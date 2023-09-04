@@ -2,20 +2,39 @@
   "name": "BNB Smart Chain Mainnet",
   "chain": "BSC",
   "rpc": [
-    "https://bsc-dataseed1.bnbchain.org",
-    "https://bsc-dataseed2.bnbchain.org",
-    "https://bsc-dataseed3.bnbchain.org",
-    "https://bsc-dataseed4.bnbchain.org",
+    "https://bsc-dataseed.binance.org",
     "https://bsc-dataseed1.defibit.io",
+    "https://bsc-dataseed1.ninicoin.io",
     "https://bsc-dataseed2.defibit.io",
     "https://bsc-dataseed3.defibit.io",
     "https://bsc-dataseed4.defibit.io",
-    "https://bsc-dataseed1.ninicoin.io",
     "https://bsc-dataseed2.ninicoin.io",
     "https://bsc-dataseed3.ninicoin.io",
     "https://bsc-dataseed4.ninicoin.io",
+    "https://bsc-dataseed1.binance.org",
+    "https://bsc-dataseed2.binance.org",
+    "https://bsc-dataseed3.binance.org",
+    "https://bsc-dataseed4.binance.org",
+    "https://rpc-bsc.48.club",
+    "https://koge-rpc-bsc.48.club",
+    "https://endpoints.omniatech.io/v1/bsc/mainnet/public",
+    "https://bsc-rpc.gateway.pokt.network",
+    "https://bsc-mainnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3",
+    "https://rpc.ankr.com/bsc",
+    "https://bscrpc.com",
+    "https://bsc.rpcgator.com",
+    "https://binance.nodereal.io",
+    "https://bsc-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf",
+    "https://nodes.vefinetwork.org/smartchain",
+    "https://1rpc.io/bnb",
+    "https://bsc.rpc.blxrbdn.com",
+    "https://bsc.blockpi.network/v1/rpc/public",
+    "https://bnb.api.onfinality.io/public",
     "https://bsc.publicnode.com",
-    "wss://bsc-ws-node.nariox.org"
+    "https://bsc-mainnet.public.blastapi.io",
+    "https://bsc.meowrpc.com",
+    "https://api.zan.top/node/v1/bsc/mainnet/public",
+    "https://bsc.drpc.org"
   ],
   "faucets": [
     "https://free-online-app.com/faucet-for-eth-evm-chains/"
@@ -37,7 +56,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_binance.jpg",
-  "tvl": 3517697743.8744326,
+  "tvl": 3519100519.667532,
   "chainSlug": "binance"
 }

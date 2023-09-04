@@ -2,8 +2,7 @@
   "name": "Ubiq",
   "chain": "UBQ",
   "rpc": [
-    "https://rpc.octano.dev",
-    "https://pyrus2.ubiqscan.io"
+    "https://rpc.octano.dev"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -23,7 +22,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_ubiq.jpg",
-  "tvl": 60825.753474333316,
+  "tvl": 60826.196334852124,
   "chainSlug": "ubiq"
 }

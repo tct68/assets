@@ -16,5 +16,6 @@
   "shortName": "ETL",
   "chainId": 111,
   "networkId": 111,
-  "icon": "etherlite"
+  "icon": "etherlite",
+  "isDefault": false
 }

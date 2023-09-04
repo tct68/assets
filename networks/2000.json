@@ -4,8 +4,14 @@
   "icon": "dogechain",
   "rpc": [
     "https://rpc.dogechain.dog",
+    "https://rpc-us.dogechain.dog",
+    "https://rpc-sg.dogechain.dog",
+    "https://rpc.dogechain.dog",
     "https://rpc01-sg.dogechain.dog",
-    "https://rpc.ankr.com/dogechain"
+    "https://rpc02-sg.dogechain.dog",
+    "https://rpc03-sg.dogechain.dog",
+    "https://dogechain.ankr.com",
+    "https://dogechain-sj.ankr.com"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -24,7 +30,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_dogechain.jpg",
-  "tvl": 2540414.965229676,
+  "tvl": 2553154.1901210053,
   "chainSlug": "dogechain"
 }

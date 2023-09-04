@@ -3,7 +3,7 @@
   "chain": "Ctex Scan Blockchain",
   "icon": "ctex",
   "rpc": [
-    "https://mainnet-rpc.ctexscan.com/"
+    "https://mainnet-rpc.ctexscan.com"
   ],
   "faucets": [
     "https://faucet.ctexscan.com"

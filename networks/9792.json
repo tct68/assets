@@ -3,7 +3,7 @@
   "chain": "Carbon",
   "icon": "carbon",
   "rpc": [
-    "https://test-evm-api.carbon.network/"
+    "https://test-evm-api.carbon.network"
   ],
   "faucets": [],
   "nativeCurrency": {

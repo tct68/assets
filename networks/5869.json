@@ -2,8 +2,7 @@
   "name": "Wegochain Rubidium Mainnet",
   "chain": "RBD",
   "rpc": [
-    "https://proxy.wegochain.io",
-    "http://wallet.wegochain.io:7764"
+    "https://proxy.wegochain.io"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -21,5 +20,6 @@
       "url": "https://scan2.wegochain.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

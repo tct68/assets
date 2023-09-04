@@ -20,5 +20,6 @@
       "url": "https://testnet.plian.org/testnet",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

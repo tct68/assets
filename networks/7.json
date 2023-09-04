@@ -2,8 +2,7 @@
   "name": "ThaiChain",
   "chain": "TCH",
   "rpc": [
-    "https://rpc.dome.cloud",
-    "https://rpc.thaichain.org"
+    "https://rpc.dome.cloud"
   ],
   "faucets": [],
   "features": [
@@ -29,5 +28,6 @@
       "url": "https://exp.thaichain.org",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

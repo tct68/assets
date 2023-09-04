@@ -2,7 +2,7 @@
   "name": "Canto Testnet",
   "chain": "Canto Tesnet",
   "rpc": [
-    "https://eth.plexnode.wtf/"
+    "https://eth.plexnode.wtf"
   ],
   "faucets": [],
   "nativeCurrency": {

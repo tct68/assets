@@ -3,7 +3,7 @@
   "chain": "Unified",
   "icon": "markrgo",
   "rpc": [
-    "https://rpc.markr.io/ext/"
+    "https://rpc.markr.io/ext"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -16,5 +16,6 @@
   "chainId": 431140,
   "networkId": 431140,
   "explorers": [],
-  "status": "incubating"
+  "status": "incubating",
+  "isDefault": false
 }

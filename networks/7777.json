@@ -2,11 +2,11 @@
   "name": "Rise of the Warbots Testnet",
   "chain": "nmactest",
   "rpc": [
-    "https://testnet1.riseofthewarbots.com",
-    "https://testnet2.riseofthewarbots.com",
-    "https://testnet3.riseofthewarbots.com",
-    "https://testnet4.riseofthewarbots.com",
-    "https://testnet5.riseofthewarbots.com"
+    "https://testnet1.rotw.games",
+    "https://testnet2.rotw.games",
+    "https://testnet3.rotw.games",
+    "https://testnet4.rotw.games",
+    "https://testnet5.rotw.games"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -24,5 +24,6 @@
       "url": "https://testnet.avascan.info/blockchain/2mZ9doojfwHzXN3VXDQELKnKyZYxv7833U8Yq5eTfFx3hxJtiy",
       "standard": "none"
     }
-  ]
+  ],
+  "isDefault": false
 }

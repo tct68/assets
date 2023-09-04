@@ -2,9 +2,7 @@
   "name": "MAP Mainnet",
   "chain": "MAP",
   "icon": "map",
-  "rpc": [
-    "https://rpc.maplabs.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "MAP",
@@ -22,5 +20,6 @@
       "url": "https://mapscan.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

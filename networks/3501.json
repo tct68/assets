@@ -2,6 +2,7 @@
   "name": "JFIN Chain",
   "chain": "JFIN",
   "rpc": [
+    "https://rpc.jfinchain.com",
     "https://rpc.jfinchain.com"
   ],
   "faucets": [],
@@ -20,5 +21,6 @@
       "url": "https://exp.jfinchain.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

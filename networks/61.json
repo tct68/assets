@@ -2,7 +2,16 @@
   "name": "Ethereum Classic Mainnet",
   "chain": "ETC",
   "rpc": [
-    "https://etc.rivet.link"
+    "https://etc.rivet.link",
+    "https://etc.etcdesktop.com",
+    "https://etc.mytokenpocket.vip",
+    "https://besu-de.etc-network.info",
+    "https://geth-de.etc-network.info",
+    "https://erigon-de.etc-network.info",
+    "https://besu-at.etc-network.info",
+    "https://geth-at.etc-network.info",
+    "https://erigon-at.etc-network.info",
+    "https://rpc.etcplanets.com"
   ],
   "faucets": [
     "https://free-online-app.com/faucet-for-eth-evm-chains/?"
@@ -24,7 +33,8 @@
       "standard": "none"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_ethereumclassic.jpg",
-  "tvl": 259954.0173760197,
+  "tvl": 262018.16656465377,
   "chainSlug": "ethereumclassic"
 }

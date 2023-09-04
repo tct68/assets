@@ -25,5 +25,6 @@
       "url": "https://explorer.evm.testnet.shimmer.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

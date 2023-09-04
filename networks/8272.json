@@ -3,7 +3,7 @@
   "chain": "Blockton Blockchain",
   "icon": "bton",
   "rpc": [
-    "https://rpc.blocktonscan.com/"
+    "https://rpc.blocktonscan.com"
   ],
   "faucets": [
     "https://faucet.blocktonscan.com/"

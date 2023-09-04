@@ -1,9 +1,7 @@
 {
   "name": "SPS Testnet",
   "chain": "SPS-Testnet",
-  "rpc": [
-    "https://www.3sps.net"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ECG",
@@ -20,5 +18,6 @@
       "url": "https://explorer.3sps.net",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

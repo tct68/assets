@@ -2,7 +2,8 @@
   "name": "Metis Andromeda Mainnet",
   "chain": "ETH",
   "rpc": [
-    "https://andromeda.metis.io/?owner=1088"
+    "https://andromeda.metis.io/?owner=1088",
+    "https://metis-mainnet.public.blastapi.io"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -30,7 +31,8 @@
       }
     ]
   },
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_metis.jpg",
-  "tvl": 24545543.711831816,
+  "tvl": 24548979.24730091,
   "chainSlug": "metis"
 }

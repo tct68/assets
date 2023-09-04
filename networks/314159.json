@@ -3,9 +3,6 @@
   "chain": "FIL",
   "icon": "filecoin",
   "rpc": [
-    "https://api.calibration.node.glif.io/rpc/v1",
-    "https://rpc.ankr.com/filecoin_testnet",
-    "https://filecoin-calibration.chainstacklabs.com/rpc/v1",
     "https://filecoin-calibration.chainup.net/rpc/v1"
   ],
   "faucets": [
@@ -47,5 +44,6 @@
       "url": "https://beryx.zondax.ch",
       "standard": "none"
     }
-  ]
+  ],
+  "isDefault": false
 }

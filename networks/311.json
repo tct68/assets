@@ -25,6 +25,7 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_omax.jpg",
   "tvl": 0.004573122990670159,
   "chainSlug": "omax"

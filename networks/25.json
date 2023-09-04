@@ -3,6 +3,8 @@
   "chain": "CRO",
   "rpc": [
     "https://evm.cronos.org",
+    "https://cronos-rpc.elk.finance",
+    "https://cronos.blockpi.network/v1/rpc/public",
     "https://cronos-evm.publicnode.com"
   ],
   "features": [
@@ -27,7 +29,8 @@
       "standard": "none"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_cronos.jpg",
-  "tvl": 303147732.34509456,
+  "tvl": 302826857.6596487,
   "chainSlug": "cronos"
 }

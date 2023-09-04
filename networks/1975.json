@@ -3,8 +3,7 @@
   "title": "ONUS Chain Mainnet",
   "chain": "onus",
   "rpc": [
-    "https://rpc.onuschain.io",
-    "wss://ws.onuschain.io"
+    "https://rpc.onuschain.io"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -24,7 +23,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_onus.jpg",
-  "tvl": 1064483.344498565,
+  "tvl": 1064186.3496743594,
   "chainSlug": "onus"
 }

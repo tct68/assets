@@ -2,7 +2,8 @@
   "name": "EOS EVM Legacy",
   "chain": "EOS",
   "rpc": [
-    "https://api.eosargentina.io"
+    "https://api.eosargentina.io",
+    "https://api.metahub.cash"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -15,5 +16,6 @@
   "chainId": 59,
   "networkId": 59,
   "explorers": [],
-  "status": "deprecated"
+  "status": "deprecated",
+  "isDefault": false
 }

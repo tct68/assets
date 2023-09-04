@@ -2,7 +2,6 @@
   "name": "IRIShub",
   "chain": "IRIShub",
   "rpc": [
-    "https://evmrpc.irishub-1.irisnet.org",
     "https://iris-evm.publicnode.com"
   ],
   "features": [
@@ -31,5 +30,6 @@
       "standard": "none",
       "icon": "irishub"
     }
-  ]
+  ],
+  "isDefault": false
 }

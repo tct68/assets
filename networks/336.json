@@ -2,11 +2,9 @@
   "name": "Shiden",
   "chain": "SDN",
   "rpc": [
-    "https://shiden.api.onfinality.io/public",
-    "https://shiden-rpc.dwellir.com",
+    "https://rpc.shiden.astar.network:8545",
     "https://shiden.public.blastapi.io",
-    "wss://shiden.api.onfinality.io/public-ws",
-    "wss://shiden.public.blastapi.io",
+    "https://shiden-rpc.dwellir.com",
     "wss://shiden-rpc.dwellir.com"
   ],
   "faucets": [],
@@ -34,7 +32,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_shiden.jpg",
-  "tvl": 106859.93338923549,
+  "tvl": 105919.25011517569,
   "chainSlug": "shiden"
 }

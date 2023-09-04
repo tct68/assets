@@ -2,7 +2,8 @@
   "name": "Ethereum Classic Testnet Mordor",
   "chain": "ETC",
   "rpc": [
-    "https://rpc.mordor.etccooperative.org"
+    "https://rpc.mordor.etccooperative.org",
+    "https://geth-mordor.etc-network.info"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -13,5 +14,6 @@
   "infoURL": "https://github.com/eth-classic/mordor/",
   "shortName": "metc",
   "chainId": 63,
-  "networkId": 7
+  "networkId": 7,
+  "isDefault": false
 }

@@ -3,7 +3,7 @@
   "title": "The Dracones Mainnet",
   "chain": "FUCK",
   "rpc": [
-    "https://api.dracones.net/"
+    "https://api.dracones.net"
   ],
   "faucets": [],
   "nativeCurrency": {

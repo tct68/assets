@@ -2,7 +2,7 @@
   "name": "Armonia Eva Chain Mainnet",
   "chain": "Eva",
   "rpc": [
-    "https://evascan.io/api/eth-rpc/"
+    "https://evascan.io/api/eth-rpc"
   ],
   "faucets": [],
   "nativeCurrency": {

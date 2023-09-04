@@ -2,7 +2,7 @@
   "name": "Neon EVM DevNet",
   "chain": "Solana",
   "rpc": [
-    "https://devnet.neonevm.org"
+    "https://proxy.devnet.neonlabs.org/solana"
   ],
   "faucets": [
     "https://neonfaucet.org"
@@ -34,5 +34,6 @@
       "icon": "blockscout",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

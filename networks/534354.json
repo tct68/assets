@@ -2,7 +2,9 @@
   "name": "Scroll Pre-Alpha Testnet",
   "chain": "ETH",
   "status": "deprecated",
-  "rpc": [],
+  "rpc": [
+    "https://prealpha-rpc.scroll.io/l2"
+  ],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
@@ -13,5 +15,6 @@
   "shortName": "scr-prealpha",
   "chainId": 534354,
   "networkId": 534354,
-  "explorers": []
+  "explorers": [],
+  "isDefault": false
 }

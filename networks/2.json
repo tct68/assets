@@ -2,6 +2,7 @@
   "name": "Expanse Network",
   "chain": "EXP",
   "rpc": [
+    "https://node.eggs.cool",
     "https://node.expanse.tech"
   ],
   "faucets": [],
@@ -14,5 +15,6 @@
   "shortName": "exp",
   "chainId": 2,
   "networkId": 1,
-  "slip44": 40
+  "slip44": 40,
+  "isDefault": false
 }

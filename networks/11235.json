@@ -2,7 +2,6 @@
   "name": "Haqq Network",
   "chain": "Haqq",
   "rpc": [
-    "https://rpc.eth.haqq.network",
     "https://haqq-evm.publicnode.com"
   ],
   "faucets": [],
@@ -21,5 +20,6 @@
       "url": "https://explorer.haqq.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

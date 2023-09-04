@@ -3,7 +3,7 @@
   "chain": "Emerald",
   "icon": "oasis",
   "rpc": [
-    "https://testnet.emerald.oasis.dev/",
+    "https://testnet.emerald.oasis.dev",
     "wss://testnet.emerald.oasis.dev/ws"
   ],
   "faucets": [

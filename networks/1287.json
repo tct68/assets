@@ -2,8 +2,12 @@
   "name": "Moonbase Alpha",
   "chain": "MOON",
   "rpc": [
-    "https://rpc.api.moonbase.moonbeam.network",
-    "wss://wss.api.moonbase.moonbeam.network"
+    "https://rpc.testnet.moonbeam.network",
+    "https://moonbase.unitedbloc.com:1000",
+    "wss://moonbase.unitedbloc.com:1001",
+    "https://moonbase-alpha.public.blastapi.io",
+    "https://moonbeam-alpha.api.onfinality.io/public",
+    "wss://moonbeam-alpha.api.onfinality.io/public-ws"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -21,5 +25,6 @@
       "url": "https://moonbase.moonscan.io",
       "standard": "none"
     }
-  ]
+  ],
+  "isDefault": false
 }

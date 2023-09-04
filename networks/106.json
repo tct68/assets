@@ -4,7 +4,7 @@
   "icon": "velas",
   "rpc": [
     "https://evmexplorer.velas.com/rpc",
-    "https://explorer.velas.com/rpc"
+    "https://velas-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -23,7 +23,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_velas.jpg",
-  "tvl": 1476499.6590053367,
+  "tvl": 1480881.5469312498,
   "chainSlug": "velas"
 }

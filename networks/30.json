@@ -2,8 +2,7 @@
   "name": "RSK Mainnet",
   "chain": "RSK",
   "rpc": [
-    "https://public-node.rsk.co",
-    "https://mycrypto.rsk.co"
+    "https://public-node.rsk.co"
   ],
   "faucets": [
     "https://faucet.rsk.co/"
@@ -25,7 +24,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_rsk.jpg",
-  "tvl": 81074764.9873924,
+  "tvl": 81325730.01973075,
   "chainSlug": "rsk"
 }

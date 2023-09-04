@@ -1,7 +1,10 @@
 {
   "name": "Neon EVM MainNet",
   "chain": "Solana",
-  "rpc": [],
+  "rpc": [
+    "https://neon-proxy-mainnet.solana.p2p.org",
+    "https://neon-mainnet.everstake.one"
+  ],
   "faucets": [],
   "icon": "neon",
   "nativeCurrency": {
@@ -25,7 +28,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_neon.jpg",
-  "tvl": 61430.86550359086,
+  "tvl": 60980.442703986286,
   "chainSlug": "neon"
 }

@@ -21,7 +21,8 @@
       "standard": "none"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_loop.jpg",
-  "tvl": 167623.13864012618,
+  "tvl": 165154.49231584507,
   "chainSlug": "loop"
 }

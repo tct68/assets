@@ -2,7 +2,10 @@
   "name": "Aurora Mainnet",
   "chain": "NEAR",
   "rpc": [
-    "https://mainnet.aurora.dev"
+    "https://mainnet.aurora.dev",
+    "https://endpoints.omniatech.io/v1/aurora/mainnet/public",
+    "https://1rpc.io/aurora",
+    "https://aurora.drpc.org"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -21,7 +24,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_aurora.jpg",
-  "tvl": 11833498.607161894,
+  "tvl": 11817530.06434039,
   "chainSlug": "aurora"
 }

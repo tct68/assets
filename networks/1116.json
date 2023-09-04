@@ -3,8 +3,8 @@
   "chain": "Core",
   "icon": "core",
   "rpc": [
-    "https://rpc.coredao.org/",
-    "https://rpc-core.icecreamswap.com"
+    "https://rpc.coredao.org",
+    "https://core.public.infstones.com"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -24,7 +24,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_core.jpg",
-  "tvl": 3971881.4584722263,
+  "tvl": 3975210.771343803,
   "chainSlug": "core"
 }

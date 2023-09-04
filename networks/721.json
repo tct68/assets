@@ -2,7 +2,7 @@
   "name": "Lycan Chain",
   "chain": "LYC",
   "rpc": [
-    "https://rpc.lycanchain.com/"
+    "https://rpc.lycanchain.com"
   ],
   "faucets": [],
   "nativeCurrency": {

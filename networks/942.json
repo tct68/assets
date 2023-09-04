@@ -6,8 +6,8 @@
   "networkId": 942,
   "infoURL": "https://pulsechain.com/",
   "rpc": [
-    "https://rpc.v3.testnet.pulsechain.com/",
-    "wss://rpc.v3.testnet.pulsechain.com/"
+    "https://rpc.v3.testnet.pulsechain.com",
+    "wss://rpc.v3.testnet.pulsechain.com"
   ],
   "faucets": [
     "https://faucet.v3.testnet.pulsechain.com/"

@@ -1,9 +1,7 @@
 {
   "name": "Haic",
   "chain": "Haic",
-  "rpc": [
-    "https://orig.haichain.io/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Haicoin",
@@ -13,5 +11,6 @@
   "infoURL": "https://www.haichain.io/",
   "shortName": "haic",
   "chainId": 803,
-  "networkId": 803
+  "networkId": 803,
+  "isDefault": false
 }

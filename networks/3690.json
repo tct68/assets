@@ -1,10 +1,7 @@
 {
   "name": "Bittex Mainnet",
   "chain": "BTX",
-  "rpc": [
-    "https://rpc1.bittexscan.info",
-    "https://rpc2.bittexscan.info"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Bittex",
@@ -21,5 +18,6 @@
       "url": "https://bittexscan.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

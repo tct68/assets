@@ -3,7 +3,7 @@
   "chain": "Nexi",
   "icon": "nexi",
   "rpc": [
-    "https://rpc.chain.nexi.technology/",
+    "https://rpc.chain.nexi.technology",
     "https://chain.nexilix.com",
     "https://chain.nexi.evmnode.online"
   ],

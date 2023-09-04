@@ -3,7 +3,7 @@
   "chain": "Tara",
   "icon": "taraxa",
   "rpc": [
-    "https://rpc.mainnet.taraxa.io/"
+    "https://rpc.mainnet.taraxa.io"
   ],
   "faucets": [],
   "nativeCurrency": {

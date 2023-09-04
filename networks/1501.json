@@ -2,8 +2,8 @@
   "name": "BEVM",
   "chain": "ChainX",
   "rpc": [
-    "https://rpc-1.bevm.io/",
-    "https://rpc-2.bevm.io/"
+    "https://rpc-1.bevm.io",
+    "https://rpc-2.bevm.io"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -21,5 +21,6 @@
       "url": "https://scan.bevm.io",
       "standard": "none"
     }
-  ]
+  ],
+  "isDefault": false
 }

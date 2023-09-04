@@ -1,7 +1,9 @@
 {
   "name": "Oort Huygens",
   "chain": "Huygens",
-  "rpc": [],
+  "rpc": [
+    "https://beta-rpc.mainnet.computecoin.com"
+  ],
   "faucets": [],
   "nativeCurrency": {
     "name": "Oort",
@@ -12,5 +14,6 @@
   "shortName": "Huygens",
   "chainId": 971,
   "networkId": 971,
-  "icon": "ccn"
+  "icon": "ccn",
+  "isDefault": false
 }

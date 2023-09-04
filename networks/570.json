@@ -2,10 +2,9 @@
   "name": "Rollux Mainnet",
   "chain": "SYS",
   "rpc": [
-    "https://rpc.rollux.com",
     "https://rollux.public-rpc.com",
     "wss://rpc.rollux.com/wss",
-    "https://rpc.ankr.com/rollux/${ANKR_API_KEY}"
+    "https://rpc.rollux.com"
   ],
   "faucets": [
     "https://rollux.id/faucetapp"
@@ -26,7 +25,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_rollux.jpg",
-  "tvl": 556659.5297878454,
+  "tvl": 562854.0777882425,
   "chainSlug": "rollux"
 }

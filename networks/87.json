@@ -3,9 +3,8 @@
   "chain": "NNW",
   "icon": "novanetwork",
   "rpc": [
-    "https://connect.novanetwork.io",
-    "https://0x57.redjackstudio.com",
-    "https://rpc.novanetwork.io:9070"
+    "https://rpc.novanetwork.io:9070",
+    "https://dev.rpc.novanetwork.io"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -24,7 +23,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_nova network.jpg",
-  "tvl": 989936.1699668826,
+  "tvl": 989930.2477823736,
   "chainSlug": "nova network"
 }

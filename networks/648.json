@@ -2,7 +2,7 @@
   "name": "Endurance Smart Chain Mainnet",
   "chain": "ACE",
   "rpc": [
-    "https://rpc-endurance.fusionist.io/"
+    "https://rpc-endurance.fusionist.io"
   ],
   "faucets": [],
   "nativeCurrency": {

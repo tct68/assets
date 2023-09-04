@@ -2,10 +2,15 @@
   "name": "Optimism Goerli Testnet",
   "chain": "ETH",
   "rpc": [
-    "https://goerli.optimism.io",
+    "https://endpoints.omniatech.io/v1/op/goerli/public",
+    "https://opt-goerli.g.alchemy.com/v2/demo",
+    "https://optimism-goerli.public.blastapi.io",
+    "https://rpc.goerli.optimism.gateway.fm",
     "https://optimism-goerli.publicnode.com",
+    "https://optimism-goerli.blockpi.network/v1/rpc/public",
+    "https://api.zan.top/node/v1/opt/goerli/public",
     "https://optimism-goerli.gateway.tenderly.co",
-    "wss://optimism-goerli.gateway.tenderly.co"
+    "https://gateway.tenderly.co/public/optimism-goerli"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -24,5 +29,6 @@
       "icon": "blockscout",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

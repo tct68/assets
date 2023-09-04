@@ -11,7 +11,9 @@
   },
   "rpc": [
     "https://forno.celo.org",
-    "wss://forno.celo.org/ws"
+    "https://rpc.ankr.com/celo",
+    "https://1rpc.io/celo",
+    "https://celo.api.onfinality.io/public"
   ],
   "faucets": [
     "https://free-online-app.com/faucet-for-eth-evm-chains/"
@@ -29,7 +31,8 @@
       "standard": "none"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_celo.jpg",
-  "tvl": 88241011.71385077,
+  "tvl": 88241110.74760711,
   "chainSlug": "celo"
 }

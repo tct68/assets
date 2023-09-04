@@ -4,7 +4,20 @@
   "icon": "avax",
   "rpc": [
     "https://api.avax.network/ext/bc/C/rpc",
-    "https://avalanche-c-chain.publicnode.com"
+    "https://avalanche.public-rpc.com",
+    "https://rpc.ankr.com/avalanche",
+    "https://blastapi.io/public-api/avalanche",
+    "https://ava-mainnet.public.blastapi.io/ext/bc/C/rpc",
+    "https://avalancheapi.terminet.io/ext/bc/C/rpc",
+    "https://avalanche-c-chain.publicnode.com",
+    "https://1rpc.io/avax/c",
+    "https://avalanche.blockpi.network/v1/rpc/public",
+    "https://avax-mainnet.gateway.pokt.network/v1/lb/605238bf6b986eea7cf36d5e/ext/bc/C/rpc",
+    "https://avalanche.api.onfinality.io/public/ext/bc/C/rpc",
+    "https://endpoints.omniatech.io/v1/avax/mainnet/public",
+    "https://avax.meowrpc.com",
+    "https://api.zan.top/node/v1/avax/mainnet/public/ext/bc/C/rpc",
+    "https://avalanche.drpc.org"
   ],
   "features": [
     {
@@ -31,7 +44,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_avalanche.jpg",
-  "tvl": 668436048.43697,
+  "tvl": 667960650.2052922,
   "chainSlug": "avalanche"
 }

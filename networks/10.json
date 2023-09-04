@@ -3,9 +3,20 @@
   "chain": "ETH",
   "rpc": [
     "https://mainnet.optimism.io",
+    "https://optimism-mainnet.public.blastapi.io",
+    "https://rpc.ankr.com/optimism",
+    "https://1rpc.io/op",
+    "https://opt-mainnet.g.alchemy.com/v2/demo",
+    "https://optimism.blockpi.network/v1/rpc/public",
+    "https://endpoints.omniatech.io/v1/op/mainnet/public",
+    "https://optimism.api.onfinality.io/public",
+    "https://rpc.optimism.gateway.fm",
     "https://optimism.publicnode.com",
+    "https://optimism.meowrpc.com",
+    "https://api.zan.top/node/v1/opt/mainnet/public",
+    "https://optimism.drpc.org",
     "https://optimism.gateway.tenderly.co",
-    "wss://optimism.gateway.tenderly.co"
+    "https://gateway.tenderly.co/public/optimism"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -30,7 +41,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_optimism.jpg",
-  "tvl": 769769947.2430657,
+  "tvl": 767414171.0123206,
   "chainSlug": "optimism"
 }

@@ -2,7 +2,8 @@
   "name": "TomoChain",
   "chain": "TOMO",
   "rpc": [
-    "https://rpc.tomochain.com"
+    "https://rpc.tomochain.com",
+    "https://tomo.blockpi.network/v1/rpc/public"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -15,7 +16,8 @@
   "chainId": 88,
   "networkId": 88,
   "slip44": 889,
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_tomochain.jpg",
-  "tvl": 86436.08991408689,
+  "tvl": 86388.41674277616,
   "chainSlug": "tomochain"
 }

@@ -3,7 +3,7 @@
   "chain": "ETH",
   "icon": "patex",
   "rpc": [
-    "https://rpc.patex.io/"
+    "https://rpc.patex.io"
   ],
   "faucets": [],
   "nativeCurrency": {

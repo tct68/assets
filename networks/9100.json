@@ -2,8 +2,7 @@
   "name": "Genesis Coin",
   "chain": "Genesis",
   "rpc": [
-    "https://genesis-gn.com",
-    "wss://genesis-gn.com"
+    "rpcWorking:false"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -14,5 +13,6 @@
   "infoURL": "https://genesis-gn.com",
   "shortName": "GENEC",
   "chainId": 9100,
-  "networkId": 9100
+  "networkId": 9100,
+  "isDefault": false
 }

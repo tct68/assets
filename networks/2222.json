@@ -3,11 +3,7 @@
   "chain": "KAVA",
   "rpc": [
     "https://evm.kava.io",
-    "https://evm2.kava.io",
-    "https://kava-rpc.gateway.pokt.network",
-    "https://kava-evm.rpc.thirdweb.com",
-    "wss://wevm.kava.io",
-    "wss://wevm2.kava.io",
+    "https://kava.api.onfinality.io/public",
     "https://kava-evm.publicnode.com"
   ],
   "faucets": [],
@@ -29,7 +25,8 @@
       "icon": "kava"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_kava.jpg",
-  "tvl": 285644501.02281404,
+  "tvl": 285957678.0541835,
   "chainSlug": "kava"
 }

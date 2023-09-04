@@ -3,7 +3,7 @@
   "chain": "METAD",
   "icon": "metad",
   "rpc": [
-    "https://rpc.metaplayer.one/"
+    "https://rpc.metaplayer.one"
   ],
   "faucets": [],
   "nativeCurrency": {

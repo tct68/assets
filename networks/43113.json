@@ -4,7 +4,14 @@
   "icon": "avax",
   "rpc": [
     "https://api.avax-test.network/ext/bc/C/rpc",
-    "https://avalanche-fuji-c-chain.publicnode.com"
+    "https://endpoints.omniatech.io/v1/avax/fuji/public",
+    "https://rpc.ankr.com/avalanche_fuji",
+    "https://rpc.ankr.com/avalanche_fuji-c",
+    "https://avalanchetestapi.terminet.io/ext/bc/C/rpc",
+    "https://ava-testnet.public.blastapi.io/ext/bc/C/rpc",
+    "https://avalanche-fuji-c-chain.publicnode.com",
+    "https://avalanche-fuji.blockpi.network/v1/rpc/public",
+    "https://api.zan.top/node/v1/avax/fuji/public/ext/bc/C/rpc"
   ],
   "faucets": [
     "https://faucet.avax-test.network/"
@@ -24,5 +31,6 @@
       "url": "https://testnet.snowtrace.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

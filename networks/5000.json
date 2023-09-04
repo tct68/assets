@@ -3,8 +3,9 @@
   "chain": "ETH",
   "icon": "mantle",
   "rpc": [
-    "https://rpc.mantle.xyz",
-    "https://mantle.publicnode.com"
+    "https://mantle.publicnode.com",
+    "https://mantle-mainnet.public.blastapi.io",
+    "https://mantle.drpc.org"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -32,7 +33,8 @@
       }
     ]
   },
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_mantle.jpg",
-  "tvl": 36704442.16061096,
+  "tvl": 36707113.57704844,
   "chainSlug": "mantle"
 }

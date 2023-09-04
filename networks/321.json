@@ -4,7 +4,7 @@
   "rpc": [
     "https://rpc-mainnet.kcc.network",
     "https://kcc.mytokenpocket.vip",
-    "https://public-rpc.blockpi.io/http/kcc"
+    "https://kcc-rpc.com"
   ],
   "faucets": [
     "https://faucet.kcc.io/",
@@ -27,7 +27,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_kucoin.jpg",
-  "tvl": 1753551.8494603634,
+  "tvl": 1753001.1968348054,
   "chainSlug": "kucoin"
 }

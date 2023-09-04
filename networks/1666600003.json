@@ -1,9 +1,7 @@
 {
   "name": "Harmony Mainnet Shard 3",
   "chain": "Harmony",
-  "rpc": [
-    "https://api.s3.t.hmny.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ONE",
@@ -21,5 +19,6 @@
       "url": "https://explorer.harmony.one/blocks/shard/3",
       "standard": "none"
     }
-  ]
+  ],
+  "isDefault": false
 }

@@ -3,8 +3,8 @@
   "title": "Ethereum Testnet Ropsten",
   "chain": "ETH",
   "rpc": [
-    "https://ropsten.infura.io/v3/${INFURA_API_KEY}",
-    "wss://ropsten.infura.io/ws/v3/${INFURA_API_KEY}"
+    "https://rpc.ankr.com/eth_ropsten",
+    "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161"
   ],
   "faucets": [
     "http://fauceth.komputing.org?chain=3&address=${ADDRESS}",
@@ -28,5 +28,6 @@
       "url": "https://ropsten.etherscan.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

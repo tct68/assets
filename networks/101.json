@@ -1,9 +1,7 @@
 {
   "name": "EtherInc",
   "chain": "ETI",
-  "rpc": [
-    "https://api.einc.io/jsonrpc/mainnet"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "EtherInc Ether",
@@ -14,5 +12,6 @@
   "shortName": "eti",
   "chainId": 101,
   "networkId": 1,
-  "slip44": 464
+  "slip44": 464,
+  "isDefault": false
 }

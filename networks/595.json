@@ -1,10 +1,7 @@
 {
   "name": "Acala Mandala Testnet TC9",
   "chain": "mACA",
-  "rpc": [
-    "https://eth-rpc-tc9.aca-staging.network",
-    "wss://eth-rpc-tc9.aca-staging.network"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"
@@ -30,5 +27,6 @@
       "url": "https://blockscout.mandala.aca-staging.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

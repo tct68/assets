@@ -22,5 +22,6 @@
       "icon": "ecredits",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

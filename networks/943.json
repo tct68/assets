@@ -7,8 +7,6 @@
   "icon": "pulsechain",
   "infoURL": "https://pulsechain.com",
   "rpc": [
-    "https://rpc.v4.testnet.pulsechain.com/",
-    "wss://rpc.v4.testnet.pulsechain.com/",
     "https://pulsechain-testnet.publicnode.com"
   ],
   "features": [
@@ -31,5 +29,6 @@
     "name": "Test Pulse",
     "symbol": "tPLS",
     "decimals": 18
-  }
+  },
+  "isDefault": false
 }

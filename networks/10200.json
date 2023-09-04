@@ -4,8 +4,7 @@
   "icon": "gnosis",
   "rpc": [
     "https://rpc.chiadochain.net",
-    "https://rpc.chiado.gnosis.gateway.fm",
-    "wss://rpc.chiadochain.net/wss"
+    "https://rpc.chiado.gnosis.gateway.fm"
   ],
   "faucets": [
     "https://gnosisfaucet.com"
@@ -32,5 +31,6 @@
       "icon": "blockscout",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

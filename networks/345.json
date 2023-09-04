@@ -3,7 +3,7 @@
   "chain": "Yooldo Verse",
   "icon": "yooldo_verse",
   "rpc": [
-    "https://rpc.yooldo-verse.xyz/"
+    "https://rpc.yooldo-verse.xyz"
   ],
   "faucets": [],
   "nativeCurrency": {

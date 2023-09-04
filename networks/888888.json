@@ -22,7 +22,8 @@
   "chainId": 888888,
   "networkId": 888888,
   "slip44": 60,
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_vision.jpg",
-  "tvl": 7215801.128027809,
+  "tvl": 7225744.055945587,
   "chainSlug": "vision"
 }

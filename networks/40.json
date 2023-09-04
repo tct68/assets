@@ -2,7 +2,16 @@
   "name": "Telos EVM Mainnet",
   "chain": "TLOS",
   "rpc": [
-    "https://mainnet.telos.net/evm"
+    "https://mainnet.telos.net/evm",
+    "https://rpc1.eu.telos.net/evm",
+    "https://rpc1.us.telos.net/evm",
+    "https://rpc2.us.telos.net/evm",
+    "https://api.kainosbp.com/evm",
+    "https://rpc2.eu.telos.net/evm",
+    "https://evm.teloskorea.com/evm",
+    "https://rpc2.teloskorea.com/evm",
+    "https://rpc01.us.telosunlimited.io/evm",
+    "https://rpc02.us.telosunlimited.io/evm"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -21,7 +30,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_telos.jpg",
-  "tvl": 13613047.019111197,
+  "tvl": 13620790.350141546,
   "chainSlug": "telos"
 }

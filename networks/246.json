@@ -2,8 +2,7 @@
   "name": "Energy Web Chain",
   "chain": "Energy Web Chain",
   "rpc": [
-    "https://rpc.energyweb.org",
-    "wss://rpc.energyweb.org/ws"
+    "https://rpc.energyweb.org"
   ],
   "faucets": [
     "https://faucet.carbonswap.exchange",
@@ -26,6 +25,7 @@
       "standard": "none"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_energyweb.jpg",
   "tvl": 335418.795777905,
   "chainSlug": "energyweb"

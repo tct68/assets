@@ -2,7 +2,7 @@
   "name": "Htmlcoin Mainnet",
   "chain": "mainnet",
   "rpc": [
-    "https://janus.htmlcoin.com/api/"
+    "https://janus.htmlcoin.dev/janus"
   ],
   "faucets": [
     "https://gruvin.me/htmlcoin"
@@ -25,5 +25,6 @@
       "icon": "htmlcoin",
       "standard": "none"
     }
-  ]
+  ],
+  "isDefault": false
 }

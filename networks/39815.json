@@ -2,7 +2,9 @@
   "name": "OHO Mainnet",
   "chain": "OHO",
   "rpc": [
-    "https://mainnet.oho.ai"
+    "https://mainnet.oho.ai",
+    "https://mainnet-rpc.ohoscan.com",
+    "https://mainnet-rpc2.ohoscan.com"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -22,5 +24,6 @@
       "icon": "ohoscan",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

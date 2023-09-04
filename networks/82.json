@@ -2,7 +2,9 @@
   "name": "Meter Mainnet",
   "chain": "METER",
   "rpc": [
-    "https://rpc.meter.io"
+    "https://rpc.meter.io",
+    "https://rpc-meter.jellypool.xyz",
+    "https://meter.blockpi.network/v1/rpc/public"
   ],
   "faucets": [
     "https://faucet.meter.io"
@@ -23,7 +25,8 @@
       "standard": "EIP3091"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_meter.jpg",
-  "tvl": 6860286.798334291,
+  "tvl": 6874543.807926885,
   "chainSlug": "meter"
 }

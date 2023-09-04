@@ -3,7 +3,8 @@
   "chain": "XDC",
   "rpc": [
     "https://rpc.apothem.network",
-    "https://erpc.apothem.network"
+    "https://erpc.apothem.network",
+    "https://apothem.xdcrpc.com"
   ],
   "faucets": [
     "https://faucet.apothem.network"
@@ -31,5 +32,6 @@
       "icon": "blocksscan",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "isDefault": false
 }

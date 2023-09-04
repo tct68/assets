@@ -2,12 +2,10 @@
   "name": "Zyx Mainnet",
   "chain": "ZYX",
   "rpc": [
-    "https://rpc-1.zyx.network/",
-    "https://rpc-2.zyx.network/",
-    "https://rpc-3.zyx.network/",
-    "https://rpc-4.zyx.network/",
-    "https://rpc-5.zyx.network/",
-    "https://rpc-6.zyx.network/"
+    "https://rpc-1.zyx.network",
+    "https://rpc-2.zyx.network",
+    "https://rpc-3.zyx.network",
+    "https://rpc-5.zyx.network"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -26,6 +24,7 @@
       "standard": "none"
     }
   ],
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_zyx.jpg",
   "tvl": 123976.89457554626,
   "chainSlug": "zyx"

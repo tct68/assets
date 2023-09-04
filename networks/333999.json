@@ -17,6 +17,7 @@
   "shortName": "olympus",
   "chainId": 333999,
   "networkId": 333999,
+  "isDefault": false,
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_polis.jpg",
   "tvl": 0,
   "chainSlug": "polis"

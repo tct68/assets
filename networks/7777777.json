@@ -2,7 +2,7 @@
   "name": "Zora",
   "chain": "ETH",
   "rpc": [
-    "https://rpc.zora.energy/"
+    "https://rpc.zora.energy"
   ],
   "faucets": [],
   "nativeCurrency": {
