@@ -16,5 +16,6 @@
   "chainId": 9170,
   "networkId": 9170,
   "explorers": [],
-  "status": "deprecated"
+  "status": "deprecated",
+  "tokens": []
 }

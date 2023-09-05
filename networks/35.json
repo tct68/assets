@@ -14,6 +14,7 @@
   "shortName": "tbwg",
   "chainId": 35,
   "networkId": 35,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

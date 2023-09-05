@@ -15,5 +15,6 @@
   "shortName": "carbon-testnet",
   "chainId": 9792,
   "networkId": 9792,
-  "explorers": []
+  "explorers": [],
+  "tokens": []
 }

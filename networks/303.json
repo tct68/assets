@@ -28,5 +28,6 @@
       "url": "https://testnet.ncnscan.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

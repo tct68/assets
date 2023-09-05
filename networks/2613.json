@@ -23,5 +23,6 @@
       "url": "https://testnet-cchain-explorer.ezchain.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

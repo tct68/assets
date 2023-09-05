@@ -28,9 +28,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_neon.jpg",
-  "tvl": 64109.76904852314,
+  "tvl": 60710.610625783775,
   "chainSlug": "neon"
 }

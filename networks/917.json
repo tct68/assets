@@ -18,5 +18,6 @@
   "chainId": 917,
   "networkId": 917,
   "explorers": [],
-  "status": "incubating"
+  "status": "incubating",
+  "tokens": []
 }

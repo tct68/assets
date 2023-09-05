@@ -12,6 +12,7 @@
   "shortName": "tpep",
   "chainId": 13371337,
   "networkId": 13371337,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

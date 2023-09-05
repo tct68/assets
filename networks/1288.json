@@ -12,6 +12,7 @@
   "shortName": "mrock",
   "chainId": 1288,
   "networkId": 1288,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

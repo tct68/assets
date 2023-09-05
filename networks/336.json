@@ -32,9 +32,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_shiden.jpg",
-  "tvl": 102604.76037860825,
+  "tvl": 102866.02557544824,
   "chainSlug": "shiden"
 }

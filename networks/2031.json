@@ -28,5 +28,6 @@
       "url": "https://centrifuge.subscan.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

@@ -26,9 +26,10 @@
     "symbol": "PLS",
     "decimals": 18
   },
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_pulse.jpg",
-  "tvl": 125984911.97060737,
+  "tvl": 122608864.09109443,
   "chainSlug": "pulse"
 }

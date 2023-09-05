@@ -21,5 +21,6 @@
   "infoURL": "https://centrifuge.io",
   "shortName": "algl",
   "chainId": 2089,
-  "networkId": 2089
+  "networkId": 2089,
+  "tokens": []
 }

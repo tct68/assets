@@ -13,6 +13,7 @@
   "chainId": 1987,
   "networkId": 1987,
   "slip44": 1987,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

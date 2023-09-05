@@ -16,5 +16,6 @@
   "shortName": "atlr",
   "chainId": 1971,
   "networkId": 1971,
-  "icon": "atlr"
+  "icon": "atlr",
+  "tokens": []
 }

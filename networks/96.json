@@ -27,6 +27,7 @@
   "redFlags": [
     "reusedChainId"
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

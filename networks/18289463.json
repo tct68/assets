@@ -12,6 +12,7 @@
   "shortName": "ilt",
   "chainId": 18289463,
   "networkId": 18289463,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

@@ -21,5 +21,6 @@
       "url": "https://scan-test.lachain.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

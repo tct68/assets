@@ -32,9 +32,10 @@
       "icon": "evmos"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_evmos.jpg",
-  "tvl": 2227082.359199537,
+  "tvl": 2231389.073773227,
   "chainSlug": "evmos"
 }

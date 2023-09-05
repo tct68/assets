@@ -13,5 +13,6 @@
   "shortName": "MainnetDev",
   "chainId": 9700,
   "networkId": 9700,
-  "icon": "ccn"
+  "icon": "ccn",
+  "tokens": []
 }

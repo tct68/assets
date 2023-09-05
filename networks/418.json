@@ -29,5 +29,6 @@
       "url": "https://testexplorer.lachain.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

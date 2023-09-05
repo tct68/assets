@@ -23,5 +23,6 @@
       "url": "https://explorer.cloudtx.finance",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

@@ -13,5 +13,6 @@
   "infoURL": "https://testnet.wanscan.org",
   "shortName": "twan",
   "chainId": 999,
-  "networkId": 999
+  "networkId": 999,
+  "tokens": []
 }

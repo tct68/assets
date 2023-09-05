@@ -14,5 +14,6 @@
   "chainId": 1131,
   "networkId": 1131,
   "icon": "defichain-network",
-  "explorers": []
+  "explorers": [],
+  "tokens": []
 }

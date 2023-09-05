@@ -23,5 +23,6 @@
       "url": "https://frankenstein-explorer.oneledger.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

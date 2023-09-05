@@ -23,5 +23,6 @@
       "url": "https://scan-testnet.acuteangle.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

@@ -20,5 +20,6 @@
       "standard": "EIP3091"
     }
   ],
-  "status": "deprecated"
+  "status": "deprecated",
+  "tokens": []
 }

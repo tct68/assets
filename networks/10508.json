@@ -24,5 +24,6 @@
       "url": "https://testnet.num.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

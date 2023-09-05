@@ -23,9 +23,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_onus.jpg",
-  "tvl": 1064076.6004869319,
+  "tvl": 1063360.4392919797,
   "chainSlug": "onus"
 }

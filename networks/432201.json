@@ -23,5 +23,6 @@
       "url": "https://subnets-test.avax.network/dexalot",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

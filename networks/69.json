@@ -23,5 +23,6 @@
   "infoURL": "https://optimism.io",
   "shortName": "okov",
   "chainId": 69,
-  "networkId": 69
+  "networkId": 69,
+  "tokens": []
 }

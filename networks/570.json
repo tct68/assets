@@ -25,9 +25,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_rollux.jpg",
-  "tvl": 552391.4418543226,
+  "tvl": 543797.2374745614,
   "chainSlug": "rollux"
 }

@@ -22,5 +22,6 @@
       "url": "https://testnet.explorer.sapphire.oasis.dev",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

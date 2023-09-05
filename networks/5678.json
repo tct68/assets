@@ -15,5 +15,6 @@
   "shortName": "TanssiCC",
   "chainId": 5678,
   "networkId": 5678,
-  "explorers": []
+  "explorers": [],
+  "tokens": []
 }

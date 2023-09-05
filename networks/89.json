@@ -14,5 +14,6 @@
   "shortName": "tomot",
   "chainId": 89,
   "networkId": 89,
-  "slip44": 889
+  "slip44": 889,
+  "tokens": []
 }

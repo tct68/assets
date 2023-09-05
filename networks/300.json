@@ -13,5 +13,6 @@
   "networkId": 300,
   "infoURL": "https://docs.gnosischain.com",
   "explorers": [],
-  "status": "deprecated"
+  "status": "deprecated",
+  "tokens": []
 }

@@ -16,7 +16,8 @@
   "chainId": 9790,
   "networkId": 9790,
   "explorers": [],
+  "tokens": [],
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_carbon.jpg",
-  "tvl": 1826552.945026632,
+  "tvl": 1839050.48658913,
   "chainSlug": "carbon"
 }

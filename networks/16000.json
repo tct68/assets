@@ -12,6 +12,7 @@
   "shortName": "mtt",
   "chainId": 16000,
   "networkId": 16000,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

@@ -14,6 +14,7 @@
   "shortName": "EDI",
   "chainId": 211,
   "networkId": 0,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

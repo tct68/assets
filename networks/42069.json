@@ -14,6 +14,7 @@
   "shortName": "PC",
   "chainId": 42069,
   "networkId": 42069,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

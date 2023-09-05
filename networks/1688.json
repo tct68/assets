@@ -14,5 +14,6 @@
   "shortName": "LUDAN",
   "icon": "ludan",
   "chainId": 1688,
-  "networkId": 1688
+  "networkId": 1688,
+  "tokens": []
 }

@@ -14,6 +14,7 @@
   "shortName": "tsf",
   "chainId": 1856,
   "networkId": 1,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

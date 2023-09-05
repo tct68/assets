@@ -13,5 +13,6 @@
   "infoURL": "https://evanesco.org/",
   "shortName": "avis",
   "chainId": 1201,
-  "networkId": 1201
+  "networkId": 1201,
+  "tokens": []
 }

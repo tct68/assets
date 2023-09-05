@@ -23,9 +23,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_velas.jpg",
-  "tvl": 1487644.2122720405,
+  "tvl": 1491712.6610713305,
   "chainSlug": "velas"
 }

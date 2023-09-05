@@ -23,5 +23,6 @@
       "url": "https://testnet.btxtestchain.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

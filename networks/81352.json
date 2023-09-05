@@ -13,5 +13,6 @@
   "icon": "meer",
   "chainId": 81352,
   "networkId": 81352,
-  "status": "incubating"
+  "status": "incubating",
+  "tokens": []
 }

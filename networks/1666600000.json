@@ -30,9 +30,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_harmony.jpg",
-  "tvl": 2318761.770072626,
+  "tvl": 3016676.1078298027,
   "chainSlug": "harmony"
 }

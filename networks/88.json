@@ -16,9 +16,10 @@
   "chainId": 88,
   "networkId": 88,
   "slip44": 889,
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_tomochain.jpg",
-  "tvl": 86510.08844426912,
+  "tvl": 86742.61359203918,
   "chainSlug": "tomochain"
 }

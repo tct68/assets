@@ -38,9 +38,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_astar.jpg",
-  "tvl": 43156232.029696606,
+  "tvl": 43396787.3374839,
   "chainSlug": "astar"
 }

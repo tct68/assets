@@ -14,6 +14,7 @@
   "shortName": "usc",
   "chainId": 99999,
   "networkId": 99999,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

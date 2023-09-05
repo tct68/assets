@@ -14,5 +14,6 @@
   "infoURL": "https://diode.io/staging",
   "shortName": "dstg",
   "chainId": 13,
-  "networkId": 13
+  "networkId": 13,
+  "tokens": []
 }

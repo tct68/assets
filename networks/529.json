@@ -16,5 +16,6 @@
   "chainId": 529,
   "networkId": 529,
   "explorers": [],
-  "status": "incubating"
+  "status": "incubating",
+  "tokens": []
 }

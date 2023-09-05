@@ -13,6 +13,7 @@
   "chainId": 127,
   "networkId": 127,
   "slip44": 127,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

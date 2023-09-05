@@ -15,5 +15,6 @@
   "chainId": 8654,
   "networkId": 8654,
   "icon": "toki",
-  "explorers": []
+  "explorers": [],
+  "tokens": []
 }

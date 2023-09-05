@@ -23,5 +23,6 @@
       "url": "https://explorer.whitebit.network/testnet",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

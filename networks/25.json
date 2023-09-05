@@ -29,9 +29,10 @@
       "standard": "none"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_cronos.jpg",
-  "tvl": 301994586.1984707,
+  "tvl": 301401574.8896326,
   "chainSlug": "cronos"
 }

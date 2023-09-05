@@ -30,5 +30,6 @@
       "url": "https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet.dev.svcs.ferrumnetwork.io#/explorer",
       "standard": "none"
     }
-  ]
+  ],
+  "tokens": []
 }

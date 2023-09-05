@@ -25,6 +25,7 @@
     "chain": "eip155-100",
     "type": "L2"
   },
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_xdaiarb.jpg"

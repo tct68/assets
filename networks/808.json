@@ -15,5 +15,6 @@
   "shortName": "PFTEST",
   "chainId": 808,
   "networkId": 808,
-  "explorers": []
+  "explorers": [],
+  "tokens": []
 }

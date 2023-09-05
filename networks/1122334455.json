@@ -12,6 +12,7 @@
   "shortName": "ipos",
   "chainId": 1122334455,
   "networkId": 1122334455,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

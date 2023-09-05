@@ -20,5 +20,6 @@
       "url": "http://testnet-explorer.theproxy.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

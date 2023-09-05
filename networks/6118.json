@@ -26,5 +26,6 @@
       "url": "https://testnet.explorer.uptn.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

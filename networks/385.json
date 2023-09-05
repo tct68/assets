@@ -14,6 +14,7 @@
   "shortName": "lisinski",
   "chainId": 385,
   "networkId": 385,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

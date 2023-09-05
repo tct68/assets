@@ -38,9 +38,10 @@
       }
     ]
   },
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_boba.jpg",
-  "tvl": 1867511.2919908562,
+  "tvl": 1907637.6942249546,
   "chainSlug": "boba"
 }

@@ -16,9 +16,10 @@
   "chainId": 820,
   "networkId": 1,
   "slip44": 820,
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_callisto.jpg",
-  "tvl": 271788.39770164026,
+  "tvl": 271564.0961008681,
   "chainSlug": "callisto"
 }

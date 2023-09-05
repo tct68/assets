@@ -14,5 +14,6 @@
   "networkId": 1951,
   "icon": "dchain",
   "faucets": [],
-  "infoURL": ""
+  "infoURL": "",
+  "tokens": []
 }

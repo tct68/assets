@@ -15,6 +15,7 @@
   "chainId": 281121,
   "networkId": 281121,
   "explorers": [],
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

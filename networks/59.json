@@ -17,6 +17,7 @@
   "networkId": 59,
   "explorers": [],
   "status": "deprecated",
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

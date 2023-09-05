@@ -25,7 +25,8 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_tenet.jpg",
-  "tvl": 143442.97855512466,
+  "tvl": 142752.41685196946,
   "chainSlug": "tenet"
 }

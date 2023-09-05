@@ -24,9 +24,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_elastos.jpg",
-  "tvl": 1618785.7704502344,
+  "tvl": 1612208.627373048,
   "chainSlug": "elastos"
 }

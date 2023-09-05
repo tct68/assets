@@ -44,5 +44,6 @@
       "icon": "linea"
     }
   ],
-  "status": "active"
+  "status": "active",
+  "tokens": []
 }

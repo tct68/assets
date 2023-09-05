@@ -23,5 +23,6 @@
       "url": "https://block-explorer-testnet.aitd.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

@@ -39,9 +39,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_fantom.jpg",
-  "tvl": 70019281.66942641,
+  "tvl": 69759931.53613801,
   "chainSlug": "fantom"
 }

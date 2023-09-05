@@ -22,9 +22,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_ubiq.jpg",
-  "tvl": 60507.90615340469,
+  "tvl": 75037.6236763416,
   "chainSlug": "ubiq"
 }

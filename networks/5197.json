@@ -15,6 +15,7 @@
   "shortName": "es",
   "chainId": 5197,
   "networkId": 5197,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

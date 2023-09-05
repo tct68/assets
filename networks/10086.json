@@ -12,6 +12,7 @@
   "shortName": "SJ",
   "chainId": 10086,
   "networkId": 10086,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

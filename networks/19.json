@@ -22,9 +22,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_songbird.jpg",
-  "tvl": 13592228.85542244,
+  "tvl": 13189301.323364636,
   "chainSlug": "songbird"
 }

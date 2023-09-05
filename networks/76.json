@@ -13,6 +13,7 @@
   "chainId": 76,
   "networkId": 76,
   "slip44": 76,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

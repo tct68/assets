@@ -23,5 +23,6 @@
   "networkId": 1662,
   "slip44": 121,
   "explorers": [],
-  "status": "deprecated"
+  "status": "deprecated",
+  "tokens": []
 }

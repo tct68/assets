@@ -31,9 +31,10 @@
       }
     ]
   },
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_metis.jpg",
-  "tvl": 24567921.73983589,
+  "tvl": 26529169.29493971,
   "chainSlug": "metis"
 }

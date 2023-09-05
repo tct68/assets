@@ -25,5 +25,6 @@
   "networkId": 7331,
   "icon": "klyntar",
   "explorers": [],
-  "status": "incubating"
+  "status": "incubating",
+  "tokens": []
 }

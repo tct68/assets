@@ -16,6 +16,7 @@
   "chainId": 2,
   "networkId": 1,
   "slip44": 40,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

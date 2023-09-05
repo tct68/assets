@@ -14,6 +14,7 @@
   "shortName": "clv",
   "chainId": 1024,
   "networkId": 1024,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

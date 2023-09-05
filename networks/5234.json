@@ -14,5 +14,6 @@
   "shortName": "hmnd",
   "chainId": 5234,
   "networkId": 5234,
-  "explorers": []
+  "explorers": [],
+  "tokens": []
 }

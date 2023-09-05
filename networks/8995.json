@@ -16,6 +16,7 @@
   "shortName": "berg",
   "chainId": 8995,
   "networkId": 8995,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

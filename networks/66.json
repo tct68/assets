@@ -24,9 +24,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_okexchain.jpg",
-  "tvl": 110623727.01102534,
+  "tvl": 109766368.06969145,
   "chainSlug": "okexchain"
 }

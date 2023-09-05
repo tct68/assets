@@ -14,5 +14,6 @@
   "chainId": 8888881,
   "networkId": 8888881,
   "icon": "quarix",
-  "explorers": []
+  "explorers": [],
+  "tokens": []
 }

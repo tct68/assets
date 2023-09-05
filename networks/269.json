@@ -25,7 +25,8 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_hpb.jpg",
-  "tvl": 24791.07754109255,
+  "tvl": 24833.21173154108,
   "chainSlug": "hpb"
 }

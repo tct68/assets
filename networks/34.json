@@ -16,5 +16,6 @@
   "infoURL": "https://dithereum.org",
   "shortName": "dth",
   "chainId": 34,
-  "networkId": 34
+  "networkId": 34,
+  "tokens": []
 }

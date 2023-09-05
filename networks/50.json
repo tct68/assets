@@ -34,9 +34,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_xdc.jpg",
-  "tvl": 4096106.1015915195,
+  "tvl": 4126777.9195877905,
   "chainSlug": "xdc"
 }

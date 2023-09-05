@@ -17,9 +17,10 @@
   "shortName": "fuse",
   "chainId": 122,
   "networkId": 122,
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_fuse.jpg",
-  "tvl": 1348118.2970815348,
+  "tvl": 1344479.9985172844,
   "chainSlug": "fuse"
 }

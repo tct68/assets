@@ -13,5 +13,6 @@
   "infoURL": "http://test.dbmbp.com",
   "shortName": "dbm",
   "chainId": 67,
-  "networkId": 67
+  "networkId": 67,
+  "tokens": []
 }

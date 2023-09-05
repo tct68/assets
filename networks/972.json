@@ -15,5 +15,6 @@
   "shortName": "Ascraeus",
   "chainId": 972,
   "networkId": 972,
-  "icon": "ccn"
+  "icon": "ccn",
+  "tokens": []
 }

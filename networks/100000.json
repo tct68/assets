@@ -12,6 +12,7 @@
   "shortName": "qkc-r",
   "chainId": 100000,
   "networkId": 100000,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

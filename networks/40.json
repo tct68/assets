@@ -30,9 +30,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_telos.jpg",
-  "tvl": 13602168.69929399,
+  "tvl": 13631592.947471788,
   "chainSlug": "telos"
 }

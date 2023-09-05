@@ -22,5 +22,6 @@
       "url": "https://subnets-test.avax.network/mintara",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

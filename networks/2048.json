@@ -12,5 +12,6 @@
   "shortName": "stos-mainnet",
   "chainId": 2048,
   "networkId": 2048,
-  "status": "incubating"
+  "status": "incubating",
+  "tokens": []
 }

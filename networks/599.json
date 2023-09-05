@@ -31,5 +31,6 @@
         "url": "https://testnet-bridge.metis.io"
       }
     ]
-  }
+  },
+  "tokens": []
 }

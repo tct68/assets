@@ -12,6 +12,7 @@
   "shortName": "GooD",
   "chainId": 33,
   "networkId": 33,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

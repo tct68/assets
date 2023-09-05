@@ -13,5 +13,6 @@
   "infoURL": "https://www.kortho.io/",
   "shortName": "Kortho",
   "chainId": 8285,
-  "networkId": 8285
+  "networkId": 8285,
+  "tokens": []
 }

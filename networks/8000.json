@@ -29,6 +29,7 @@
       "icon": "teleport"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

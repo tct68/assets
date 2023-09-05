@@ -23,5 +23,6 @@
       "url": "https://testnet.tipboxcoin.net",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }

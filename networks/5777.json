@@ -16,5 +16,6 @@
   "shortName": "ggui",
   "chainId": 5777,
   "networkId": 5777,
-  "explorers": []
+  "explorers": [],
+  "tokens": []
 }

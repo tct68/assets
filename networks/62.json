@@ -11,5 +11,6 @@
   "infoURL": "https://ethereumclassic.org",
   "shortName": "tetc",
   "chainId": 62,
-  "networkId": 2
+  "networkId": 2,
+  "tokens": []
 }

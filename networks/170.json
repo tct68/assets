@@ -15,5 +15,6 @@
   "infoURL": "https://www.hoosmartchain.com",
   "shortName": "hoosmartchain",
   "chainId": 170,
-  "networkId": 170
+  "networkId": 170,
+  "tokens": []
 }

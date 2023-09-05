@@ -31,9 +31,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_bitgert.jpg",
-  "tvl": 637308.9695164863,
+  "tvl": 630990.9668653209,
   "chainSlug": "bitgert"
 }

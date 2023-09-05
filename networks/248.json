@@ -23,9 +23,10 @@
       "standard": "EIP3091"
     }
   ],
+  "tokens": [],
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_oasys.jpg",
-  "tvl": 1528989.0960127825,
+  "tvl": 1544804.7723162705,
   "chainSlug": "oasys"
 }

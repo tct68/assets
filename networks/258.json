@@ -12,6 +12,7 @@
   "shortName": "setm",
   "chainId": 258,
   "networkId": 258,
+  "tokens": [],
   "isDefault": false,
   "contract": {}
 }

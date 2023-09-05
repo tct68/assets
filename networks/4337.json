@@ -26,5 +26,6 @@
       "url": "https://subnets.avax.network/beam",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tokens": []
 }
