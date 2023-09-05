@@ -57,29 +57,6 @@
     },
     {
       "chainId": 42220,
-      "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
-      "name": "Celo",
-      "symbol": "CELO",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 42220,
       "address": "0x46c9757c5497c5b1f2eb73ae79b6b67d119b0b58",
       "name": "impactMarket",
       "symbol": "PACT",
@@ -407,14 +384,6 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETH.png"
     },
     {
-      "name": "wrapped.com ETH",
-      "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
-      "symbol": "cETH",
-      "decimals": 18,
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cETH.svg"
-    },
-    {
       "name": "Ubeswap",
       "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
       "symbol": "UBE",
@@ -429,14 +398,6 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cMCO2.png"
-    },
-    {
-      "name": "Celo",
-      "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
-      "symbol": "CELO",
-      "decimals": 18,
-      "chainId": 42220,
-      "logoURI": "https://celo-org.github.io/celo-token-list/assets/celo_logo.svg"
     },
     {
       "name": "Celo Dollar",
@@ -847,14 +808,6 @@
       "logoURI": "https://celo-org.github.io/celo-token-list/assets/axelar_eth.png"
     },
     {
-      "name": "JumpToken",
-      "address": "0x1d18d0386f51ab03e7e84e71bda1681eba865f1f",
-      "symbol": "JMPT",
-      "decimals": 18,
-      "chainId": 42220,
-      "logoURI": "https://celo-org.github.io/celo-token-list/assets/jumpToken.png"
-    },
-    {
       "name": "Glo Dollar",
       "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
       "symbol": "USDGLO",
@@ -866,6 +819,5 @@
   "isDefault": false,
   "contract": {},
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_celo.jpg",
-  "tvl": 87895347.96129918,
   "chainSlug": "celo"
 }

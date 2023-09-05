@@ -24,5 +24,6 @@
     }
   ],
   "tokens": [],
-  "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_candle.jpg"
+  "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_candle.jpg",
+  "chainSlug": "candle"
 }

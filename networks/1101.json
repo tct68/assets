@@ -42,5 +42,6 @@
   "tokens": [],
   "isDefault": false,
   "contract": {},
-  "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_polygon_zkevm.jpg"
+  "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_polygon_zkevm.jpg",
+  "chainSlug": "polygon_zkevm"
 }
