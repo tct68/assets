@@ -30,12 +30,8 @@
   "shortName": "fibo",
   "chainId": 12306,
   "networkId": 1230,
-  "explorers": [
-    {
-      "name": "fiboscan",
-      "url": "https://scan.fibochain.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "fiboscan": "https://scan.fibochain.org"
+  },
   "tokens": []
 }

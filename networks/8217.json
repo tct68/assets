@@ -20,13 +20,9 @@
   "chainId": 8217,
   "networkId": 8217,
   "slip44": 8217,
-  "explorers": [
-    {
-      "name": "Klaytnscope",
-      "url": "https://scope.klaytn.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Klaytnscope": "https://scope.klaytn.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

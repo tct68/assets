@@ -15,14 +15,9 @@
   "chainId": 262,
   "networkId": 1,
   "icon": "SUR",
-  "explorers": [
-    {
-      "name": "Surnet Explorer",
-      "url": "https://explorer.surnet.org",
-      "icon": "SUR",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Surnet Explorer": "https://explorer.surnet.org"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

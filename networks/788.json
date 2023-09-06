@@ -16,12 +16,8 @@
   "shortName": "taero",
   "chainId": 788,
   "networkId": 788,
-  "explorers": [
-    {
-      "name": "aeroscan",
-      "url": "https://testnet.aeroscan.id",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "aeroscan": "https://testnet.aeroscan.id"
+  },
   "tokens": []
 }

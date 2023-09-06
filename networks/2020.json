@@ -16,12 +16,8 @@
   "chainId": 2020,
   "networkId": 2020,
   "slip44": 60,
-  "explorers": [
-    {
-      "name": "PublicMint Explorer",
-      "url": "https://explorer.publicmint.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "PublicMint Explorer": "https://explorer.publicmint.io"
+  },
   "tokens": []
 }

@@ -15,12 +15,8 @@
   "shortName": "taratest",
   "chainId": 842,
   "networkId": 842,
-  "explorers": [
-    {
-      "name": "Taraxa Explorer",
-      "url": "https://explorer.testnet.taraxa.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Taraxa Explorer": "https://explorer.testnet.taraxa.io"
+  },
   "tokens": []
 }

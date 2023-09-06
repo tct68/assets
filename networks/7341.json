@@ -16,13 +16,9 @@
   "chainId": 7341,
   "networkId": 7341,
   "slip44": 2147490989,
-  "explorers": [
-    {
-      "name": "Shyft BX",
-      "url": "https://bx.shyft.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Shyft BX": "https://bx.shyft.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

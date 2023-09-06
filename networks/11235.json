@@ -14,13 +14,9 @@
   "shortName": "ISLM",
   "chainId": 11235,
   "networkId": 11235,
-  "explorers": [
-    {
-      "name": "Mainnet HAQQ Explorer",
-      "url": "https://explorer.haqq.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Mainnet HAQQ Explorer": "https://explorer.haqq.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

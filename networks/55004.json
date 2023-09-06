@@ -15,12 +15,8 @@
   "shortName": "teth",
   "chainId": 55004,
   "networkId": 55004,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.titan.tokamak.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.titan.tokamak.network"
+  },
   "tokens": []
 }

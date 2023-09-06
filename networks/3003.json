@@ -14,12 +14,8 @@
   "shortName": "cau",
   "chainId": 3003,
   "networkId": 3003,
-  "explorers": [
-    {
-      "name": "canxium explorer",
-      "url": "https://explorer.canxium.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "canxium explorer": "https://explorer.canxium.org"
+  },
   "tokens": []
 }

@@ -18,12 +18,8 @@
   "shortName": "alphabet",
   "chainId": 111222333444,
   "networkId": 111222333444,
-  "explorers": [
-    {
-      "name": "Alphabet Explorer",
-      "url": "https://scan.alphabetnetwork.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Alphabet Explorer": "https://scan.alphabetnetwork.org"
+  },
   "tokens": []
 }

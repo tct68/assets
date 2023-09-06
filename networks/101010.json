@@ -17,12 +17,8 @@
   "shortName": "SVRNt",
   "chainId": 101010,
   "networkId": 101010,
-  "explorers": [
-    {
-      "name": "Soverun",
-      "url": "https://testnet.soverun.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Soverun": "https://testnet.soverun.com"
+  },
   "tokens": []
 }

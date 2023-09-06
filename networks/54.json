@@ -15,12 +15,8 @@
   "shortName": "OP",
   "chainId": 54,
   "networkId": 54,
-  "explorers": [
-    {
-      "name": "Belly Scan",
-      "url": "https://bellyscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Belly Scan": "https://bellyscan.com"
+  },
   "tokens": []
 }

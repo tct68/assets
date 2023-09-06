@@ -16,12 +16,8 @@
   "chainId": 2018,
   "networkId": 2018,
   "slip44": 60,
-  "explorers": [
-    {
-      "name": "PublicMint Explorer",
-      "url": "https://explorer.dev.publicmint.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "PublicMint Explorer": "https://explorer.dev.publicmint.io"
+  },
   "tokens": []
 }

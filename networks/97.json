@@ -21,13 +21,9 @@
   "shortName": "bnbt",
   "chainId": 97,
   "networkId": 97,
-  "explorers": [
-    {
-      "name": "bscscan-testnet",
-      "url": "https://testnet.bscscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "bscscan-testnet": "https://testnet.bscscan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

@@ -17,13 +17,8 @@
   "chainId": 2399,
   "networkId": 2399,
   "icon": "bomb",
-  "explorers": [
-    {
-      "name": "bombscan-testnet",
-      "icon": "bomb",
-      "url": "https://explorer.bombchain-testnet.ankr.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "bombscan-testnet": "https://explorer.bombchain-testnet.ankr.com"
+  },
   "tokens": []
 }

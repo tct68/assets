@@ -15,12 +15,8 @@
   "shortName": "sats",
   "chainId": 12009,
   "networkId": 12009,
-  "explorers": [
-    {
-      "name": "SatoshiChain Explorer",
-      "url": "https://satoshiscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "SatoshiChain Explorer": "https://satoshiscan.io"
+  },
   "tokens": []
 }

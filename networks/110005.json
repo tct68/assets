@@ -18,13 +18,9 @@
     "chain": "eip155-110000",
     "type": "shard"
   },
-  "explorers": [
-    {
-      "name": "quarkchain-devnet",
-      "url": "https://devnet.quarkchain.io/4",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "quarkchain-devnet": "https://devnet.quarkchain.io/4"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

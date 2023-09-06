@@ -14,12 +14,8 @@
   "shortName": "ame",
   "chainId": 180,
   "networkId": 180,
-  "explorers": [
-    {
-      "name": "AME Scan",
-      "url": "https://amescan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "AME Scan": "https://amescan.io"
+  },
   "tokens": []
 }

@@ -18,13 +18,9 @@
   "shortName": "OntologyMainnet",
   "chainId": 58,
   "networkId": 58,
-  "explorers": [
-    {
-      "name": "explorer",
-      "url": "https://explorer.ont.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer": "https://explorer.ont.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

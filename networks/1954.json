@@ -15,13 +15,9 @@
   "shortName": "Dexilla",
   "chainId": 1954,
   "networkId": 1954,
-  "explorers": [
-    {
-      "name": "dos-mainnet",
-      "url": "https://exp.dexilla.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "dos-mainnet": "https://exp.dexilla.com"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-11155111",

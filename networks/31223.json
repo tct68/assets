@@ -15,12 +15,8 @@
   "shortName": "CLDTX",
   "chainId": 31223,
   "networkId": 31223,
-  "explorers": [
-    {
-      "name": "cloudtxscan",
-      "url": "https://scan.cloudtx.finance",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "cloudtxscan": "https://scan.cloudtx.finance"
+  },
   "tokens": []
 }

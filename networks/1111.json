@@ -15,12 +15,8 @@
   "shortName": "wemix",
   "chainId": 1111,
   "networkId": 1111,
-  "explorers": [
-    {
-      "name": "WEMIX Block Explorer",
-      "url": "https://explorer.wemix.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "WEMIX Block Explorer": "https://explorer.wemix.com"
+  },
   "tokens": []
 }

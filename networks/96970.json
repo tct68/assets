@@ -22,13 +22,8 @@
   "shortName": "mantis",
   "chainId": 96970,
   "networkId": 96970,
-  "explorers": [
-    {
-      "name": "Mantis Blockscout",
-      "url": "https://blockscout.mantis.hexapod.network",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Mantis Blockscout": "https://blockscout.mantis.hexapod.network"
+  },
   "tokens": []
 }

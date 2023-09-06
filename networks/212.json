@@ -17,12 +17,8 @@
   "shortName": "makalu",
   "chainId": 212,
   "networkId": 212,
-  "explorers": [
-    {
-      "name": "mapscan",
-      "url": "https://testnet.mapscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "mapscan": "https://testnet.mapscan.io"
+  },
   "tokens": []
 }

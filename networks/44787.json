@@ -18,13 +18,9 @@
     "https://cauldron.pretoriaresearchlab.io/alfajores-faucet"
   ],
   "infoURL": "https://docs.celo.org/",
-  "explorers": [
-    {
-      "name": "Celoscan",
-      "url": "https://celoscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Celoscan": "https://celoscan.io"
+  },
   "tokens": [
     {
       "name": "Poof Governance Token",

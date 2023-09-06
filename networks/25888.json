@@ -14,12 +14,8 @@
   "shortName": "GOLDT",
   "chainId": 25888,
   "networkId": 25888,
-  "explorers": [
-    {
-      "name": "Hammer Chain Explorer",
-      "url": "https://www.hammerchain.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Hammer Chain Explorer": "https://www.hammerchain.io"
+  },
   "tokens": []
 }

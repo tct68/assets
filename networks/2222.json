@@ -17,14 +17,9 @@
   "chainId": 2222,
   "networkId": 2222,
   "icon": "kava",
-  "explorers": [
-    {
-      "name": "Kava EVM Explorer",
-      "url": "https://kavascan.com",
-      "standard": "EIP3091",
-      "icon": "kava"
-    }
-  ],
+  "explorers": {
+    "Kava EVM Explorer": "https://kavascan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

@@ -16,12 +16,8 @@
   "shortName": "tZERO",
   "chainId": 12051,
   "networkId": 12051,
-  "explorers": [
-    {
-      "name": "zeroscan",
-      "url": "https://betaenv.singularity.gold:18002",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "zeroscan": "https://betaenv.singularity.gold:18002"
+  },
   "tokens": []
 }

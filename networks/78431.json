@@ -19,12 +19,8 @@
   "shortName": "bulletin",
   "chainId": 78431,
   "networkId": 78431,
-  "explorers": [
-    {
-      "name": "BULLETIN Explorer",
-      "url": "https://subnets-test.avax.network/bulletin",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "BULLETIN Explorer": "https://subnets-test.avax.network/bulletin"
+  },
   "tokens": []
 }

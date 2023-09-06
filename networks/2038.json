@@ -19,12 +19,8 @@
   "shortName": "shraptest",
   "chainId": 2038,
   "networkId": 2038,
-  "explorers": [
-    {
-      "name": "SHRAPNEL Explorer",
-      "url": "https://subnets-test.avax.network/shrapnel",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "SHRAPNEL Explorer": "https://subnets-test.avax.network/shrapnel"
+  },
   "tokens": []
 }

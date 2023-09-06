@@ -20,13 +20,9 @@
   "shortName": "mriver",
   "chainId": 1285,
   "networkId": 1285,
-  "explorers": [
-    {
-      "name": "moonscan",
-      "url": "https://moonriver.moonscan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "moonscan": "https://moonriver.moonscan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

@@ -15,14 +15,9 @@
   "shortName": "gar-s1",
   "chainId": 91,
   "networkId": 91,
-  "explorers": [
-    {
-      "name": "explorer",
-      "url": "https://explorer.garizon.com",
-      "icon": "garizon",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer": "https://explorer.garizon.com"
+  },
   "parent": {
     "chain": "eip155-90",
     "type": "shard"

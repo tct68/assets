@@ -26,12 +26,8 @@
   "chainId": 297,
   "networkId": 297,
   "slip44": 3030,
-  "explorers": [
-    {
-      "name": "HashScan",
-      "url": "https://hashscan.io/previewnet/dashboard",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "HashScan": "https://hashscan.io/previewnet/dashboard"
+  },
   "tokens": []
 }

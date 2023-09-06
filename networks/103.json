@@ -15,12 +15,8 @@
   "shortName": "WLC",
   "chainId": 103,
   "networkId": 103,
-  "explorers": [
-    {
-      "name": "Worldland Explorer",
-      "url": "https://scan.worldland.foundation",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Worldland Explorer": "https://scan.worldland.foundation"
+  },
   "tokens": []
 }

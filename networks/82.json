@@ -18,13 +18,9 @@
   "shortName": "Meter",
   "chainId": 82,
   "networkId": 82,
-  "explorers": [
-    {
-      "name": "Meter Mainnet Scan",
-      "url": "https://scan.meter.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Meter Mainnet Scan": "https://scan.meter.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

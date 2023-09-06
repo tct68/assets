@@ -17,12 +17,8 @@
   "shortName": "MIND",
   "chainId": 9996,
   "networkId": 9996,
-  "explorers": [
-    {
-      "name": "Mind Chain explorer",
-      "url": "https://mainnet.mindscan.info",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Mind Chain explorer": "https://mainnet.mindscan.info"
+  },
   "tokens": []
 }

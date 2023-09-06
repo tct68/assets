@@ -12,13 +12,9 @@
   "shortName": "0xt",
   "chainId": 10248,
   "networkId": 10248,
-  "explorers": [
-    {
-      "name": "0xtrade Scan",
-      "url": "https://www.0xtscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "0xtrade Scan": "https://www.0xtscan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

@@ -20,12 +20,8 @@
   "shortName": "opl",
   "chainId": 8882,
   "networkId": 8882,
-  "explorers": [
-    {
-      "name": "Unique Scan / Opal",
-      "url": "https://uniquescan.io/opal",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Unique Scan / Opal": "https://uniquescan.io/opal"
+  },
   "tokens": []
 }

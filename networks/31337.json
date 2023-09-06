@@ -15,12 +15,8 @@
   "chainId": 31337,
   "networkId": 31337,
   "slip44": 6060,
-  "explorers": [
-    {
-      "name": "GoChain Testnet Explorer",
-      "url": "https://testnet-explorer.gochain.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "GoChain Testnet Explorer": "https://testnet-explorer.gochain.io"
+  },
   "tokens": []
 }

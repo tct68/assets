@@ -14,13 +14,9 @@
   "shortName": "plian-testnet",
   "chainId": 16658437,
   "networkId": 16658437,
-  "explorers": [
-    {
-      "name": "piscan",
-      "url": "https://testnet.plian.org/testnet",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "piscan": "https://testnet.plian.org/testnet"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

@@ -18,12 +18,8 @@
   "chainId": 2206132,
   "networkId": 1,
   "icon": "platon",
-  "explorers": [
-    {
-      "name": "PlatON explorer",
-      "url": "https://devnet2scan.platon.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "PlatON explorer": "https://devnet2scan.platon.network"
+  },
   "tokens": []
 }

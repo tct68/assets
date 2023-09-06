@@ -12,12 +12,8 @@
   "shortName": "cloudwalk_mainnet",
   "chainId": 2009,
   "networkId": 2009,
-  "explorers": [
-    {
-      "name": "CloudWalk Mainnet Explorer",
-      "url": "https://explorer.mainnet.cloudwalk.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "CloudWalk Mainnet Explorer": "https://explorer.mainnet.cloudwalk.io"
+  },
   "tokens": []
 }

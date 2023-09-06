@@ -14,12 +14,8 @@
   "shortName": "vechain-testnet",
   "chainId": 100010,
   "networkId": 100010,
-  "explorers": [
-    {
-      "name": "VeChain Explorer",
-      "url": "https://explore-testnet.vechain.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "VeChain Explorer": "https://explore-testnet.vechain.org"
+  },
   "tokens": []
 }

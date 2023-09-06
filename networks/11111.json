@@ -17,13 +17,9 @@
   "shortName": "WAGMI",
   "chainId": 11111,
   "networkId": 11111,
-  "explorers": [
-    {
-      "name": "Avalanche Subnet Explorer",
-      "url": "https://subnets-test.avax.network/wagmi",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Avalanche Subnet Explorer": "https://subnets-test.avax.network/wagmi"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

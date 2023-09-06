@@ -15,13 +15,9 @@
   "shortName": "jfin",
   "chainId": 3501,
   "networkId": 3501,
-  "explorers": [
-    {
-      "name": "JFIN Chain Explorer",
-      "url": "https://exp.jfinchain.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "JFIN Chain Explorer": "https://exp.jfinchain.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

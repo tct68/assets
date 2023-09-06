@@ -20,13 +20,8 @@
   "chainId": 1380996178,
   "networkId": 1380996178,
   "icon": "raptorchain",
-  "explorers": [
-    {
-      "name": "RaptorChain Explorer",
-      "url": "https://explorer.raptorchain.io",
-      "icon": "raptorchain_explorer",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "RaptorChain Explorer": "https://explorer.raptorchain.io"
+  },
   "tokens": []
 }

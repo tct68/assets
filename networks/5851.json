@@ -24,12 +24,8 @@
   "shortName": "OntologyTestnet",
   "chainId": 5851,
   "networkId": 5851,
-  "explorers": [
-    {
-      "name": "explorer",
-      "url": "https://explorer.ont.io/testnet",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer": "https://explorer.ont.io/testnet"
+  },
   "tokens": []
 }

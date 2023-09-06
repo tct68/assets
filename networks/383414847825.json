@@ -16,12 +16,8 @@
   "shortName": "zeniq",
   "chainId": 383414847825,
   "networkId": 383414847825,
-  "explorers": [
-    {
-      "name": "zeniq-smart-chain-explorer",
-      "url": "https://smart.zeniq.net",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "zeniq-smart-chain-explorer": "https://smart.zeniq.net"
+  },
   "tokens": []
 }

@@ -16,12 +16,8 @@
   "shortName": "BTN",
   "chainId": 210,
   "networkId": 210,
-  "explorers": [
-    {
-      "name": "Bitnet Explorer",
-      "url": "https://btnscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Bitnet Explorer": "https://btnscan.com"
+  },
   "tokens": []
 }

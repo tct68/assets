@@ -17,12 +17,8 @@
   "chainId": 71,
   "networkId": 71,
   "icon": "conflux",
-  "explorers": [
-    {
-      "name": "Conflux Scan",
-      "url": "https://evmtestnet.confluxscan.net",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Conflux Scan": "https://evmtestnet.confluxscan.net"
+  },
   "tokens": []
 }

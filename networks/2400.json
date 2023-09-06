@@ -15,13 +15,9 @@
   "shortName": "TCGV",
   "chainId": 2400,
   "networkId": 2400,
-  "explorers": [
-    {
-      "name": "TCG Verse Explorer",
-      "url": "https://explorer.tcgverse.xyz",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "TCG Verse Explorer": "https://explorer.tcgverse.xyz"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-248"

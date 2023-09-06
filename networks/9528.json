@@ -16,12 +16,8 @@
   "shortName": "QETTest",
   "chainId": 9528,
   "networkId": 9528,
-  "explorers": [
-    {
-      "name": "QEasyWeb3 Explorer",
-      "url": "https://www.qeasyweb3.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "QEasyWeb3 Explorer": "https://www.qeasyweb3.com"
+  },
   "tokens": []
 }

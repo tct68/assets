@@ -15,12 +15,8 @@
   "shortName": "SDX",
   "chainId": 230,
   "networkId": 230,
-  "explorers": [
-    {
-      "name": "SwapDEX",
-      "url": "https://evm.swapdex.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "SwapDEX": "https://evm.swapdex.network"
+  },
   "tokens": []
 }

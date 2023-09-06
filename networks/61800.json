@@ -15,12 +15,8 @@
   "chainId": 61800,
   "networkId": 61800,
   "icon": "axelium",
-  "explorers": [
-    {
-      "name": "AxelChain Dev-Net Explorer",
-      "url": "https://devexplorer2.viacube.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "AxelChain Dev-Net Explorer": "https://devexplorer2.viacube.com"
+  },
   "tokens": []
 }

@@ -17,12 +17,8 @@
   "shortName": "trei",
   "chainId": 55556,
   "networkId": 55556,
-  "explorers": [
-    {
-      "name": "reiscan",
-      "url": "https://testnet.reiscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "reiscan": "https://testnet.reiscan.com"
+  },
   "tokens": []
 }

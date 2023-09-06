@@ -15,12 +15,8 @@
   "chainId": 21337,
   "networkId": 21337,
   "icon": "cennz",
-  "explorers": [
-    {
-      "name": "UNcover",
-      "url": "https://uncoverexplorer.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "UNcover": "https://uncoverexplorer.com"
+  },
   "tokens": []
 }

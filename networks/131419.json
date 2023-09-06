@@ -15,13 +15,8 @@
   "chainId": 131419,
   "networkId": 131419,
   "icon": "ETND",
-  "explorers": [
-    {
-      "name": "etndscan",
-      "url": "https://scan.etnd.pro",
-      "icon": "ETND",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "etndscan": "https://scan.etnd.pro"
+  },
   "tokens": []
 }

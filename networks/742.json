@@ -14,12 +14,8 @@
   "shortName": "SPAY",
   "chainId": 742,
   "networkId": 742,
-  "explorers": [
-    {
-      "name": "Script Explorer",
-      "url": "https://explorer.script.tv",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Script Explorer": "https://explorer.script.tv"
+  },
   "tokens": []
 }

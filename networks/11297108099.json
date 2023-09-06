@@ -15,13 +15,9 @@
   "shortName": "tpalm",
   "chainId": 11297108099,
   "networkId": 11297108099,
-  "explorers": [
-    {
-      "name": "Palm Testnet Explorer",
-      "url": "https://explorer.palm-uat.xyz",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Palm Testnet Explorer": "https://explorer.palm-uat.xyz"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

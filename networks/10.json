@@ -28,19 +28,10 @@
   "shortName": "oeth",
   "chainId": 10,
   "networkId": 10,
-  "explorers": [
-    {
-      "name": "etherscan",
-      "url": "https://optimistic.etherscan.io",
-      "standard": "EIP3091"
-    },
-    {
-      "name": "blockscout",
-      "url": "https://optimism.blockscout.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "etherscan": "https://optimistic.etherscan.io",
+    "blockscout": "https://optimism.blockscout.com"
+  },
   "tokens": [
     {
       "chainId": 10,

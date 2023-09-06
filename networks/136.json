@@ -15,13 +15,8 @@
   "shortName": "deam",
   "chainId": 136,
   "networkId": 136,
-  "explorers": [
-    {
-      "name": "Deamchain Block Explorer",
-      "url": "https://scan.deamchain.com",
-      "standard": "EIP3091",
-      "icon": "deam"
-    }
-  ],
+  "explorers": {
+    "Deamchain Block Explorer": "https://scan.deamchain.com"
+  },
   "tokens": []
 }

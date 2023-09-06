@@ -14,12 +14,8 @@
   "shortName": "cem",
   "chainId": 193,
   "networkId": 193,
-  "explorers": [
-    {
-      "name": "cemscan",
-      "url": "https://cemscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "cemscan": "https://cemscan.com"
+  },
   "tokens": []
 }

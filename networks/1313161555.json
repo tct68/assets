@@ -14,13 +14,9 @@
   "shortName": "aurora-testnet",
   "chainId": 1313161555,
   "networkId": 1313161555,
-  "explorers": [
-    {
-      "name": "aurorascan.dev",
-      "url": "https://testnet.aurorascan.dev",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "aurorascan.dev": "https://testnet.aurorascan.dev"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

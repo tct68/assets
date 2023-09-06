@@ -23,13 +23,8 @@
   "shortName": "tntest",
   "chainId": 5005,
   "networkId": 5005,
-  "explorers": [
-    {
-      "name": "Treasurenet EVM BlockExplorer",
-      "url": "https://evmexplorer.testnet.treasurenet.io",
-      "icon": "treasurenet",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Treasurenet EVM BlockExplorer": "https://evmexplorer.testnet.treasurenet.io"
+  },
   "tokens": []
 }

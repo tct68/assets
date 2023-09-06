@@ -15,12 +15,8 @@
   "shortName": "milkTAlgo",
   "chainId": 200202,
   "networkId": 200202,
-  "explorers": [
-    {
-      "name": "Blockscout",
-      "url": "https://explorer-devnet-algorand-rollup.a1.milkomeda.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Blockscout": "https://explorer-devnet-algorand-rollup.a1.milkomeda.com"
+  },
   "tokens": []
 }

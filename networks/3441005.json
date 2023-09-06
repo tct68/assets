@@ -23,12 +23,8 @@
   "chainId": 3441005,
   "networkId": 3441005,
   "icon": "manta",
-  "explorers": [
-    {
-      "name": "manta-testnet Explorer",
-      "url": "https://manta-testnet.calderaexplorer.xyz",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "manta-testnet Explorer": "https://manta-testnet.calderaexplorer.xyz"
+  },
   "tokens": []
 }

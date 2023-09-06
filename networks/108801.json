@@ -14,13 +14,9 @@
   "shortName": "bro",
   "chainId": 108801,
   "networkId": 108801,
-  "explorers": [
-    {
-      "name": "BROChain Explorer",
-      "url": "https://explorer.brochain.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "BROChain Explorer": "https://explorer.brochain.org"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

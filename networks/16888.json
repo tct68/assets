@@ -17,12 +17,8 @@
   "shortName": "tivar",
   "chainId": 16888,
   "networkId": 16888,
-  "explorers": [
-    {
-      "name": "ivarscan",
-      "url": "https://testnet.ivarscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "ivarscan": "https://testnet.ivarscan.com"
+  },
   "tokens": []
 }

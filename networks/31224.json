@@ -17,12 +17,8 @@
   "shortName": "CLD",
   "chainId": 31224,
   "networkId": 31224,
-  "explorers": [
-    {
-      "name": "cloudtxexplorer",
-      "url": "https://explorer.cloudtx.finance",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "cloudtxexplorer": "https://explorer.cloudtx.finance"
+  },
   "tokens": []
 }

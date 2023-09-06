@@ -25,13 +25,9 @@
     "reusedChainId"
   ],
   "icon": "camdl",
-  "explorers": [
-    {
-      "name": "CamDL Block Explorer",
-      "url": "https://explorer.camdl.gov.kh",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "CamDL Block Explorer": "https://explorer.camdl.gov.kh"
+  },
   "status": "active",
   "tokens": []
 }

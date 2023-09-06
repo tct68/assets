@@ -14,13 +14,9 @@
   "shortName": "tgton",
   "chainId": 50021,
   "networkId": 50021,
-  "explorers": [
-    {
-      "name": "GTON Testnet Network Explorer",
-      "url": "https://explorer.testnet.gton.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "GTON Testnet Network Explorer": "https://explorer.testnet.gton.network"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-3"

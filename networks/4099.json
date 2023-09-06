@@ -17,12 +17,8 @@
   "shortName": "BNIm",
   "chainId": 4099,
   "networkId": 4099,
-  "explorers": [
-    {
-      "name": "Bitindi",
-      "url": "https://bitindiscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Bitindi": "https://bitindiscan.com"
+  },
   "tokens": []
 }

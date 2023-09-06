@@ -15,13 +15,9 @@
   "faucets": [
     "https://www.gatescan.org/faucet"
   ],
-  "explorers": [
-    {
-      "name": "GateScan",
-      "url": "https://www.gatescan.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "GateScan": "https://www.gatescan.org"
+  },
   "infoURL": "https://www.gatechain.io",
   "tokens": [],
   "isDefault": false,

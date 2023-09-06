@@ -18,13 +18,9 @@
   "shortName": "RiseOfTheWarbotsTestnet",
   "chainId": 7777,
   "networkId": 7777,
-  "explorers": [
-    {
-      "name": "avascan",
-      "url": "https://testnet.avascan.info/blockchain/2mZ9doojfwHzXN3VXDQELKnKyZYxv7833U8Yq5eTfFx3hxJtiy",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "avascan": "https://testnet.avascan.info/blockchain/2mZ9doojfwHzXN3VXDQELKnKyZYxv7833U8Yq5eTfFx3hxJtiy"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

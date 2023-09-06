@@ -25,19 +25,10 @@
   "chainId": 8453,
   "networkId": 8453,
   "icon": "base",
-  "explorers": [
-    {
-      "name": "basescan",
-      "url": "https://basescan.org",
-      "standard": "none"
-    },
-    {
-      "name": "basescout",
-      "url": "https://base.blockscout.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "basescan": "https://basescan.org",
+    "basescout": "https://base.blockscout.com"
+  },
   "status": "active",
   "tokens": [
     {

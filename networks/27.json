@@ -14,13 +14,9 @@
   "shortName": "shib",
   "chainId": 27,
   "networkId": 27,
-  "explorers": [
-    {
-      "name": "Shiba Explorer",
-      "url": "https://exp.shibchain.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Shiba Explorer": "https://exp.shibchain.org"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

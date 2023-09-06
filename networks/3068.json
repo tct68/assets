@@ -17,12 +17,8 @@
   "chainId": 3068,
   "networkId": 3068,
   "icon": "bifrost",
-  "explorers": [
-    {
-      "name": "explorer-thebifrost",
-      "url": "https://explorer.mainnet.thebifrost.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer-thebifrost": "https://explorer.mainnet.thebifrost.io"
+  },
   "tokens": []
 }

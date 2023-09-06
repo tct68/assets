@@ -15,12 +15,8 @@
   "shortName": "shibarium",
   "chainId": 719,
   "networkId": 719,
-  "explorers": [
-    {
-      "name": "shibscan",
-      "url": "https://puppyscan.shib.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "shibscan": "https://puppyscan.shib.io"
+  },
   "tokens": []
 }

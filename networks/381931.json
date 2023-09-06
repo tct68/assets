@@ -15,12 +15,8 @@
   "chainId": 381931,
   "networkId": 381931,
   "slip44": 9005,
-  "explorers": [
-    {
-      "name": "metalscan",
-      "url": "https://metalscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "metalscan": "https://metalscan.io"
+  },
   "tokens": []
 }

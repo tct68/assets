@@ -18,13 +18,8 @@
   "chainId": 5353,
   "networkId": 5353,
   "icon": "tritanium",
-  "explorers": [
-    {
-      "name": "TRITANIUM Testnet Explorer",
-      "icon": "tritanium",
-      "url": "https://testnet.tritanium.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "TRITANIUM Testnet Explorer": "https://testnet.tritanium.network"
+  },
   "tokens": []
 }

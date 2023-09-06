@@ -18,12 +18,8 @@
   "chainId": 20201022,
   "networkId": 20201022,
   "icon": "pego",
-  "explorers": [
-    {
-      "name": "Pego Network Explorer",
-      "url": "https://scan.pego.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Pego Network Explorer": "https://scan.pego.network"
+  },
   "tokens": []
 }

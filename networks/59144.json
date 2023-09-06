@@ -27,20 +27,10 @@
       }
     ]
   },
-  "explorers": [
-    {
-      "name": "Etherscan",
-      "url": "https://lineascan.build",
-      "standard": "EIP3091",
-      "icon": "linea"
-    },
-    {
-      "name": "Blockscout",
-      "url": "https://explorer.linea.build",
-      "standard": "EIP3091",
-      "icon": "linea"
-    }
-  ],
+  "explorers": {
+    "Etherscan": "https://lineascan.build",
+    "Blockscout": "https://explorer.linea.build"
+  },
   "status": "active",
   "tokens": [],
   "isDefault": false,

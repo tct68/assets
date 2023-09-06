@@ -15,13 +15,8 @@
   "chainId": 259,
   "networkId": 259,
   "icon": "neonlink",
-  "explorers": [
-    {
-      "name": "Neon Blockchain Explorer",
-      "url": "https://scan.neonlink.io",
-      "standard": "EIP3091",
-      "icon": "neonlink"
-    }
-  ],
+  "explorers": {
+    "Neon Blockchain Explorer": "https://scan.neonlink.io"
+  },
   "tokens": []
 }

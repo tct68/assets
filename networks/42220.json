@@ -19,18 +19,10 @@
     "https://free-online-app.com/faucet-for-eth-evm-chains/"
   ],
   "infoURL": "https://docs.celo.org/",
-  "explorers": [
-    {
-      "name": "Celoscan",
-      "url": "https://celoscan.io",
-      "standard": "EIP3091"
-    },
-    {
-      "name": "blockscout",
-      "url": "https://explorer.celo.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Celoscan": "https://celoscan.io",
+    "blockscout": "https://explorer.celo.org"
+  },
   "tokens": [
     {
       "chainId": 42220,

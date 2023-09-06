@@ -17,12 +17,8 @@
   "chainId": 2625,
   "networkId": 2625,
   "icon": "whitebit-testnet",
-  "explorers": [
-    {
-      "name": "wb-explorer-testnet",
-      "url": "https://explorer.whitebit.network/testnet",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "wb-explorer-testnet": "https://explorer.whitebit.network/testnet"
+  },
   "tokens": []
 }

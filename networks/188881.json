@@ -17,12 +17,8 @@
   "shortName": "condor",
   "chainId": 188881,
   "networkId": 188881,
-  "explorers": [
-    {
-      "name": "CondorScan",
-      "url": "https://explorer.condor.systems",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "CondorScan": "https://explorer.condor.systems"
+  },
   "tokens": []
 }

@@ -17,13 +17,9 @@
   "shortName": "tokb",
   "chainId": 195,
   "networkId": 195,
-  "explorers": [
-    {
-      "name": "OKLink",
-      "url": "https://www.oklink.com/okbc-test",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "OKLink": "https://www.oklink.com/okbc-test"
+  },
   "status": "active",
   "tokens": []
 }

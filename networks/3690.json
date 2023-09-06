@@ -12,13 +12,9 @@
   "shortName": "btx",
   "chainId": 3690,
   "networkId": 3690,
-  "explorers": [
-    {
-      "name": "bittexscan",
-      "url": "https://bittexscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "bittexscan": "https://bittexscan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

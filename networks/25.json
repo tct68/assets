@@ -22,13 +22,9 @@
   "shortName": "cro",
   "chainId": 25,
   "networkId": 25,
-  "explorers": [
-    {
-      "name": "Cronos Explorer",
-      "url": "https://cronoscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Cronos Explorer": "https://cronoscan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

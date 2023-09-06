@@ -12,13 +12,9 @@
     "symbol": "LYX",
     "decimals": 18
   },
-  "explorers": [
-    {
-      "name": "Blockscout",
-      "url": "https://explorer.execution.mainnet.lukso.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Blockscout": "https://explorer.execution.mainnet.lukso.network"
+  },
   "infoURL": "https://lukso.network",
   "shortName": "lukso",
   "chainId": 42,

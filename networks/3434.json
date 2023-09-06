@@ -17,12 +17,8 @@
   "shortName": "SCAIt",
   "chainId": 3434,
   "networkId": 3434,
-  "explorers": [
-    {
-      "name": "SecureChain",
-      "url": "https://testnet.securechain.ai",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "SecureChain": "https://testnet.securechain.ai"
+  },
   "tokens": []
 }

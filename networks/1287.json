@@ -19,13 +19,9 @@
   "shortName": "mbase",
   "chainId": 1287,
   "networkId": 1287,
-  "explorers": [
-    {
-      "name": "moonscan",
-      "url": "https://moonbase.moonscan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "moonscan": "https://moonbase.moonscan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

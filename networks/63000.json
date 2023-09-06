@@ -15,14 +15,9 @@
   "chainId": 63000,
   "networkId": 63000,
   "icon": "ecredits",
-  "explorers": [
-    {
-      "name": "eCredits MainNet Explorer",
-      "url": "https://explorer.ecredits.com",
-      "icon": "ecredits",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "eCredits MainNet Explorer": "https://explorer.ecredits.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

@@ -15,12 +15,8 @@
   "shortName": "ELLA",
   "chainId": 7027,
   "networkId": 7027,
-  "explorers": [
-    {
-      "name": "Ella",
-      "url": "https://ella.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Ella": "https://ella.network"
+  },
   "tokens": []
 }

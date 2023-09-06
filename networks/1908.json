@@ -17,12 +17,8 @@
   "shortName": "tbitci",
   "chainId": 1908,
   "networkId": 1908,
-  "explorers": [
-    {
-      "name": "Bitci Explorer Testnet",
-      "url": "https://testnet.bitciexplorer.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Bitci Explorer Testnet": "https://testnet.bitciexplorer.com"
+  },
   "tokens": []
 }

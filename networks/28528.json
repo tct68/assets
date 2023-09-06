@@ -17,12 +17,8 @@
   "shortName": "obgor",
   "chainId": 28528,
   "networkId": 28528,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://blockscout.com/optimism/bedrock-alpha",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://blockscout.com/optimism/bedrock-alpha"
+  },
   "tokens": []
 }

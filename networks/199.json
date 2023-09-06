@@ -14,13 +14,9 @@
   "shortName": "BTT",
   "chainId": 199,
   "networkId": 199,
-  "explorers": [
-    {
-      "name": "BitTorrent Chain Explorer",
-      "url": "https://bttcscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "BitTorrent Chain Explorer": "https://bttcscan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

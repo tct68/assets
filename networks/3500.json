@@ -17,12 +17,8 @@
   "chainId": 3500,
   "networkId": 3500,
   "icon": "prb",
-  "explorers": [
-    {
-      "name": "Paribu Net Testnet Explorer",
-      "url": "https://testnet.paribuscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Paribu Net Testnet Explorer": "https://testnet.paribuscan.com"
+  },
   "tokens": []
 }

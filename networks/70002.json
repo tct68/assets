@@ -14,13 +14,9 @@
   "shortName": "TKM2",
   "chainId": 70002,
   "networkId": 70002,
-  "explorers": [
-    {
-      "name": "thinkiumscan",
-      "url": "https://chain2.thinkiumscan.net",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "thinkiumscan": "https://chain2.thinkiumscan.net"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

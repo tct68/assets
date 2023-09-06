@@ -15,12 +15,8 @@
   "shortName": "dexalot",
   "chainId": 432204,
   "networkId": 432204,
-  "explorers": [
-    {
-      "name": "Avalanche Subnet Explorer",
-      "url": "https://subnets.avax.network/dexalot",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Avalanche Subnet Explorer": "https://subnets.avax.network/dexalot"
+  },
   "tokens": []
 }

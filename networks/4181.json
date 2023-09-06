@@ -15,14 +15,9 @@
   "chainId": 4181,
   "networkId": 4181,
   "icon": "phi",
-  "explorers": [
-    {
-      "name": "PHI Explorer",
-      "url": "https://explorer.phi.network",
-      "icon": "phi",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "PHI Explorer": "https://explorer.phi.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

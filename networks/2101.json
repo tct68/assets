@@ -14,12 +14,8 @@
   "shortName": "esp",
   "chainId": 2101,
   "networkId": 2101,
-  "explorers": [
-    {
-      "name": "Ecoball Testnet Explorer",
-      "url": "https://espuma-scan.ecoball.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Ecoball Testnet Explorer": "https://espuma-scan.ecoball.org"
+  },
   "tokens": []
 }

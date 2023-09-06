@@ -17,12 +17,8 @@
   "shortName": "ELm",
   "chainId": 990,
   "networkId": 990,
-  "explorers": [
-    {
-      "name": "eLiberty Mainnet",
-      "url": "https://explorer.eliberty.ngo",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "eLiberty Mainnet": "https://explorer.eliberty.ngo"
+  },
   "tokens": []
 }

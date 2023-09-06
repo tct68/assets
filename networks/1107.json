@@ -15,13 +15,8 @@
   "shortName": "blxq",
   "chainId": 1107,
   "networkId": 1107,
-  "explorers": [
-    {
-      "name": "BLXq Explorer",
-      "url": "https://explorer.blx.org",
-      "icon": "blxq",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "BLXq Explorer": "https://explorer.blx.org"
+  },
   "tokens": []
 }

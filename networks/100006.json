@@ -18,13 +18,9 @@
     "chain": "eip155-100000",
     "type": "shard"
   },
-  "explorers": [
-    {
-      "name": "quarkchain-mainnet",
-      "url": "https://mainnet.quarkchain.io/5",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "quarkchain-mainnet": "https://mainnet.quarkchain.io/5"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

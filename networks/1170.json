@@ -15,13 +15,8 @@
   "chainId": 1170,
   "networkId": 1170,
   "icon": "origin",
-  "explorers": [
-    {
-      "name": "Origin Explorer",
-      "url": "https://evm-explorer.origin.uptick.network",
-      "icon": "origin",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Origin Explorer": "https://evm-explorer.origin.uptick.network"
+  },
   "tokens": []
 }

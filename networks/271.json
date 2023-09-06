@@ -17,12 +17,8 @@
   "shortName": "EGONm",
   "chainId": 271,
   "networkId": 271,
-  "explorers": [
-    {
-      "name": "EgonCoin Mainnet",
-      "url": "https://egcscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "EgonCoin Mainnet": "https://egcscan.com"
+  },
   "tokens": []
 }

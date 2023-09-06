@@ -15,13 +15,8 @@
   "shortName": "Metad",
   "chainId": 2122,
   "networkId": 2122,
-  "explorers": [
-    {
-      "name": "Metad Scan",
-      "url": "https://scan.metaplayer.one",
-      "icon": "metad",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Metad Scan": "https://scan.metaplayer.one"
+  },
   "tokens": []
 }

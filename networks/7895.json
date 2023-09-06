@@ -17,14 +17,9 @@
   "chainId": 7895,
   "networkId": 7895,
   "icon": "ard",
-  "explorers": [
-    {
-      "name": "ARDENIUM Athena Explorer",
-      "icon": "ard",
-      "url": "https://testnet.ardscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "ARDENIUM Athena Explorer": "https://testnet.ardscan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

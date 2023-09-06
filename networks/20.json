@@ -17,13 +17,9 @@
   "shortName": "esc",
   "chainId": 20,
   "networkId": 20,
-  "explorers": [
-    {
-      "name": "elastos esc explorer",
-      "url": "https://esc.elastos.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "elastos esc explorer": "https://esc.elastos.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

@@ -29,19 +29,10 @@
   "chainId": 100,
   "networkId": 100,
   "slip44": 700,
-  "explorers": [
-    {
-      "name": "gnosisscan",
-      "url": "https://gnosisscan.io",
-      "standard": "EIP3091"
-    },
-    {
-      "name": "blockscout",
-      "url": "https://gnosis.blockscout.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "gnosisscan": "https://gnosisscan.io",
+    "blockscout": "https://gnosis.blockscout.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

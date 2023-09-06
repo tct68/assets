@@ -30,20 +30,10 @@
       }
     ]
   },
-  "explorers": [
-    {
-      "name": "Etherscan",
-      "url": "https://goerli.lineascan.build",
-      "standard": "EIP3091",
-      "icon": "linea"
-    },
-    {
-      "name": "Blockscout",
-      "url": "https://explorer.goerli.linea.build",
-      "standard": "EIP3091",
-      "icon": "linea"
-    }
-  ],
+  "explorers": {
+    "Etherscan": "https://goerli.lineascan.build",
+    "Blockscout": "https://explorer.goerli.linea.build"
+  },
   "status": "active",
   "tokens": []
 }

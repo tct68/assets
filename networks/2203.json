@@ -15,13 +15,8 @@
   "chainId": 2203,
   "networkId": 2203,
   "icon": "ebtc",
-  "explorers": [
-    {
-      "name": "Explorer",
-      "url": "https://explorer.bitcoinevm.com",
-      "icon": "ebtc",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Explorer": "https://explorer.bitcoinevm.com"
+  },
   "tokens": []
 }

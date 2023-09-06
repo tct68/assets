@@ -14,12 +14,8 @@
   "shortName": "SherpaxTestnet",
   "chainId": 1507,
   "networkId": 1507,
-  "explorers": [
-    {
-      "name": "Sherpax Testnet Explorer",
-      "url": "https://evm-pre.sherpax.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Sherpax Testnet Explorer": "https://evm-pre.sherpax.io"
+  },
   "tokens": []
 }

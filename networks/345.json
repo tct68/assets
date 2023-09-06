@@ -15,13 +15,9 @@
   "shortName": "YVM",
   "chainId": 345,
   "networkId": 345,
-  "explorers": [
-    {
-      "name": "Yooldo Verse Explorer",
-      "url": "https://explorer.yooldo-verse.xyz",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Yooldo Verse Explorer": "https://explorer.yooldo-verse.xyz"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-248"

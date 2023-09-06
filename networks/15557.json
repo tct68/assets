@@ -15,13 +15,9 @@
   "shortName": "eos-testnet",
   "chainId": 15557,
   "networkId": 15557,
-  "explorers": [
-    {
-      "name": "EOS EVM Explorer",
-      "url": "https://explorer.testnet.evm.eosnetwork.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "EOS EVM Explorer": "https://explorer.testnet.evm.eosnetwork.com"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-1",

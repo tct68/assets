@@ -16,12 +16,8 @@
   "shortName": "hmy-b-s1",
   "chainId": 1666700001,
   "networkId": 1666700001,
-  "explorers": [
-    {
-      "name": "Harmony Block Explorer",
-      "url": "https://explorer.testnet.harmony.one",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Harmony Block Explorer": "https://explorer.testnet.harmony.one"
+  },
   "tokens": []
 }

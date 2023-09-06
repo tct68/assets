@@ -15,12 +15,8 @@
   "shortName": "bitrock",
   "chainId": 7171,
   "networkId": 7171,
-  "explorers": [
-    {
-      "name": "Bitrock Explorer",
-      "url": "https://scan.bit-rock.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Bitrock Explorer": "https://scan.bit-rock.io"
+  },
   "tokens": []
 }

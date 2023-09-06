@@ -15,14 +15,9 @@
   "chainId": 5553,
   "networkId": 5553,
   "icon": "nahmii",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.testnet.nahmii.io",
-      "icon": "nahmii",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.testnet.nahmii.io"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-3",

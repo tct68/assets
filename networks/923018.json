@@ -17,13 +17,8 @@
   "chainId": 923018,
   "networkId": 923018,
   "icon": "fncy",
-  "explorers": [
-    {
-      "name": "fncy scan testnet",
-      "url": "https://fncyscan-testnet.fncy.world",
-      "icon": "fncy",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "fncy scan testnet": "https://fncyscan-testnet.fncy.world"
+  },
   "tokens": []
 }

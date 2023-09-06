@@ -15,13 +15,9 @@
   "chainId": 201018,
   "networkId": 1,
   "icon": "alaya",
-  "explorers": [
-    {
-      "name": "alaya explorer",
-      "url": "https://scan.alaya.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "alaya explorer": "https://scan.alaya.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

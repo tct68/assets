@@ -15,14 +15,9 @@
   "chainId": 45000,
   "networkId": 45000,
   "icon": "autobahn",
-  "explorers": [
-    {
-      "name": "autobahn explorer",
-      "url": "https://explorer.autobahn.network",
-      "icon": "autobahn",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "autobahn explorer": "https://explorer.autobahn.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

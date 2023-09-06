@@ -17,14 +17,9 @@
     "https://arbitrum-nova.drpc.org"
   ],
   "faucets": [],
-  "explorers": [
-    {
-      "name": "Arbitrum Nova Chain Explorer",
-      "url": "https://nova-explorer.arbitrum.io",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Arbitrum Nova Chain Explorer": "https://nova-explorer.arbitrum.io"
+  },
   "infoURL": "https://arbitrum.io",
   "parent": {
     "type": "L2",

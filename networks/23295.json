@@ -16,12 +16,8 @@
   "shortName": "sapphire-testnet",
   "chainId": 23295,
   "networkId": 23295,
-  "explorers": [
-    {
-      "name": "Oasis Sapphire Testnet Explorer",
-      "url": "https://testnet.explorer.sapphire.oasis.dev",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Oasis Sapphire Testnet Explorer": "https://testnet.explorer.sapphire.oasis.dev"
+  },
   "tokens": []
 }

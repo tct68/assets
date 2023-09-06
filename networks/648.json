@@ -14,12 +14,8 @@
   "shortName": "ace",
   "chainId": 648,
   "networkId": 648,
-  "explorers": [
-    {
-      "name": "Endurance Scan",
-      "url": "https://explorer.endurance.fusionist.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Endurance Scan": "https://explorer.endurance.fusionist.io"
+  },
   "tokens": []
 }

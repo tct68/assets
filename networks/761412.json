@@ -15,12 +15,8 @@
   "shortName": "Miexs",
   "chainId": 761412,
   "networkId": 761412,
-  "explorers": [
-    {
-      "name": "Miexs Smartchain Explorer",
-      "url": "https://miexs.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Miexs Smartchain Explorer": "https://miexs.com"
+  },
   "tokens": []
 }

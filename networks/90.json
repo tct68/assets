@@ -15,14 +15,9 @@
   "shortName": "gar-s0",
   "chainId": 90,
   "networkId": 90,
-  "explorers": [
-    {
-      "name": "explorer",
-      "url": "https://explorer.garizon.com",
-      "icon": "garizon",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer": "https://explorer.garizon.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

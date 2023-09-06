@@ -15,17 +15,9 @@
   "shortName": "neonevm-testnet",
   "chainId": 245022940,
   "networkId": 245022940,
-  "explorers": [
-    {
-      "name": "native",
-      "url": "https://testnet.explorer.neon-labs.org",
-      "standard": "EIP3091"
-    },
-    {
-      "name": "neonscan",
-      "url": "https://testnet.neonscan.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "native": "https://testnet.explorer.neon-labs.org",
+    "neonscan": "https://testnet.neonscan.org"
+  },
   "tokens": []
 }

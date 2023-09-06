@@ -14,13 +14,9 @@
   "shortName": "crab",
   "chainId": 44,
   "networkId": 44,
-  "explorers": [
-    {
-      "name": "subscan",
-      "url": "https://crab.subscan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "subscan": "https://crab.subscan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

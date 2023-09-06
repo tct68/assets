@@ -18,12 +18,8 @@
   "shortName": "mtc",
   "chainId": 1967,
   "networkId": 1967,
-  "explorers": [
-    {
-      "name": "metaexplorer-eleanor",
-      "url": "https://explorer.metatime.com/eleanor",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "metaexplorer-eleanor": "https://explorer.metatime.com/eleanor"
+  },
   "tokens": []
 }

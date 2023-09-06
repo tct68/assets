@@ -16,12 +16,8 @@
   "shortName": "mintara",
   "chainId": 1080,
   "networkId": 1080,
-  "explorers": [
-    {
-      "name": "explorer",
-      "url": "https://subnets.avax.network/mintara",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer": "https://subnets.avax.network/mintara"
+  },
   "tokens": []
 }

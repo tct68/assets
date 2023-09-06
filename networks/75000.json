@@ -13,12 +13,8 @@
   "shortName": "resin",
   "chainId": 75000,
   "networkId": 75000,
-  "explorers": [
-    {
-      "name": "ResinScan",
-      "url": "https://explorer.resincoin.dev",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "ResinScan": "https://explorer.resincoin.dev"
+  },
   "tokens": []
 }

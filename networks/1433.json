@@ -16,12 +16,8 @@
   "shortName": "RIK",
   "chainId": 1433,
   "networkId": 1433,
-  "explorers": [
-    {
-      "name": "Rikeza Blockchain explorer",
-      "url": "https://rikscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Rikeza Blockchain explorer": "https://rikscan.com"
+  },
   "tokens": []
 }

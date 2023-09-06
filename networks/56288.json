@@ -19,13 +19,9 @@
   "shortName": "BobaBnb",
   "chainId": 56288,
   "networkId": 56288,
-  "explorers": [
-    {
-      "name": "Boba BNB block explorer",
-      "url": "https://blockexplorer.bnb.boba.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Boba BNB block explorer": "https://blockexplorer.bnb.boba.network"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-5",

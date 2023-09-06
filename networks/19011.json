@@ -15,13 +15,9 @@
   "shortName": "HMV",
   "chainId": 19011,
   "networkId": 19011,
-  "explorers": [
-    {
-      "name": "HOME Verse Explorer",
-      "url": "https://explorer.oasys.homeverse.games",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "HOME Verse Explorer": "https://explorer.oasys.homeverse.games"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-248"

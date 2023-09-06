@@ -18,12 +18,8 @@
   "shortName": "emerald-testnet",
   "chainId": 42261,
   "networkId": 42261,
-  "explorers": [
-    {
-      "name": "Oasis Emerald Testnet Explorer",
-      "url": "https://testnet.explorer.emerald.oasis.dev",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Oasis Emerald Testnet Explorer": "https://testnet.explorer.emerald.oasis.dev"
+  },
   "tokens": []
 }

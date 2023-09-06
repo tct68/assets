@@ -17,12 +17,8 @@
   "shortName": "SRDXt",
   "chainId": 11612,
   "networkId": 11612,
-  "explorers": [
-    {
-      "name": "Sardis",
-      "url": "https://testnet.sardisnetwork.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Sardis": "https://testnet.sardisnetwork.com"
+  },
   "tokens": []
 }

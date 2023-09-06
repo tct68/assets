@@ -16,12 +16,8 @@
   "shortName": "MeterTest",
   "chainId": 83,
   "networkId": 83,
-  "explorers": [
-    {
-      "name": "Meter Testnet Scan",
-      "url": "https://scan-warringstakes.meter.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Meter Testnet Scan": "https://scan-warringstakes.meter.io"
+  },
   "tokens": []
 }

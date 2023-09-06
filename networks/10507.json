@@ -15,12 +15,8 @@
   "shortName": "Jade",
   "chainId": 10507,
   "networkId": 10507,
-  "explorers": [
-    {
-      "name": "ethernal",
-      "url": "https://mainnet.num.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "ethernal": "https://mainnet.num.network"
+  },
   "tokens": []
 }

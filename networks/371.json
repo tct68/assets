@@ -15,12 +15,8 @@
   "chainId": 371,
   "networkId": 371,
   "icon": "constachain",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer-testnet.theconsta.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer-testnet.theconsta.com"
+  },
   "tokens": []
 }

@@ -14,13 +14,9 @@
   "shortName": "cmp-mainnet",
   "chainId": 256256,
   "networkId": 256256,
-  "explorers": [
-    {
-      "name": "Mainnet Scan",
-      "url": "https://mainnet.scan.caduceus.foundation",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Mainnet Scan": "https://mainnet.scan.caduceus.foundation"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

@@ -16,13 +16,8 @@
   "networkId": 2330,
   "icon": "altcoinchain",
   "status": "active",
-  "explorers": [
-    {
-      "name": "expedition",
-      "url": "http://expedition.altcoinchain.org",
-      "icon": "altcoinchain",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "expedition": "http://expedition.altcoinchain.org"
+  },
   "tokens": []
 }

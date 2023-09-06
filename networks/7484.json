@@ -16,12 +16,8 @@
   "shortName": "raba",
   "chainId": 7484,
   "networkId": 7484,
-  "explorers": [
-    {
-      "name": "raba",
-      "url": "https://x.raba.app/explorer",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "raba": "https://x.raba.app/explorer"
+  },
   "tokens": []
 }

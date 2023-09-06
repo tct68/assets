@@ -26,12 +26,8 @@
   "shortName": "Oasis",
   "chainId": 4090,
   "networkId": 4090,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://oasis.ftnscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://oasis.ftnscan.com"
+  },
   "tokens": []
 }

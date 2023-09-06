@@ -14,12 +14,8 @@
   "shortName": "REDLC",
   "chainId": 2611,
   "networkId": 2611,
-  "explorers": [
-    {
-      "name": "REDLC Explorer",
-      "url": "https://redlightscan.finance",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "REDLC Explorer": "https://redlightscan.finance"
+  },
   "tokens": []
 }

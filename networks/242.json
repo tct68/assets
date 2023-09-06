@@ -17,12 +17,8 @@
   "shortName": "plgchain",
   "chainId": 242,
   "networkId": 242,
-  "explorers": [
-    {
-      "name": "plgscan",
-      "url": "https://www.plgscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "plgscan": "https://www.plgscan.com"
+  },
   "tokens": []
 }

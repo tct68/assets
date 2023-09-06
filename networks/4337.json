@@ -20,12 +20,8 @@
   "icon": "beam",
   "chainId": 4337,
   "networkId": 4337,
-  "explorers": [
-    {
-      "name": "Beam Explorer",
-      "url": "https://subnets.avax.network/beam",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Beam Explorer": "https://subnets.avax.network/beam"
+  },
   "tokens": []
 }

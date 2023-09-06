@@ -15,13 +15,9 @@
   "shortName": "chainx",
   "chainId": 1501,
   "networkId": 1501,
-  "explorers": [
-    {
-      "name": "bevm scan",
-      "url": "https://scan.bevm.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "bevm scan": "https://scan.bevm.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

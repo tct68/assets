@@ -22,12 +22,8 @@
   "shortName": "ncnt",
   "chainId": 303,
   "networkId": 303,
-  "explorers": [
-    {
-      "name": "neuroscan",
-      "url": "https://testnet.ncnscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "neuroscan": "https://testnet.ncnscan.com"
+  },
   "tokens": []
 }

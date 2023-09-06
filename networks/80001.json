@@ -28,13 +28,9 @@
   "shortName": "maticmum",
   "chainId": 80001,
   "networkId": 80001,
-  "explorers": [
-    {
-      "name": "polygonscan",
-      "url": "https://mumbai.polygonscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "polygonscan": "https://mumbai.polygonscan.com"
+  },
   "tokens": [
     {
       "name": "Wrapped Ether",

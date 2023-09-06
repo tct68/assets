@@ -19,13 +19,8 @@
   "chainId": 1337802,
   "networkId": 1337802,
   "icon": "ethereum",
-  "explorers": [
-    {
-      "name": "Kiln Explorer",
-      "url": "https://explorer.kiln.themerge.dev",
-      "icon": "ethereum",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Kiln Explorer": "https://explorer.kiln.themerge.dev"
+  },
   "tokens": []
 }

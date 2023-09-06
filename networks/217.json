@@ -15,12 +15,8 @@
   "shortName": "SIN2",
   "chainId": 217,
   "networkId": 217,
-  "explorers": [
-    {
-      "name": "siriusnet explorer",
-      "url": "https://scan.siriusnet.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "siriusnet explorer": "https://scan.siriusnet.io"
+  },
   "tokens": []
 }

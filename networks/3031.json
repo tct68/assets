@@ -15,13 +15,8 @@
   "chainId": 3031,
   "networkId": 3031,
   "icon": "orl",
-  "explorers": [
-    {
-      "name": "Orlando (ORL) Explorer",
-      "url": "https://orlscan.com",
-      "icon": "orl",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Orlando (ORL) Explorer": "https://orlscan.com"
+  },
   "tokens": []
 }

@@ -23,13 +23,9 @@
   "shortName": "dc",
   "chainId": 2000,
   "networkId": 2000,
-  "explorers": [
-    {
-      "name": "dogechain explorer",
-      "url": "https://explorer.dogechain.dog",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "dogechain explorer": "https://explorer.dogechain.dog"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

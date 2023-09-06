@@ -17,13 +17,8 @@
   "chainId": 9000,
   "networkId": 9000,
   "icon": "evmos",
-  "explorers": [
-    {
-      "name": "Evmos Explorer (Escan)",
-      "url": "https://testnet.escan.live",
-      "standard": "none",
-      "icon": "evmos"
-    }
-  ],
+  "explorers": {
+    "Evmos Explorer (Escan)": "https://testnet.escan.live"
+  },
   "tokens": []
 }

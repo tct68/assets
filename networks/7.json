@@ -22,13 +22,9 @@
   "shortName": "tch",
   "chainId": 7,
   "networkId": 7,
-  "explorers": [
-    {
-      "name": "Thaichain Explorer",
-      "url": "https://exp.thaichain.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Thaichain Explorer": "https://exp.thaichain.org"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

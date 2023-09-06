@@ -17,13 +17,8 @@
   "networkId": 2109,
   "slip44": 2109,
   "icon": "exn",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.exosama.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.exosama.com"
+  },
   "tokens": []
 }

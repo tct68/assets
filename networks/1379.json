@@ -15,13 +15,8 @@
   "shortName": "KLC",
   "chainId": 1379,
   "networkId": 1379,
-  "explorers": [
-    {
-      "name": "kalarscan",
-      "url": "https://explorer.kalarchain.tech",
-      "icon": "kalarscan",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "kalarscan": "https://explorer.kalarchain.tech"
+  },
   "tokens": []
 }

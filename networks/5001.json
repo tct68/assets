@@ -16,12 +16,8 @@
   "shortName": "mantle-testnet",
   "chainId": 5001,
   "networkId": 5001,
-  "explorers": [
-    {
-      "name": "Mantle Testnet Explorer",
-      "url": "https://explorer.testnet.mantle.xyz",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Mantle Testnet Explorer": "https://explorer.testnet.mantle.xyz"
+  },
   "tokens": []
 }

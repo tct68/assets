@@ -23,13 +23,8 @@
   "chainId": 333331,
   "networkId": 333331,
   "icon": "aves",
-  "explorers": [
-    {
-      "name": "avescan",
-      "url": "https://testnet.avescoin.io",
-      "icon": "avescan",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "avescan": "https://testnet.avescoin.io"
+  },
   "tokens": []
 }

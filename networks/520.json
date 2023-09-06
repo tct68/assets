@@ -19,12 +19,8 @@
   "shortName": "xt",
   "chainId": 520,
   "networkId": 1024,
-  "explorers": [
-    {
-      "name": "xscscan",
-      "url": "https://xscscan.pub",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "xscscan": "https://xscscan.pub"
+  },
   "tokens": []
 }

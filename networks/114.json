@@ -17,12 +17,8 @@
   "shortName": "c2flr",
   "chainId": 114,
   "networkId": 114,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://coston2-explorer.flare.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://coston2-explorer.flare.network"
+  },
   "tokens": []
 }

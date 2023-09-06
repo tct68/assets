@@ -15,12 +15,8 @@
   "chainId": 49,
   "networkId": 49,
   "icon": "etmp",
-  "explorers": [
-    {
-      "name": "etmp",
-      "url": "https://pioneer.etmscan.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "etmp": "https://pioneer.etmscan.network"
+  },
   "tokens": []
 }

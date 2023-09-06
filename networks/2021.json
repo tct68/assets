@@ -27,19 +27,10 @@
   "chainId": 2021,
   "networkId": 2021,
   "slip44": 523,
-  "explorers": [
-    {
-      "name": "Edgscan by Bharathcoorg",
-      "url": "https://edgscan.live",
-      "standard": "EIP3091"
-    },
-    {
-      "name": "Subscan",
-      "url": "https://edgeware.subscan.io",
-      "standard": "none",
-      "icon": "subscan"
-    }
-  ],
+  "explorers": {
+    "Edgscan by Bharathcoorg": "https://edgscan.live",
+    "Subscan": "https://edgeware.subscan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

@@ -23,14 +23,9 @@
   "chainId": 6688,
   "networkId": 6688,
   "icon": "irishub",
-  "explorers": [
-    {
-      "name": "IRISHub Cosmos Explorer (IOBScan)",
-      "url": "https://irishub.iobscan.io",
-      "standard": "none",
-      "icon": "irishub"
-    }
-  ],
+  "explorers": {
+    "IRISHub Cosmos Explorer (IOBScan)": "https://irishub.iobscan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

@@ -17,12 +17,8 @@
   "shortName": "SVRNm",
   "chainId": 10101010,
   "networkId": 10101010,
-  "explorers": [
-    {
-      "name": "Soverun",
-      "url": "https://explorer.soverun.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Soverun": "https://explorer.soverun.com"
+  },
   "tokens": []
 }

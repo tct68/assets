@@ -18,13 +18,8 @@
   "shortName": "tenet-testnet",
   "chainId": 155,
   "networkId": 155,
-  "explorers": [
-    {
-      "name": "TenetScan Testnet",
-      "url": "https://testnet.tenetscan.io",
-      "icon": "tenet",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "TenetScan Testnet": "https://testnet.tenetscan.io"
+  },
   "tokens": []
 }

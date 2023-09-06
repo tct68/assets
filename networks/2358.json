@@ -16,14 +16,9 @@
   "faucets": [],
   "infoURL": "https://kroma.network",
   "icon": "kroma",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://blockscout.sepolia.kroma.network",
-      "icon": "kroma",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://blockscout.sepolia.kroma.network"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-11155111",

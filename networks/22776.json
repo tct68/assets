@@ -14,13 +14,9 @@
   "chainId": 22776,
   "networkId": 22776,
   "slip44": 60,
-  "explorers": [
-    {
-      "name": "mapscan",
-      "url": "https://mapscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "mapscan": "https://mapscan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

@@ -16,12 +16,8 @@
   "shortName": "mintara-testnet",
   "chainId": 1079,
   "networkId": 1079,
-  "explorers": [
-    {
-      "name": "explorer",
-      "url": "https://subnets-test.avax.network/mintara",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer": "https://subnets-test.avax.network/mintara"
+  },
   "tokens": []
 }

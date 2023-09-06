@@ -16,13 +16,9 @@
   "shortName": "emerald",
   "chainId": 42262,
   "networkId": 42262,
-  "explorers": [
-    {
-      "name": "Oasis Emerald Explorer",
-      "url": "https://explorer.emerald.oasis.dev",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Oasis Emerald Explorer": "https://explorer.emerald.oasis.dev"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

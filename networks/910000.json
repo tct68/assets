@@ -16,12 +16,8 @@
   "shortName": "psc-t-s0",
   "chainId": 910000,
   "networkId": 910000,
-  "explorers": [
-    {
-      "name": "Posichain Explorer Testnet",
-      "url": "https://explorer-testnet.posichain.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Posichain Explorer Testnet": "https://explorer-testnet.posichain.org"
+  },
   "tokens": []
 }

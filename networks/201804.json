@@ -23,13 +23,8 @@
   "chainId": 201804,
   "networkId": 201804,
   "icon": "mythical",
-  "explorers": [
-    {
-      "name": "Mythical Chain Explorer",
-      "url": "https://explorer.mythicalgames.com",
-      "icon": "mythical",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Mythical Chain Explorer": "https://explorer.mythicalgames.com"
+  },
   "tokens": []
 }

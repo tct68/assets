@@ -15,13 +15,8 @@
   "chainId": 35443,
   "networkId": 35443,
   "icon": "q",
-  "explorers": [
-    {
-      "name": "Q explorer",
-      "url": "https://explorer.qtestnet.org",
-      "icon": "q",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Q explorer": "https://explorer.qtestnet.org"
+  },
   "tokens": []
 }

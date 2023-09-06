@@ -17,12 +17,8 @@
   "shortName": "vsct",
   "chainId": 741,
   "networkId": 741,
-  "explorers": [
-    {
-      "name": "ventionscan",
-      "url": "https://testnet.ventionscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "ventionscan": "https://testnet.ventionscan.io"
+  },
   "tokens": []
 }

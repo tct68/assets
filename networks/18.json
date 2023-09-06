@@ -16,12 +16,8 @@
   "shortName": "TST",
   "chainId": 18,
   "networkId": 18,
-  "explorers": [
-    {
-      "name": "thundercore-blockscout-testnet",
-      "url": "https://explorer-testnet.thundercore.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "thundercore-blockscout-testnet": "https://explorer-testnet.thundercore.com"
+  },
   "tokens": []
 }

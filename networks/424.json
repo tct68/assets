@@ -23,14 +23,9 @@
   "chainId": 424,
   "networkId": 424,
   "icon": "publicGoodsNetwork",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.publicgoods.network",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.publicgoods.network"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-1",

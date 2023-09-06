@@ -17,13 +17,8 @@
   "shortName": "laos",
   "chainId": 667,
   "networkId": 667,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://arrakis.gorengine.com",
-      "icon": "laos",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://arrakis.gorengine.com"
+  },
   "tokens": []
 }

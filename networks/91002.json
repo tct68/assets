@@ -18,12 +18,8 @@
   "shortName": "NAUT",
   "chainId": 91002,
   "networkId": 91002,
-  "explorers": [
-    {
-      "name": "Nautscan",
-      "url": "https://triton.nautscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Nautscan": "https://triton.nautscan.com"
+  },
   "tokens": []
 }

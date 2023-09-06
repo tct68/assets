@@ -18,14 +18,9 @@
   "chainId": 2323,
   "networkId": 2323,
   "icon": "soma",
-  "explorers": [
-    {
-      "name": "SOMA Testnet Explorer",
-      "icon": "soma",
-      "url": "https://testnet.somascan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "SOMA Testnet Explorer": "https://testnet.somascan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

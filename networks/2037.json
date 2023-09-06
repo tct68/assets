@@ -19,12 +19,8 @@
   "shortName": "kiwi",
   "chainId": 2037,
   "networkId": 2037,
-  "explorers": [
-    {
-      "name": "KIWI Explorer",
-      "url": "https://subnets-test.avax.network/kiwi",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "KIWI Explorer": "https://subnets-test.avax.network/kiwi"
+  },
   "tokens": []
 }

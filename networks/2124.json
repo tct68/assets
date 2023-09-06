@@ -14,12 +14,8 @@
   "shortName": "MEU",
   "chainId": 2124,
   "networkId": 2124,
-  "explorers": [
-    {
-      "name": "MP1Scan",
-      "url": "https://dubai.mp1scan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "MP1Scan": "https://dubai.mp1scan.io"
+  },
   "tokens": []
 }

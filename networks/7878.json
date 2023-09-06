@@ -17,12 +17,8 @@
   "shortName": "tscas",
   "chainId": 7878,
   "networkId": 7878,
-  "explorers": [
-    {
-      "name": "Hazlor Testnet Explorer",
-      "url": "https://explorer.hazlor.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Hazlor Testnet Explorer": "https://explorer.hazlor.com"
+  },
   "tokens": []
 }

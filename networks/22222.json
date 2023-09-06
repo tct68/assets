@@ -15,13 +15,8 @@
   "shortName": "NAUTCHAIN",
   "chainId": 22222,
   "networkId": 22222,
-  "explorers": [
-    {
-      "name": "Nautscan",
-      "url": "https://nautscan.com",
-      "standard": "EIP3091",
-      "icon": "nautilus"
-    }
-  ],
+  "explorers": {
+    "Nautscan": "https://nautscan.com"
+  },
   "tokens": []
 }

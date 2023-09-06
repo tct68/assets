@@ -17,12 +17,8 @@
   "shortName": "DOGSm",
   "chainId": 1117,
   "networkId": 1117,
-  "explorers": [
-    {
-      "name": "Dogcoin",
-      "url": "https://explorer.dogcoin.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Dogcoin": "https://explorer.dogcoin.network"
+  },
   "tokens": []
 }

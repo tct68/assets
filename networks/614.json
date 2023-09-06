@@ -14,12 +14,8 @@
   "shortName": "glq",
   "chainId": 614,
   "networkId": 614,
-  "explorers": [
-    {
-      "name": "GLQ Explorer",
-      "url": "https://explorer.graphlinq.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "GLQ Explorer": "https://explorer.graphlinq.io"
+  },
   "tokens": []
 }

@@ -16,14 +16,9 @@
   "shortName": "step",
   "chainId": 1234,
   "networkId": 1234,
-  "explorers": [
-    {
-      "name": "StepScan",
-      "url": "https://stepscan.io",
-      "icon": "step",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "StepScan": "https://stepscan.io"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-43114",

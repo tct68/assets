@@ -17,12 +17,8 @@
   "shortName": "TPBXm",
   "chainId": 404040,
   "networkId": 404040,
-  "explorers": [
-    {
-      "name": "Tipboxcoin",
-      "url": "https://tipboxcoin.net",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Tipboxcoin": "https://tipboxcoin.net"
+  },
   "tokens": []
 }

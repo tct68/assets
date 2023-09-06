@@ -17,13 +17,9 @@
   "shortName": "Liberty20",
   "chainId": 8081,
   "networkId": 8081,
-  "explorers": [
-    {
-      "name": "Shardeum Scan",
-      "url": "https://explorer-liberty20.shardeum.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Shardeum Scan": "https://explorer-liberty20.shardeum.org"
+  },
   "redFlags": [
     "reusedChainId"
   ],

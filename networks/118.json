@@ -15,12 +15,8 @@
   "shortName": "arcology",
   "chainId": 118,
   "networkId": 118,
-  "explorers": [
-    {
-      "name": "arcology",
-      "url": "https://testnet.arcology.network/explorer",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "arcology": "https://testnet.arcology.network/explorer"
+  },
   "tokens": []
 }

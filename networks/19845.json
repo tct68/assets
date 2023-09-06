@@ -12,13 +12,9 @@
   "shortName": "btcix",
   "chainId": 19845,
   "networkId": 19845,
-  "explorers": [
-    {
-      "name": "BTCIXScan",
-      "url": "https://btcixscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "BTCIXScan": "https://btcixscan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

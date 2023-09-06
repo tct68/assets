@@ -14,12 +14,8 @@
   "shortName": "TestnetCanto",
   "chainId": 7701,
   "networkId": 7701,
-  "explorers": [
-    {
-      "name": "Canto Testnet EVM Explorer (Blockscout)",
-      "url": "https://testnet.tuber.build",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Canto Testnet EVM Explorer (Blockscout)": "https://testnet.tuber.build"
+  },
   "tokens": []
 }

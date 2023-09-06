@@ -23,13 +23,9 @@
   "shortName": "TelosEVM",
   "chainId": 40,
   "networkId": 40,
-  "explorers": [
-    {
-      "name": "teloscan",
-      "url": "https://teloscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "teloscan": "https://teloscan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

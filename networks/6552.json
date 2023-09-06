@@ -17,12 +17,8 @@
   "chainId": 6552,
   "networkId": 6552,
   "icon": "scolcoin",
-  "explorers": [
-    {
-      "name": "Scolscan Testnet Explorer",
-      "url": "https://testnet-explorer.scolcoin.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Scolscan Testnet Explorer": "https://testnet-explorer.scolcoin.com"
+  },
   "tokens": []
 }

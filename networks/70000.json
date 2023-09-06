@@ -12,13 +12,9 @@
   "shortName": "TKM0",
   "chainId": 70000,
   "networkId": 70000,
-  "explorers": [
-    {
-      "name": "thinkiumscan",
-      "url": "https://chain0.thinkiumscan.net",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "thinkiumscan": "https://chain0.thinkiumscan.net"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

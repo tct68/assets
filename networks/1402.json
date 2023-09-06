@@ -13,13 +13,9 @@
   "shortName": "zkevmtest",
   "chainId": 1402,
   "networkId": 1402,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.public.zkevm-test.net",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.public.zkevm-test.net"
+  },
   "status": "deprecated",
   "tokens": []
 }

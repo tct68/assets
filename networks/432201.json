@@ -17,12 +17,8 @@
   "shortName": "dexalot-testnet",
   "chainId": 432201,
   "networkId": 432201,
-  "explorers": [
-    {
-      "name": "Avalanche Subnet Testnet Explorer",
-      "url": "https://subnets-test.avax.network/dexalot",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Avalanche Subnet Testnet Explorer": "https://subnets-test.avax.network/dexalot"
+  },
   "tokens": []
 }

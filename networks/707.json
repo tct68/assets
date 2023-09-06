@@ -12,13 +12,9 @@
   "shortName": "bcs",
   "chainId": 707,
   "networkId": 707,
-  "explorers": [
-    {
-      "name": "BlockChain Station Explorer",
-      "url": "https://explorer.bcsdev.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "BlockChain Station Explorer": "https://explorer.bcsdev.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

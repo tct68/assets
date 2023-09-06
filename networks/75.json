@@ -27,13 +27,8 @@
   "chainId": 75,
   "networkId": 75,
   "icon": "dsc",
-  "explorers": [
-    {
-      "name": "DSC Explorer Mainnet",
-      "url": "https://explorer.decimalchain.com",
-      "icon": "dsc",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "DSC Explorer Mainnet": "https://explorer.decimalchain.com"
+  },
   "tokens": []
 }

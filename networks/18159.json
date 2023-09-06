@@ -19,13 +19,9 @@
   "shortName": "pom",
   "chainId": 18159,
   "networkId": 18159,
-  "explorers": [
-    {
-      "name": "explorer-proofofmemes",
-      "url": "https://memescan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer-proofofmemes": "https://memescan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

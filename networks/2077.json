@@ -14,13 +14,9 @@
   "shortName": "QKA",
   "chainId": 2077,
   "networkId": 2077,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.qkacoin.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.qkacoin.org"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

@@ -49,13 +49,9 @@
   "chainId": 56,
   "networkId": 56,
   "slip44": 714,
-  "explorers": [
-    {
-      "name": "bscscan",
-      "url": "https://bscscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "bscscan": "https://bscscan.com"
+  },
   "tokens": [
     {
       "chainId": 56,

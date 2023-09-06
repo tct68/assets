@@ -17,12 +17,8 @@
   "chainId": 230315,
   "networkId": 230315,
   "icon": "hsk",
-  "explorers": [
-    {
-      "name": "HashKey Chain Testnet Explorer",
-      "url": "https://testnet.hashkeyscan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "HashKey Chain Testnet Explorer": "https://testnet.hashkeyscan.io"
+  },
   "tokens": []
 }

@@ -15,13 +15,8 @@
   "chainId": 9779,
   "networkId": 9779,
   "icon": "pepenetwork",
-  "explorers": [
-    {
-      "name": "Pepe Explorer",
-      "url": "https://explorer.pepenetwork.io",
-      "icon": "pepenetwork",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Pepe Explorer": "https://explorer.pepenetwork.io"
+  },
   "tokens": []
 }

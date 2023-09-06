@@ -19,13 +19,9 @@
   "shortName": "shimmerevm-testnet",
   "chainId": 1072,
   "networkId": 1072,
-  "explorers": [
-    {
-      "name": "explorer",
-      "url": "https://explorer.evm.testnet.shimmer.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer": "https://explorer.evm.testnet.shimmer.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

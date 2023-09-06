@@ -24,13 +24,9 @@
   "chainId": 787,
   "networkId": 787,
   "slip44": 787,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://blockscout.acala.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://blockscout.acala.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

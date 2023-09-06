@@ -16,13 +16,8 @@
   "networkId": 1146703430,
   "icon": "cyberdeck",
   "status": "active",
-  "explorers": [
-    {
-      "name": "CybEthExplorer",
-      "url": "http://cybeth1.cyberdeck.eu:8000",
-      "icon": "cyberdeck",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "CybEthExplorer": "http://cybeth1.cyberdeck.eu:8000"
+  },
   "tokens": []
 }

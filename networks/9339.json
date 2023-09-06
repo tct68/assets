@@ -17,12 +17,8 @@
   "shortName": "DOGSt",
   "chainId": 9339,
   "networkId": 9339,
-  "explorers": [
-    {
-      "name": "Dogcoin",
-      "url": "https://testnet.dogcoin.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Dogcoin": "https://testnet.dogcoin.network"
+  },
   "tokens": []
 }

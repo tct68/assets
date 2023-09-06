@@ -16,12 +16,8 @@
   "shortName": "milkAda",
   "chainId": 2001,
   "networkId": 2001,
-  "explorers": [
-    {
-      "name": "Blockscout",
-      "url": "https://explorer-mainnet-cardano-evm.c1.milkomeda.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Blockscout": "https://explorer-mainnet-cardano-evm.c1.milkomeda.com"
+  },
   "tokens": []
 }

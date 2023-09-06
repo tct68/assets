@@ -15,12 +15,8 @@
   "shortName": "gil",
   "chainId": 1452,
   "networkId": 1452,
-  "explorers": [
-    {
-      "name": "GIL Explorer",
-      "url": "https://explorer.giltestnet.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "GIL Explorer": "https://explorer.giltestnet.com"
+  },
   "tokens": []
 }

@@ -23,12 +23,8 @@
   "shortName": "ncn",
   "chainId": 313,
   "networkId": 313,
-  "explorers": [
-    {
-      "name": "neuroscan",
-      "url": "https://ncnscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "neuroscan": "https://ncnscan.com"
+  },
   "tokens": []
 }

@@ -16,13 +16,8 @@
   "shortName": "Bitfinity",
   "chainId": 355113,
   "networkId": 355113,
-  "explorers": [
-    {
-      "name": "Bitfinity Block Explorer",
-      "url": "https://explorer.bitfinity.network",
-      "icon": "bitfinity",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Bitfinity Block Explorer": "https://explorer.bitfinity.network"
+  },
   "tokens": []
 }

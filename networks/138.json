@@ -28,12 +28,8 @@
   "ens": {
     "registry": "0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85"
   },
-  "explorers": [
-    {
-      "name": "Quorum Explorer",
-      "url": "https://public-0138.defi-oracle.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Quorum Explorer": "https://public-0138.defi-oracle.io"
+  },
   "tokens": []
 }

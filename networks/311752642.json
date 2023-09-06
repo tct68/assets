@@ -15,13 +15,9 @@
   "shortName": "oneledger",
   "chainId": 311752642,
   "networkId": 311752642,
-  "explorers": [
-    {
-      "name": "OneLedger Block Explorer",
-      "url": "https://mainnet-explorer.oneledger.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "OneLedger Block Explorer": "https://mainnet-explorer.oneledger.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

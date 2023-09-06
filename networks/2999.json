@@ -15,12 +15,8 @@
   "chainId": 2999,
   "networkId": 2999,
   "icon": "bty",
-  "explorers": [
-    {
-      "name": "BitYuan Block Chain Explorer",
-      "url": "https://mainnet.bityuan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "BitYuan Block Chain Explorer": "https://mainnet.bityuan.com"
+  },
   "tokens": []
 }

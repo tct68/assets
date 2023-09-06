@@ -15,13 +15,9 @@
   "shortName": "hmy-s2",
   "chainId": 1666600002,
   "networkId": 1666600002,
-  "explorers": [
-    {
-      "name": "Harmony Block Explorer",
-      "url": "https://explorer.harmony.one/blocks/shard/2",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Harmony Block Explorer": "https://explorer.harmony.one/blocks/shard/2"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

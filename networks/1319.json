@@ -16,12 +16,8 @@
   "shortName": "aitd",
   "chainId": 1319,
   "networkId": 1319,
-  "explorers": [
-    {
-      "name": "AITD Chain Explorer Mainnet",
-      "url": "https://aitd-explorer-new.aitd.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "AITD Chain Explorer Mainnet": "https://aitd-explorer-new.aitd.io"
+  },
   "tokens": []
 }

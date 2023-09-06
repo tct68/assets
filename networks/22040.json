@@ -15,12 +15,8 @@
   "shortName": "airdao-test",
   "chainId": 22040,
   "networkId": 22040,
-  "explorers": [
-    {
-      "name": "AirDAO Network Explorer",
-      "url": "https://testnet.airdao.io/explorer",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "AirDAO Network Explorer": "https://testnet.airdao.io/explorer"
+  },
   "tokens": []
 }

@@ -15,13 +15,8 @@
   "chainId": 4759,
   "networkId": 4759,
   "icon": "meverse",
-  "explorers": [
-    {
-      "name": "MEVerse Chain Testnet Explorer",
-      "url": "https://testnet.meversescan.io",
-      "standard": "none",
-      "icon": "meverse"
-    }
-  ],
+  "explorers": {
+    "MEVerse Chain Testnet Explorer": "https://testnet.meversescan.io"
+  },
   "tokens": []
 }

@@ -15,12 +15,8 @@
   "shortName": "saakuru",
   "chainId": 7225878,
   "networkId": 7225878,
-  "explorers": [
-    {
-      "name": "saakuru-explorer",
-      "url": "https://explorer.saakuru.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "saakuru-explorer": "https://explorer.saakuru.network"
+  },
   "tokens": []
 }

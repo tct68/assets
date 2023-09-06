@@ -15,13 +15,9 @@
   "shortName": "BNKEN",
   "chainId": 876,
   "networkId": 876,
-  "explorers": [
-    {
-      "name": "Bandai Namco Research Verse Explorer",
-      "url": "https://explorer.main.oasvrs.bnken.net",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Bandai Namco Research Verse Explorer": "https://explorer.main.oasvrs.bnken.net"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-248"

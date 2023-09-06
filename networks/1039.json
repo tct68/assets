@@ -13,13 +13,8 @@
   "chainId": 1039,
   "networkId": 1039,
   "icon": "bronos",
-  "explorers": [
-    {
-      "name": "Bronos Explorer",
-      "url": "https://broscan.bronos.org",
-      "standard": "none",
-      "icon": "bronos"
-    }
-  ],
+  "explorers": {
+    "Bronos Explorer": "https://broscan.bronos.org"
+  },
   "tokens": []
 }

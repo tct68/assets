@@ -16,12 +16,8 @@
   "shortName": "taiko-l2",
   "chainId": 167005,
   "networkId": 167005,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.test.taiko.xyz",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.test.taiko.xyz"
+  },
   "tokens": []
 }

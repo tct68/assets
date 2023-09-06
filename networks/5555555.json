@@ -16,19 +16,9 @@
   "chainId": 5555555,
   "networkId": 5555555,
   "icon": "imversed",
-  "explorers": [
-    {
-      "name": "Imversed EVM explorer (Blockscout)",
-      "url": "https://txe.imversed.network",
-      "icon": "imversed",
-      "standard": "EIP3091"
-    },
-    {
-      "name": "Imversed Cosmos Explorer (Big Dipper)",
-      "url": "https://tex-c.imversed.com",
-      "icon": "imversed",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Imversed EVM explorer (Blockscout)": "https://txe.imversed.network",
+    "Imversed Cosmos Explorer (Big Dipper)": "https://tex-c.imversed.com"
+  },
   "tokens": []
 }

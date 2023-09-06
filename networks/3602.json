@@ -15,12 +15,8 @@
   "shortName": "pando-testnet",
   "chainId": 3602,
   "networkId": 3602,
-  "explorers": [
-    {
-      "name": "Pando Testnet Explorer",
-      "url": "https://testnet.explorer.pandoproject.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Pando Testnet Explorer": "https://testnet.explorer.pandoproject.org"
+  },
   "tokens": []
 }

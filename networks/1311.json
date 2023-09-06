@@ -14,12 +14,8 @@
   "shortName": "TDOS",
   "chainId": 1311,
   "networkId": 1311,
-  "explorers": [
-    {
-      "name": "dos-testnet",
-      "url": "https://test.doscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "dos-testnet": "https://test.doscan.io"
+  },
   "tokens": []
 }

@@ -16,13 +16,9 @@
   "shortName": "OAS",
   "chainId": 248,
   "networkId": 248,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.oasys.games",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.oasys.games"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

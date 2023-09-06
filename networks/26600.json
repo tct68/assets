@@ -23,13 +23,8 @@
   "chainId": 26600,
   "networkId": 26600,
   "icon": "hertz-network",
-  "explorers": [
-    {
-      "name": "Hertz Scan",
-      "url": "https://hertzscan.com",
-      "icon": "hertz-network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Hertz Scan": "https://hertzscan.com"
+  },
   "tokens": []
 }

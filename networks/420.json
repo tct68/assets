@@ -22,14 +22,9 @@
   "shortName": "ogor",
   "chainId": 420,
   "networkId": 420,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://optimism-goerli.blockscout.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://optimism-goerli.blockscout.com"
+  },
   "tokens": [
     {
       "chainId": 420,

@@ -17,18 +17,10 @@
   "shortName": "Boba",
   "chainId": 288,
   "networkId": 288,
-  "explorers": [
-    {
-      "name": "Bobascan",
-      "url": "https://bobascan.com",
-      "standard": "none"
-    },
-    {
-      "name": "Blockscout",
-      "url": "https://blockexplorer.boba.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Bobascan": "https://bobascan.com",
+    "Blockscout": "https://blockexplorer.boba.network"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-1",

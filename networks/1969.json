@@ -17,12 +17,8 @@
   "chainId": 1969,
   "networkId": 1969,
   "icon": "super",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://testnetscan.scschain.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://testnetscan.scschain.com"
+  },
   "tokens": []
 }

@@ -15,12 +15,8 @@
   "shortName": "debounce-devnet",
   "chainId": 3306,
   "networkId": 3306,
-  "explorers": [
-    {
-      "name": "Debounce Devnet Explorer",
-      "url": "https://explorer.debounce.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Debounce Devnet Explorer": "https://explorer.debounce.network"
+  },
   "tokens": []
 }

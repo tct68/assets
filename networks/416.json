@@ -15,13 +15,9 @@
   "shortName": "SX",
   "chainId": 416,
   "networkId": 416,
-  "explorers": [
-    {
-      "name": "SX Network Explorer",
-      "url": "https://explorer.sx.technology",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "SX Network Explorer": "https://explorer.sx.technology"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

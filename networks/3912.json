@@ -25,12 +25,8 @@
   "chainId": 3912,
   "networkId": 3912,
   "icon": "drac",
-  "explorers": [
-    {
-      "name": "DRAC_Network Scan",
-      "url": "https://www.dracscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "DRAC_Network Scan": "https://www.dracscan.io"
+  },
   "tokens": []
 }

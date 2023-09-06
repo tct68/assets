@@ -17,12 +17,8 @@
   "shortName": "SPCt",
   "chainId": 3698,
   "networkId": 3698,
-  "explorers": [
-    {
-      "name": "SenjePowers",
-      "url": "https://testnet.senjepowersscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "SenjePowers": "https://testnet.senjepowersscan.com"
+  },
   "tokens": []
 }

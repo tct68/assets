@@ -15,13 +15,9 @@
   "chainId": 8,
   "networkId": 8,
   "slip44": 108,
-  "explorers": [
-    {
-      "name": "ubiqscan",
-      "url": "https://ubiqscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "ubiqscan": "https://ubiqscan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

@@ -21,13 +21,8 @@
   "shortName": "lightlink_phoenix",
   "chainId": 1890,
   "networkId": 1890,
-  "explorers": [
-    {
-      "name": "phoenix",
-      "url": "https://phoenix.lightlink.io",
-      "icon": "lightlink",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "phoenix": "https://phoenix.lightlink.io"
+  },
   "tokens": []
 }

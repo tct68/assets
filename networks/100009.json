@@ -12,17 +12,9 @@
   "shortName": "vechain",
   "chainId": 100009,
   "networkId": 100009,
-  "explorers": [
-    {
-      "name": "VeChain Stats",
-      "url": "https://vechainstats.com",
-      "standard": "none"
-    },
-    {
-      "name": "VeChain Explorer",
-      "url": "https://explore.vechain.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "VeChain Stats": "https://vechainstats.com",
+    "VeChain Explorer": "https://explore.vechain.org"
+  },
   "tokens": []
 }

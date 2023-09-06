@@ -16,19 +16,9 @@
   "chainId": 11110,
   "networkId": 11110,
   "icon": "astra",
-  "explorers": [
-    {
-      "name": "Astra EVM Explorer (Blockscout)",
-      "url": "https://explorer.astranaut.io",
-      "standard": "none",
-      "icon": "astra"
-    },
-    {
-      "name": "Astra PingPub Explorer",
-      "url": "https://ping.astranaut.io/astra",
-      "standard": "none",
-      "icon": "astra"
-    }
-  ],
+  "explorers": {
+    "Astra EVM Explorer (Blockscout)": "https://explorer.astranaut.io",
+    "Astra PingPub Explorer": "https://ping.astranaut.io/astra"
+  },
   "tokens": []
 }

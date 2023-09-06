@@ -16,14 +16,9 @@
   "networkId": 813,
   "slip44": 813,
   "icon": "meer",
-  "explorers": [
-    {
-      "name": "meerscan",
-      "icon": "meer",
-      "url": "https://qng.meerscan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "meerscan": "https://qng.meerscan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

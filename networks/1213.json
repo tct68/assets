@@ -14,13 +14,9 @@
   "shortName": "popcat",
   "chainId": 1213,
   "networkId": 1213,
-  "explorers": [
-    {
-      "name": "popcateum explorer",
-      "url": "https://explorer.popcateum.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "popcateum explorer": "https://explorer.popcateum.org"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

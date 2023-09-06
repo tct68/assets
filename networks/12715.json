@@ -16,12 +16,8 @@
   "shortName": "tRIK",
   "chainId": 12715,
   "networkId": 12715,
-  "explorers": [
-    {
-      "name": "Rikeza Blockchain explorer",
-      "url": "https://testnet.rikscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Rikeza Blockchain explorer": "https://testnet.rikscan.com"
+  },
   "tokens": []
 }

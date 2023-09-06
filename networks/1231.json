@@ -15,14 +15,9 @@
   "shortName": "UtronMainnet",
   "chainId": 1231,
   "networkId": 1231,
-  "explorers": [
-    {
-      "name": "Ultron Explorer",
-      "url": "https://ulxscan.com",
-      "icon": "ultron",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Ultron Explorer": "https://ulxscan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

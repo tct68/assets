@@ -23,13 +23,8 @@
   "chainId": 1177,
   "networkId": 1177,
   "icon": "smarthost",
-  "explorers": [
-    {
-      "name": "Smart Host Teknoloji TESTNET Explorer",
-      "url": "https://s2.tl.web.tr:4000",
-      "icon": "smarthost",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Smart Host Teknoloji TESTNET Explorer": "https://s2.tl.web.tr:4000"
+  },
   "tokens": []
 }

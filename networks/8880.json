@@ -18,12 +18,8 @@
   "shortName": "unq",
   "chainId": 8880,
   "networkId": 8880,
-  "explorers": [
-    {
-      "name": "Unique Scan",
-      "url": "https://uniquescan.io/unique",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Unique Scan": "https://uniquescan.io/unique"
+  },
   "tokens": []
 }

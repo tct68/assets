@@ -16,14 +16,9 @@
   "chainId": 81,
   "networkId": 81,
   "icon": "joc",
-  "explorers": [
-    {
-      "name": "Block Explorer",
-      "url": "https://explorer.japanopenchain.org",
-      "standard": "EIP3091",
-      "icon": "joc"
-    }
-  ],
+  "explorers": {
+    "Block Explorer": "https://explorer.japanopenchain.org"
+  },
   "redFlags": [
     "reusedChainId"
   ],

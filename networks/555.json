@@ -14,13 +14,9 @@
   "shortName": "CLASS",
   "chainId": 555,
   "networkId": 555,
-  "explorers": [
-    {
-      "name": "Vela1 Chain Mainnet Explorer",
-      "url": "https://exp.velaverse.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Vela1 Chain Mainnet Explorer": "https://exp.velaverse.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

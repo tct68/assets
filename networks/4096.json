@@ -17,12 +17,8 @@
   "shortName": "BNIt",
   "chainId": 4096,
   "networkId": 4096,
-  "explorers": [
-    {
-      "name": "Bitindi",
-      "url": "https://testnet.bitindiscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Bitindi": "https://testnet.bitindiscan.com"
+  },
   "tokens": []
 }

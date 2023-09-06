@@ -16,12 +16,8 @@
   "shortName": "kcst",
   "chainId": 322,
   "networkId": 322,
-  "explorers": [
-    {
-      "name": "kcc-scan-testnet",
-      "url": "https://scan-testnet.kcc.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "kcc-scan-testnet": "https://scan-testnet.kcc.network"
+  },
   "tokens": []
 }

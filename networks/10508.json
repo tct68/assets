@@ -18,12 +18,8 @@
   "shortName": "Snow",
   "chainId": 10508,
   "networkId": 10508,
-  "explorers": [
-    {
-      "name": "ethernal",
-      "url": "https://testnet.num.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "ethernal": "https://testnet.num.network"
+  },
   "tokens": []
 }

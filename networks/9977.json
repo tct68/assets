@@ -18,12 +18,8 @@
   "shortName": "tMIND",
   "chainId": 9977,
   "networkId": 9977,
-  "explorers": [
-    {
-      "name": "Mind Chain explorer",
-      "url": "https://testnet.mindscan.info",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Mind Chain explorer": "https://testnet.mindscan.info"
+  },
   "tokens": []
 }

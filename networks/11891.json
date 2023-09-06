@@ -14,13 +14,9 @@
   "shortName": "Arianee",
   "chainId": 11891,
   "networkId": 11891,
-  "explorers": [
-    {
-      "name": "Polygon Supernet Arianee Explorer",
-      "url": "https://polygonsupernet.explorer.arianee.net",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Polygon Supernet Arianee Explorer": "https://polygonsupernet.explorer.arianee.net"
+  },
   "parent": {
     "chain": "eip155-1",
     "type": "L2"

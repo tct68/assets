@@ -14,12 +14,8 @@
   "shortName": "VChain",
   "chainId": 2223,
   "networkId": 2223,
-  "explorers": [
-    {
-      "name": "VChain Scan",
-      "url": "https://scan.vcex.xyz",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "VChain Scan": "https://scan.vcex.xyz"
+  },
   "tokens": []
 }

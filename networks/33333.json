@@ -23,13 +23,8 @@
   "chainId": 33333,
   "networkId": 33333,
   "icon": "aves",
-  "explorers": [
-    {
-      "name": "avescan",
-      "url": "https://avescan.io",
-      "icon": "avescan",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "avescan": "https://avescan.io"
+  },
   "tokens": []
 }

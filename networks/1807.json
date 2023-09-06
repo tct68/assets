@@ -17,12 +17,8 @@
   "shortName": "rAna",
   "chainId": 1807,
   "networkId": 1807,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://rabbit.analogscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://rabbit.analogscan.com"
+  },
   "tokens": []
 }

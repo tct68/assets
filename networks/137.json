@@ -39,13 +39,9 @@
   "chainId": 137,
   "networkId": 137,
   "slip44": 966,
-  "explorers": [
-    {
-      "name": "polygonscan",
-      "url": "https://polygonscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "polygonscan": "https://polygonscan.com"
+  },
   "tokens": [
     {
       "chainId": 137,

@@ -14,12 +14,8 @@
   "shortName": "PAW",
   "chainId": 542,
   "networkId": 542,
-  "explorers": [
-    {
-      "name": "PAWCHAIN Testnet",
-      "url": "https://pawscan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "PAWCHAIN Testnet": "https://pawscan.io"
+  },
   "tokens": []
 }

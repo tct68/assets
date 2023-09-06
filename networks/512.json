@@ -15,13 +15,9 @@
   "chainId": 512,
   "networkId": 512,
   "slip44": 1512,
-  "explorers": [
-    {
-      "name": "aacscan",
-      "url": "https://scan.acuteangle.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "aacscan": "https://scan.acuteangle.com"
+  },
   "icon": "aac",
   "tokens": [],
   "isDefault": false,

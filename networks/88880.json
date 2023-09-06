@@ -17,12 +17,8 @@
   "shortName": "chz",
   "chainId": 88880,
   "networkId": 88880,
-  "explorers": [
-    {
-      "name": "scoville-explorer",
-      "url": "https://scoville-explorer.chiliz.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "scoville-explorer": "https://scoville-explorer.chiliz.com"
+  },
   "tokens": []
 }

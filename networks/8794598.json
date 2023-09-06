@@ -15,13 +15,8 @@
   "chainId": 8794598,
   "networkId": 8794598,
   "icon": "hap",
-  "explorers": [
-    {
-      "name": "HAP EVM Explorer (Blockscout)",
-      "url": "https://blockscout.hap.land",
-      "standard": "none",
-      "icon": "hap"
-    }
-  ],
+  "explorers": {
+    "HAP EVM Explorer (Blockscout)": "https://blockscout.hap.land"
+  },
   "tokens": []
 }

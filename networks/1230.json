@@ -15,13 +15,8 @@
   "shortName": "UltronTestnet",
   "chainId": 1230,
   "networkId": 1230,
-  "explorers": [
-    {
-      "name": "Ultron Testnet Explorer",
-      "url": "https://explorer.ultron-dev.io",
-      "icon": "ultron",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Ultron Testnet Explorer": "https://explorer.ultron-dev.io"
+  },
   "tokens": []
 }

@@ -18,19 +18,10 @@
   "chainId": 7001,
   "networkId": 7001,
   "status": "active",
-  "explorers": [
-    {
-      "name": "ZetaChain Athens Testnet Explorer",
-      "url": "https://athens3.explorer.zetachain.com",
-      "standard": "none"
-    },
-    {
-      "name": "blockscout",
-      "url": "https://zetachain-athens-3.blockscout.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "ZetaChain Athens Testnet Explorer": "https://athens3.explorer.zetachain.com",
+    "blockscout": "https://zetachain-athens-3.blockscout.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

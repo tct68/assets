@@ -14,13 +14,9 @@
   "shortName": "plian-testnet-l2",
   "chainId": 10067275,
   "networkId": 10067275,
-  "explorers": [
-    {
-      "name": "piscan",
-      "url": "https://testnet.plian.org/child_test",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "piscan": "https://testnet.plian.org/child_test"
+  },
   "parent": {
     "chain": "eip155-16658437",
     "type": "L2"

@@ -18,20 +18,10 @@
   "chainId": 336,
   "networkId": 336,
   "icon": "shiden",
-  "explorers": [
-    {
-      "name": "subscan",
-      "url": "https://shiden.subscan.io",
-      "standard": "none",
-      "icon": "subscan"
-    },
-    {
-      "name": "blockscout",
-      "url": "https://blockscout.com/shiden",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "subscan": "https://shiden.subscan.io",
+    "blockscout": "https://blockscout.com/shiden"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

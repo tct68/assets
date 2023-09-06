@@ -15,13 +15,8 @@
   "chainId": 4460,
   "networkId": 4460,
   "icon": "orderlyTestnet",
-  "explorers": [
-    {
-      "name": "basescout",
-      "url": "https://explorerl2new-orderly-l2-4460-sepolia-8tc3sd7dvy.t.conduit.xyz",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "basescout": "https://explorerl2new-orderly-l2-4460-sepolia-8tc3sd7dvy.t.conduit.xyz"
+  },
   "tokens": []
 }

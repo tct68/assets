@@ -16,13 +16,9 @@
   "shortName": "tcro",
   "chainId": 338,
   "networkId": 338,
-  "explorers": [
-    {
-      "name": "Cronos Testnet Explorer",
-      "url": "https://explorer.cronos.org/testnet",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Cronos Testnet Explorer": "https://explorer.cronos.org/testnet"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

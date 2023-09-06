@@ -15,13 +15,9 @@
   ],
   "faucets": [],
   "infoURL": "https://obscu.ro",
-  "explorers": [
-    {
-      "name": "Obscuro Sepolia Rollup Explorer",
-      "url": "https://testnet.obscuroscan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Obscuro Sepolia Rollup Explorer": "https://testnet.obscuroscan.io"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-5",

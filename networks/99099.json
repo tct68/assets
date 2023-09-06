@@ -17,12 +17,8 @@
   "shortName": "ELt",
   "chainId": 99099,
   "networkId": 99099,
-  "explorers": [
-    {
-      "name": "eLiberty Testnet",
-      "url": "https://testnet.eliberty.ngo",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "eLiberty Testnet": "https://testnet.eliberty.ngo"
+  },
   "tokens": []
 }

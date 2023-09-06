@@ -18,13 +18,8 @@
   "chainId": 9819,
   "networkId": 9819,
   "icon": "imp",
-  "explorers": [
-    {
-      "name": "IMPERIUM Explorer",
-      "icon": "imp",
-      "url": "https://impscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "IMPERIUM Explorer": "https://impscan.com"
+  },
   "tokens": []
 }

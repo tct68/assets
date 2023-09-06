@@ -14,13 +14,9 @@
   "shortName": "loop",
   "chainId": 15551,
   "networkId": 15551,
-  "explorers": [
-    {
-      "name": "loopscan",
-      "url": "http://explorer.mainnetloop.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "loopscan": "http://explorer.mainnetloop.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

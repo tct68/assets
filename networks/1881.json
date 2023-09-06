@@ -23,13 +23,9 @@
   "shortName": "gitshockchain",
   "chainId": 1881,
   "networkId": 1881,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://scan.cartenz.works",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://scan.cartenz.works"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

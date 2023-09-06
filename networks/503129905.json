@@ -15,13 +15,8 @@
   "shortName": "nebula-staging",
   "chainId": 503129905,
   "networkId": 503129905,
-  "explorers": [
-    {
-      "name": "nebula",
-      "url": "https://staging-faint-slimy-achird.explorer.staging-v3.skalenodes.com",
-      "icon": "nebula",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "nebula": "https://staging-faint-slimy-achird.explorer.staging-v3.skalenodes.com"
+  },
   "tokens": []
 }

@@ -17,13 +17,9 @@
   "chainId": 12052,
   "networkId": 12052,
   "slip44": 621,
-  "explorers": [
-    {
-      "name": "zeroscan",
-      "url": "https://zeroscan.singularity.gold",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "zeroscan": "https://zeroscan.singularity.gold"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

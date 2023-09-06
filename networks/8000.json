@@ -15,20 +15,10 @@
   "chainId": 8000,
   "networkId": 8000,
   "icon": "teleport",
-  "explorers": [
-    {
-      "name": "Teleport EVM Explorer (Blockscout)",
-      "url": "https://evm-explorer.teleport.network",
-      "standard": "none",
-      "icon": "teleport"
-    },
-    {
-      "name": "Teleport Cosmos Explorer (Big Dipper)",
-      "url": "https://explorer.teleport.network",
-      "standard": "none",
-      "icon": "teleport"
-    }
-  ],
+  "explorers": {
+    "Teleport EVM Explorer (Blockscout)": "https://evm-explorer.teleport.network",
+    "Teleport Cosmos Explorer (Big Dipper)": "https://explorer.teleport.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

@@ -14,12 +14,8 @@
   "shortName": "sus",
   "chainId": 13812,
   "networkId": 13812,
-  "explorers": [
-    {
-      "name": "Susono",
-      "url": "http://explorer.opn.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Susono": "http://explorer.opn.network"
+  },
   "tokens": []
 }

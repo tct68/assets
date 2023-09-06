@@ -15,12 +15,8 @@
   "shortName": "cverse",
   "chainId": 5555,
   "networkId": 5555,
-  "explorers": [
-    {
-      "name": "Chain Verse Explorer",
-      "url": "https://explorer.chainverse.info",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Chain Verse Explorer": "https://explorer.chainverse.info"
+  },
   "tokens": []
 }

@@ -14,12 +14,8 @@
   "shortName": "txvm",
   "chainId": 4918,
   "networkId": 4918,
-  "explorers": [
-    {
-      "name": "Venidium EVM Testnet Explorer",
-      "url": "https://evm-testnet.venidiumexplorer.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Venidium EVM Testnet Explorer": "https://evm-testnet.venidiumexplorer.com"
+  },
   "tokens": []
 }

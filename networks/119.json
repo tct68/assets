@@ -16,14 +16,9 @@
   "chainId": 119,
   "networkId": 119,
   "icon": "enuls",
-  "explorers": [
-    {
-      "name": "enulsscan",
-      "url": "https://evmscan.nuls.io",
-      "icon": "enuls",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "enulsscan": "https://evmscan.nuls.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

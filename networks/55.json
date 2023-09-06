@@ -17,13 +17,9 @@
   "shortName": "ZYX",
   "chainId": 55,
   "networkId": 55,
-  "explorers": [
-    {
-      "name": "zyxscan",
-      "url": "https://zyxscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "zyxscan": "https://zyxscan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

@@ -14,13 +14,9 @@
   "shortName": "gton",
   "chainId": 1000,
   "networkId": 1000,
-  "explorers": [
-    {
-      "name": "GTON Network Explorer",
-      "url": "https://explorer.gton.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "GTON Network Explorer": "https://explorer.gton.network"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-1"

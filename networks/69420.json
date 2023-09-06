@@ -17,12 +17,8 @@
   "shortName": "cndr",
   "chainId": 69420,
   "networkId": 69420,
-  "explorers": [
-    {
-      "name": "Condrieu explorer",
-      "url": "https://explorer.condrieu.ethdevops.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Condrieu explorer": "https://explorer.condrieu.ethdevops.io"
+  },
   "tokens": []
 }

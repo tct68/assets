@@ -16,12 +16,8 @@
   "shortName": "CCP",
   "chainId": 10823,
   "networkId": 10823,
-  "explorers": [
-    {
-      "name": "CCP Explorer",
-      "url": "https://cryptocoinpay.info",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "CCP Explorer": "https://cryptocoinpay.info"
+  },
   "tokens": []
 }

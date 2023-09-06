@@ -17,12 +17,8 @@
   "shortName": "tbitrock",
   "chainId": 7771,
   "networkId": 7771,
-  "explorers": [
-    {
-      "name": "Bitrock Testnet Explorer",
-      "url": "https://testnetscan.bit-rock.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Bitrock Testnet Explorer": "https://testnetscan.bit-rock.io"
+  },
   "tokens": []
 }

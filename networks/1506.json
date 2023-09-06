@@ -14,13 +14,9 @@
   "shortName": "Sherpax",
   "chainId": 1506,
   "networkId": 1506,
-  "explorers": [
-    {
-      "name": "Sherpax Mainnet Explorer",
-      "url": "https://evm.sherpax.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Sherpax Mainnet Explorer": "https://evm.sherpax.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

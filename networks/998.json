@@ -13,18 +13,10 @@
   "chainId": 998,
   "networkId": 998,
   "icon": "lucky",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.luckynetwork.org",
-      "standard": "none"
-    },
-    {
-      "name": "expedition",
-      "url": "https://lnscan.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.luckynetwork.org",
+    "expedition": "https://lnscan.org"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

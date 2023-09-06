@@ -23,12 +23,8 @@
   "shortName": "kalymainnet",
   "chainId": 3888,
   "networkId": 3888,
-  "explorers": [
-    {
-      "name": "KalyScan",
-      "url": "https://kalyscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "KalyScan": "https://kalyscan.io"
+  },
   "tokens": []
 }

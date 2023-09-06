@@ -18,13 +18,8 @@
   "chainId": 7668378,
   "networkId": 7668378,
   "icon": "qom",
-  "explorers": [
-    {
-      "name": "QL1 Testnet Explorer",
-      "url": "https://testnet.qom.one",
-      "icon": "qom",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "QL1 Testnet Explorer": "https://testnet.qom.one"
+  },
   "tokens": []
 }

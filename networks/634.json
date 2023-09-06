@@ -15,13 +15,8 @@
   "chainId": 634,
   "networkId": 634,
   "icon": "avocado",
-  "explorers": [
-    {
-      "name": "avoscan",
-      "url": "https://avoscan.co",
-      "icon": "avocado",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "avoscan": "https://avoscan.co"
+  },
   "tokens": []
 }

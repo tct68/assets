@@ -18,13 +18,8 @@
   "chainId": 985,
   "networkId": 985,
   "icon": "memo",
-  "explorers": [
-    {
-      "name": "Memo Mainnet Explorer",
-      "url": "https://scan.metamemo.one:8080",
-      "icon": "memo",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Memo Mainnet Explorer": "https://scan.metamemo.one:8080"
+  },
   "tokens": []
 }

@@ -18,13 +18,8 @@
   "shortName": "bkct",
   "chainId": 25925,
   "networkId": 25925,
-  "explorers": [
-    {
-      "name": "bkcscan-testnet",
-      "url": "https://testnet.bkcscan.com",
-      "standard": "none",
-      "icon": "bkc"
-    }
-  ],
+  "explorers": {
+    "bkcscan-testnet": "https://testnet.bkcscan.com"
+  },
   "tokens": []
 }

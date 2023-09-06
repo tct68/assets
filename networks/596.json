@@ -16,12 +16,8 @@
   "chainId": 596,
   "networkId": 596,
   "slip44": 596,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://blockscout.karura-testnet.aca-staging.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://blockscout.karura-testnet.aca-staging.network"
+  },
   "tokens": []
 }

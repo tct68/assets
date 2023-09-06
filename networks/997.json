@@ -17,13 +17,8 @@
   "chainId": 997,
   "networkId": 997,
   "icon": "5ireChain",
-  "explorers": [
-    {
-      "name": "5ireChain Explorer",
-      "url": "https://explorer.5ire.network",
-      "standard": "none",
-      "icon": "5ireChain"
-    }
-  ],
+  "explorers": {
+    "5ireChain Explorer": "https://explorer.5ire.network"
+  },
   "tokens": []
 }

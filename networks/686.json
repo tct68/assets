@@ -24,13 +24,9 @@
   "chainId": 686,
   "networkId": 686,
   "slip44": 686,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://blockscout.karura.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://blockscout.karura.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

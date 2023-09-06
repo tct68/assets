@@ -17,13 +17,8 @@
   "chainId": 61916,
   "networkId": 61916,
   "icon": "doken",
-  "explorers": [
-    {
-      "name": "DSC Scan",
-      "url": "https://explore.doken.dev",
-      "icon": "doken",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "DSC Scan": "https://explore.doken.dev"
+  },
   "tokens": []
 }

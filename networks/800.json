@@ -17,12 +17,8 @@
   "shortName": "LUCID",
   "chainId": 800,
   "networkId": 800,
-  "explorers": [
-    {
-      "name": "Lucid Explorer",
-      "url": "https://explorer.lucidcoin.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Lucid Explorer": "https://explorer.lucidcoin.io"
+  },
   "tokens": []
 }

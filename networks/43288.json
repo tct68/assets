@@ -17,12 +17,8 @@
   "shortName": "bobaavax",
   "chainId": 43288,
   "networkId": 43288,
-  "explorers": [
-    {
-      "name": "Boba Avax Explorer",
-      "url": "https://blockexplorer.avax.boba.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Boba Avax Explorer": "https://blockexplorer.avax.boba.network"
+  },
   "tokens": []
 }

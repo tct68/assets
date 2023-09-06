@@ -15,12 +15,8 @@
   "shortName": "alph",
   "chainId": 8738,
   "networkId": 8738,
-  "explorers": [
-    {
-      "name": "alphscan",
-      "url": "https://explorer.alph.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "alphscan": "https://explorer.alph.network"
+  },
   "tokens": []
 }

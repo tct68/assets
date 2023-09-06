@@ -17,12 +17,8 @@
   "shortName": "juncat",
   "chainId": 669,
   "networkId": 669,
-  "explorers": [
-    {
-      "name": "JuncaScan",
-      "url": "https://scan-testnet.juncachain.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "JuncaScan": "https://scan-testnet.juncachain.com"
+  },
   "tokens": []
 }

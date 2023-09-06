@@ -14,13 +14,9 @@
   "shortName": "SPS",
   "chainId": 13000,
   "networkId": 13000,
-  "explorers": [
-    {
-      "name": "SPS Explorer",
-      "url": "http://spsscan.ssquad.games",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "SPS Explorer": "http://spsscan.ssquad.games"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

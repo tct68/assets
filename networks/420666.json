@@ -15,14 +15,9 @@
   "chainId": 420666,
   "networkId": 1,
   "icon": "kek",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://testnet-explorer.kekchain.com",
-      "icon": "kek",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://testnet-explorer.kekchain.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

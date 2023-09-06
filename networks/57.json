@@ -18,13 +18,9 @@
   "shortName": "sys",
   "chainId": 57,
   "networkId": 57,
-  "explorers": [
-    {
-      "name": "Syscoin Block Explorer",
-      "url": "https://explorer.syscoin.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Syscoin Block Explorer": "https://explorer.syscoin.org"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

@@ -15,12 +15,8 @@
   "shortName": "top_evm",
   "chainId": 980,
   "networkId": 0,
-  "explorers": [
-    {
-      "name": "topscan.dev",
-      "url": "https://www.topscan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "topscan.dev": "https://www.topscan.io"
+  },
   "tokens": []
 }

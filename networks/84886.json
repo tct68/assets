@@ -15,13 +15,8 @@
   "chainId": 84886,
   "networkId": 84886,
   "icon": "aerie",
-  "explorers": [
-    {
-      "name": "Aerie Explorer",
-      "url": "https://explorer.aerielab.io",
-      "icon": "aerie",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Aerie Explorer": "https://explorer.aerielab.io"
+  },
   "tokens": []
 }

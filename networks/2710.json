@@ -14,13 +14,9 @@
   "shortName": "tmorph",
   "chainId": 2710,
   "networkId": 2710,
-  "explorers": [
-    {
-      "name": "Morphism Testnet Explorer",
-      "url": "https://explorer-testnet.morphism.xyz",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Morphism Testnet Explorer": "https://explorer-testnet.morphism.xyz"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-1",

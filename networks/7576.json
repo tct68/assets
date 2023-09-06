@@ -15,12 +15,8 @@
   "shortName": "adil",
   "chainId": 7576,
   "networkId": 7576,
-  "explorers": [
-    {
-      "name": "ADIL Mainnet Explorer",
-      "url": "https://adilchain-scan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "ADIL Mainnet Explorer": "https://adilchain-scan.io"
+  },
   "tokens": []
 }

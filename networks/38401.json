@@ -17,12 +17,8 @@
   "shortName": "ttrpg",
   "chainId": 38401,
   "networkId": 38401,
-  "explorers": [
-    {
-      "name": "rangersscan-robin",
-      "url": "https://robin-rangersscan.rangersprotocol.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "rangersscan-robin": "https://robin-rangersscan.rangersprotocol.com"
+  },
   "tokens": []
 }

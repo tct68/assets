@@ -20,12 +20,8 @@
   "chainId": 113,
   "networkId": 113,
   "slip44": 714,
-  "explorers": [
-    {
-      "name": "Dehvo Explorer",
-      "url": "https://explorer.dehvo.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Dehvo Explorer": "https://explorer.dehvo.com"
+  },
   "tokens": []
 }

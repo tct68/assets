@@ -14,13 +14,9 @@
   "shortName": "REI",
   "chainId": 47805,
   "networkId": 47805,
-  "explorers": [
-    {
-      "name": "rei-scan",
-      "url": "https://scan.rei.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "rei-scan": "https://scan.rei.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

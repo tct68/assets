@@ -18,12 +18,8 @@
   "shortName": "sph",
   "chainId": 8883,
   "networkId": 8883,
-  "explorers": [
-    {
-      "name": "Unique Scan / Sapphire",
-      "url": "https://uniquescan.io/sapphire",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Unique Scan / Sapphire": "https://uniquescan.io/sapphire"
+  },
   "tokens": []
 }

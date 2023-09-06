@@ -16,14 +16,9 @@
   "shortName": "core",
   "chainId": 1116,
   "networkId": 1116,
-  "explorers": [
-    {
-      "name": "Core Scan",
-      "url": "https://scan.coredao.org",
-      "icon": "core",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Core Scan": "https://scan.coredao.org"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

@@ -16,13 +16,9 @@
   "chainId": 534,
   "networkId": 534,
   "slip44": 674,
-  "explorers": [
-    {
-      "name": "candleexplorer",
-      "url": "https://candleexplorer.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "candleexplorer": "https://candleexplorer.com"
+  },
   "tokens": [],
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_candle.jpg",
   "chainSlug": "candle"

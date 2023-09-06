@@ -17,12 +17,8 @@
   "shortName": "tadil",
   "chainId": 7575,
   "networkId": 7575,
-  "explorers": [
-    {
-      "name": "ADIL Testnet Explorer",
-      "url": "https://testnet.adilchain-scan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "ADIL Testnet Explorer": "https://testnet.adilchain-scan.io"
+  },
   "tokens": []
 }

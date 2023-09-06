@@ -15,12 +15,8 @@
   "shortName": "mun",
   "chainId": 1392,
   "networkId": 1392,
-  "explorers": [
-    {
-      "name": "BlockExplorer",
-      "url": "https://www.blockexplorer.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "BlockExplorer": "https://www.blockexplorer.com"
+  },
   "tokens": []
 }

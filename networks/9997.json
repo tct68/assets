@@ -23,13 +23,8 @@
   "chainId": 9997,
   "networkId": 9997,
   "icon": "altlayer",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://testnet-rollup-explorer.altlayer.io",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://testnet-rollup-explorer.altlayer.io"
+  },
   "tokens": []
 }

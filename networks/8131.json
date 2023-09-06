@@ -17,14 +17,9 @@
   "chainId": 8131,
   "networkId": 8131,
   "icon": "meer",
-  "explorers": [
-    {
-      "name": "meerscan testnet",
-      "icon": "meer",
-      "url": "https://qng-testnet.meerscan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "meerscan testnet": "https://qng-testnet.meerscan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

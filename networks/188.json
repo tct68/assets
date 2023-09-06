@@ -14,13 +14,9 @@
   "shortName": "BMC",
   "chainId": 188,
   "networkId": 188,
-  "explorers": [
-    {
-      "name": "Blockmeta",
-      "url": "https://bmc.blockmeta.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Blockmeta": "https://bmc.blockmeta.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

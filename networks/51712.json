@@ -17,12 +17,8 @@
   "shortName": "SRDXm",
   "chainId": 51712,
   "networkId": 51712,
-  "explorers": [
-    {
-      "name": "Sardis",
-      "url": "https://contract-mainnet.sardisnetwork.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Sardis": "https://contract-mainnet.sardisnetwork.com"
+  },
   "tokens": []
 }

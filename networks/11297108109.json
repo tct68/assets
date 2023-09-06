@@ -16,13 +16,9 @@
   "shortName": "palm",
   "chainId": 11297108109,
   "networkId": 11297108109,
-  "explorers": [
-    {
-      "name": "Palm Explorer",
-      "url": "https://explorer.palm.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Palm Explorer": "https://explorer.palm.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

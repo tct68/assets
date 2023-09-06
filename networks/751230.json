@@ -17,12 +17,8 @@
   "shortName": "BRNKCTEST",
   "chainId": 751230,
   "networkId": 751230,
-  "explorers": [
-    {
-      "name": "brnktestscan",
-      "url": "https://brnktest-scan.bearnetwork.net",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "brnktestscan": "https://brnktest-scan.bearnetwork.net"
+  },
   "tokens": []
 }

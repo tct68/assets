@@ -19,12 +19,8 @@
   "shortName": "qtz",
   "chainId": 8881,
   "networkId": 8881,
-  "explorers": [
-    {
-      "name": "Unique Scan / Quartz",
-      "url": "https://uniquescan.io/quartz",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Unique Scan / Quartz": "https://uniquescan.io/quartz"
+  },
   "tokens": []
 }

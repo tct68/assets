@@ -18,12 +18,8 @@
   "chainId": 90210,
   "networkId": 90210,
   "status": "incubating",
-  "explorers": [
-    {
-      "name": "Beverly Hills explorer",
-      "url": "https://explorer.beverlyhills.ethdevops.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Beverly Hills explorer": "https://explorer.beverlyhills.ethdevops.io"
+  },
   "tokens": []
 }

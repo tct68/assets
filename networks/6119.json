@@ -20,12 +20,8 @@
   "shortName": "UPTN",
   "chainId": 6119,
   "networkId": 6119,
-  "explorers": [
-    {
-      "name": "UPTN Explorer",
-      "url": "https://explorer.uptn.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "UPTN Explorer": "https://explorer.uptn.io"
+  },
   "tokens": []
 }

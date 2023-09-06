@@ -19,12 +19,8 @@
   "shortName": "omni_testnet",
   "chainId": 165,
   "networkId": 165,
-  "explorers": [
-    {
-      "name": "Omni Explorer",
-      "url": "https://testnet.explorer.omni.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Omni Explorer": "https://testnet.explorer.omni.network"
+  },
   "tokens": []
 }

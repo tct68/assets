@@ -17,12 +17,8 @@
   "shortName": "floripa",
   "chainId": 49049,
   "networkId": 49049,
-  "explorers": [
-    {
-      "name": "Wire Explorer",
-      "url": "https://floripa-explorer.wireshape.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Wire Explorer": "https://floripa-explorer.wireshape.org"
+  },
   "tokens": []
 }

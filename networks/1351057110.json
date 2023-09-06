@@ -17,13 +17,8 @@
   "shortName": "chaos-tenet",
   "chainId": 1351057110,
   "networkId": 1351057110,
-  "explorers": [
-    {
-      "name": "Blockscout",
-      "url": "https://staging-fast-active-bellatrix.explorer.staging-v3.skalenodes.com",
-      "icon": "chaos",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Blockscout": "https://staging-fast-active-bellatrix.explorer.staging-v3.skalenodes.com"
+  },
   "tokens": []
 }

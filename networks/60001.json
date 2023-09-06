@@ -16,12 +16,8 @@
   "shortName": "TKM-test1",
   "chainId": 60001,
   "networkId": 60001,
-  "explorers": [
-    {
-      "name": "thinkiumscan",
-      "url": "https://test1.thinkiumscan.net",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "thinkiumscan": "https://test1.thinkiumscan.net"
+  },
   "tokens": []
 }

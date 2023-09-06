@@ -15,13 +15,8 @@
   "shortName": "nebula-mainnet",
   "chainId": 1482601649,
   "networkId": 1482601649,
-  "explorers": [
-    {
-      "name": "nebula",
-      "url": "https://green-giddy-denebola.explorer.mainnet.skalenodes.com",
-      "icon": "nebula",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "nebula": "https://green-giddy-denebola.explorer.mainnet.skalenodes.com"
+  },
   "tokens": []
 }

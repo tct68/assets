@@ -15,12 +15,8 @@
   "shortName": "ALL",
   "chainId": 651940,
   "networkId": 651940,
-  "explorers": [
-    {
-      "name": "Alltra SmartChain Explorer",
-      "url": "https://alltra.global",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Alltra SmartChain Explorer": "https://alltra.global"
+  },
   "tokens": []
 }

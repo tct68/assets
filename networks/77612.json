@@ -17,12 +17,8 @@
   "shortName": "vscm",
   "chainId": 77612,
   "networkId": 77612,
-  "explorers": [
-    {
-      "name": "ventionscan",
-      "url": "https://ventionscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "ventionscan": "https://ventionscan.io"
+  },
   "tokens": []
 }

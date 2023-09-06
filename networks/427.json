@@ -14,12 +14,8 @@
   "shortName": "zeeth",
   "chainId": 427,
   "networkId": 427,
-  "explorers": [
-    {
-      "name": "Zeeth Explorer",
-      "url": "https://explorer.zeeth.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Zeeth Explorer": "https://explorer.zeeth.io"
+  },
   "tokens": []
 }

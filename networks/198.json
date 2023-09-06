@@ -14,12 +14,8 @@
   "shortName": "bit",
   "chainId": 198,
   "networkId": 198,
-  "explorers": [
-    {
-      "name": "Bitchain Scan",
-      "url": "https://explorer.bitchain.biz",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Bitchain Scan": "https://explorer.bitchain.biz"
+  },
   "tokens": []
 }

@@ -16,12 +16,8 @@
   "shortName": "pangolin",
   "chainId": 43,
   "networkId": 43,
-  "explorers": [
-    {
-      "name": "subscan",
-      "url": "https://pangolin.subscan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "subscan": "https://pangolin.subscan.io"
+  },
   "tokens": []
 }

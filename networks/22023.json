@@ -15,19 +15,9 @@
   "chainId": 22023,
   "networkId": 22023,
   "icon": "shuffle",
-  "explorers": [
-    {
-      "name": "Taycan Explorer(Blockscout)",
-      "url": "https://taycan-evmscan.hupayx.io",
-      "standard": "none",
-      "icon": "shuffle"
-    },
-    {
-      "name": "Taycan Cosmos Explorer(BigDipper)",
-      "url": "https://taycan-cosmoscan.hupayx.io",
-      "standard": "none",
-      "icon": "shuffle"
-    }
-  ],
+  "explorers": {
+    "Taycan Explorer(Blockscout)": "https://taycan-evmscan.hupayx.io",
+    "Taycan Cosmos Explorer(BigDipper)": "https://taycan-cosmoscan.hupayx.io"
+  },
   "tokens": []
 }

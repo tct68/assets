@@ -17,12 +17,8 @@
   "shortName": "Bobabeam",
   "chainId": 1294,
   "networkId": 1294,
-  "explorers": [
-    {
-      "name": "Bobabeam block explorer",
-      "url": "https://blockexplorer.bobabeam.boba.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Bobabeam block explorer": "https://blockexplorer.bobabeam.boba.network"
+  },
   "tokens": []
 }

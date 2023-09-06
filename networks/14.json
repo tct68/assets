@@ -13,13 +13,9 @@
   "shortName": "flr",
   "chainId": 14,
   "networkId": 14,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://flare-explorer.flare.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://flare-explorer.flare.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

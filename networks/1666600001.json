@@ -15,13 +15,9 @@
   "shortName": "hmy-s1",
   "chainId": 1666600001,
   "networkId": 1666600001,
-  "explorers": [
-    {
-      "name": "Harmony Block Explorer",
-      "url": "https://explorer.harmony.one/blocks/shard/1",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Harmony Block Explorer": "https://explorer.harmony.one/blocks/shard/1"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

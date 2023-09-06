@@ -17,13 +17,8 @@
   "shortName": "meld",
   "chainId": 333000333,
   "networkId": 333000333,
-  "explorers": [
-    {
-      "name": "explorer",
-      "url": "https://subnets.avax.network/meld",
-      "icon": "meld",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer": "https://subnets.avax.network/meld"
+  },
   "tokens": []
 }

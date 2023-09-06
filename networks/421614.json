@@ -15,13 +15,9 @@
   "shortName": "arb-sep",
   "chainId": 421614,
   "networkId": 421614,
-  "explorers": [
-    {
-      "name": "Arbitrum Sepolia Rollup Testnet Explorer",
-      "url": "https://sepolia-explorer.arbitrum.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Arbitrum Sepolia Rollup Testnet Explorer": "https://sepolia-explorer.arbitrum.io"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-11155111",

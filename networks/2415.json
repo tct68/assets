@@ -16,13 +16,8 @@
   "chainId": 2415,
   "networkId": 10,
   "icon": "xodex",
-  "explorers": [
-    {
-      "name": "XODEX Explorer",
-      "url": "https://explorer.xo-dex.com",
-      "standard": "EIP3091",
-      "icon": "xodex"
-    }
-  ],
+  "explorers": {
+    "XODEX Explorer": "https://explorer.xo-dex.com"
+  },
   "tokens": []
 }

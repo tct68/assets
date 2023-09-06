@@ -17,12 +17,8 @@
   "shortName": "TARC",
   "chainId": 1244,
   "networkId": 1244,
-  "explorers": [
-    {
-      "name": "archiescan",
-      "url": "https://testnet.archiescan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "archiescan": "https://testnet.archiescan.io"
+  },
   "tokens": []
 }

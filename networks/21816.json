@@ -15,13 +15,9 @@
   "shortName": "omc",
   "chainId": 21816,
   "networkId": 21816,
-  "explorers": [
-    {
-      "name": "omChain Explorer",
-      "url": "https://explorer.omchain.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "omChain Explorer": "https://explorer.omchain.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

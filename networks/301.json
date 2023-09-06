@@ -17,12 +17,8 @@
   "shortName": "Bobaopera",
   "chainId": 301,
   "networkId": 301,
-  "explorers": [
-    {
-      "name": "Bobaopera block explorer",
-      "url": "https://blockexplorer.bobaopera.boba.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Bobaopera block explorer": "https://blockexplorer.bobaopera.boba.network"
+  },
   "tokens": []
 }

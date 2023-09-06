@@ -15,12 +15,8 @@
   "shortName": "ASARt",
   "chainId": 1138,
   "networkId": 1138,
-  "explorers": [
-    {
-      "name": "amstarscan-testnet",
-      "url": "https://testnet.amstarscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "amstarscan-testnet": "https://testnet.amstarscan.com"
+  },
   "tokens": []
 }

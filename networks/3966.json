@@ -16,12 +16,8 @@
   "shortName": "dyno",
   "chainId": 3966,
   "networkId": 3966,
-  "explorers": [
-    {
-      "name": "DYNO Explorer",
-      "url": "https://dynoscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "DYNO Explorer": "https://dynoscan.io"
+  },
   "tokens": []
 }

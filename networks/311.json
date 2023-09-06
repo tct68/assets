@@ -17,14 +17,9 @@
   "chainId": 311,
   "networkId": 311,
   "icon": "omaxchain",
-  "explorers": [
-    {
-      "name": "Omax Chain Explorer",
-      "url": "https://omaxray.com",
-      "icon": "omaxray",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Omax Chain Explorer": "https://omaxray.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

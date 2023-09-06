@@ -15,13 +15,8 @@
   "shortName": "exl",
   "chainId": 27082022,
   "networkId": 27082022,
-  "explorers": [
-    {
-      "name": "exlscan",
-      "url": "https://exlscan.com",
-      "icon": "exl",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "exlscan": "https://exlscan.com"
+  },
   "tokens": []
 }

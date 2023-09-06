@@ -16,13 +16,8 @@
   "shortName": "metao",
   "chainId": 112358,
   "networkId": 112358,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.metachain.one",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.metachain.one"
+  },
   "tokens": []
 }

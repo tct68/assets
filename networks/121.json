@@ -24,12 +24,8 @@
   "chainId": 121,
   "networkId": 121,
   "slip44": 714,
-  "explorers": [
-    {
-      "name": "realscan",
-      "url": "https://rclscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "realscan": "https://rclscan.com"
+  },
   "tokens": []
 }

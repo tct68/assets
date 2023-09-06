@@ -15,13 +15,9 @@
   "chainId": 32769,
   "networkId": 32769,
   "icon": "zilliqa",
-  "explorers": [
-    {
-      "name": "Zilliqa EVM Explorer",
-      "url": "https://evmx.zilliqa.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Zilliqa EVM Explorer": "https://evmx.zilliqa.com"
+  },
   "tokens": [],
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_zilliqa.jpg",
   "chainSlug": "zilliqa"

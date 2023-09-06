@@ -18,12 +18,8 @@
   "chainId": 65100000,
   "networkId": 65100000,
   "icon": "autonity",
-  "explorers": [
-    {
-      "name": "autonity-blockscout",
-      "url": "https://piccadilly.autonity.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "autonity-blockscout": "https://piccadilly.autonity.org"
+  },
   "tokens": []
 }

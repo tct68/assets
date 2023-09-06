@@ -17,13 +17,8 @@
   "shortName": "gar-test-s0",
   "chainId": 900,
   "networkId": 900,
-  "explorers": [
-    {
-      "name": "explorer",
-      "url": "https://explorer-testnet.garizon.com",
-      "icon": "garizon",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer": "https://explorer-testnet.garizon.com"
+  },
   "tokens": []
 }

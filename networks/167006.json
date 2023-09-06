@@ -16,12 +16,8 @@
   "shortName": "taiko-l3",
   "chainId": 167006,
   "networkId": 167006,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.l3test.taiko.xyz",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.l3test.taiko.xyz"
+  },
   "tokens": []
 }

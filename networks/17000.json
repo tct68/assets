@@ -19,13 +19,8 @@
   "networkId": 17000,
   "icon": "ethereum",
   "status": "incubating",
-  "explorers": [
-    {
-      "name": "Holesky Explorer",
-      "url": "https://holesky.beaconcha.in",
-      "icon": "ethereum",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Holesky Explorer": "https://holesky.beaconcha.in"
+  },
   "tokens": []
 }

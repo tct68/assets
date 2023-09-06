@@ -15,13 +15,8 @@
   "chainId": 4001,
   "networkId": 4001,
   "icon": "peperium",
-  "explorers": [
-    {
-      "name": "Peperium Chain Explorer",
-      "url": "https://scan-testnet.peperium.io",
-      "icon": "peperium",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Peperium Chain Explorer": "https://scan-testnet.peperium.io"
+  },
   "tokens": []
 }

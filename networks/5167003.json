@@ -15,12 +15,8 @@
   "shortName": "MXC",
   "chainId": 5167003,
   "networkId": 5167003,
-  "explorers": [
-    {
-      "name": "MXC Wannsee zkEVM Testnet",
-      "url": "https://wannsee-explorer.mxc.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "MXC Wannsee zkEVM Testnet": "https://wannsee-explorer.mxc.com"
+  },
   "tokens": []
 }

@@ -17,12 +17,8 @@
   "chainId": 3001,
   "networkId": 3001,
   "icon": "cennz",
-  "explorers": [
-    {
-      "name": "UNcover",
-      "url": "https://www.uncoverexplorer.com/?network=Nikau",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "UNcover": "https://www.uncoverexplorer.com/?network=Nikau"
+  },
   "tokens": []
 }

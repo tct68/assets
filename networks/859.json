@@ -14,12 +14,8 @@
   "shortName": "zeethdev",
   "chainId": 859,
   "networkId": 859,
-  "explorers": [
-    {
-      "name": "Zeeth Explorer Dev",
-      "url": "https://explorer.dev.zeeth.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Zeeth Explorer Dev": "https://explorer.dev.zeeth.io"
+  },
   "tokens": []
 }

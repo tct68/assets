@@ -15,12 +15,8 @@
   "shortName": "gauss",
   "chainId": 1777,
   "networkId": 1777,
-  "explorers": [
-    {
-      "name": "Gauss Explorer",
-      "url": "https://explorer.gaussgang.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Gauss Explorer": "https://explorer.gaussgang.com"
+  },
   "tokens": []
 }

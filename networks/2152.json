@@ -14,12 +14,8 @@
   "shortName": "fra",
   "chainId": 2152,
   "networkId": 2152,
-  "explorers": [
-    {
-      "name": "findorascan",
-      "url": "https://evm.findorascan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "findorascan": "https://evm.findorascan.io"
+  },
   "tokens": []
 }

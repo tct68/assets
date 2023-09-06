@@ -15,13 +15,8 @@
   "chainId": 7979,
   "networkId": 7979,
   "icon": "doschain",
-  "explorers": [
-    {
-      "name": "DOScan",
-      "url": "https://doscan.io",
-      "icon": "doschain",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "DOScan": "https://doscan.io"
+  },
   "tokens": []
 }

@@ -18,13 +18,9 @@
   "shortName": "sys-rollux",
   "chainId": 570,
   "networkId": 570,
-  "explorers": [
-    {
-      "name": "Rollux Explorer",
-      "url": "https://explorer.rollux.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Rollux Explorer": "https://explorer.rollux.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

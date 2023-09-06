@@ -20,13 +20,8 @@
   "chainId": 3011,
   "networkId": 3011,
   "icon": "playa3ull",
-  "explorers": [
-    {
-      "name": "PLAYA3ULL GAMES Explorer",
-      "url": "https://3011.routescan.io",
-      "icon": "playa3ull",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "PLAYA3ULL GAMES Explorer": "https://3011.routescan.io"
+  },
   "tokens": []
 }

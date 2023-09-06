@@ -16,13 +16,9 @@
   "shortName": "metis-goerli",
   "chainId": 599,
   "networkId": 599,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://goerli.explorer.metisdevops.link",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://goerli.explorer.metisdevops.link"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-4",

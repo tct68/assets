@@ -18,12 +18,8 @@
   "shortName": "cflr",
   "chainId": 16,
   "networkId": 16,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://coston-explorer.flare.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://coston-explorer.flare.network"
+  },
   "tokens": []
 }

@@ -15,13 +15,9 @@
   "chainId": 37,
   "networkId": 37,
   "icon": "xpla",
-  "explorers": [
-    {
-      "name": "XPLA Explorer",
-      "url": "https://explorer.xpla.io/mainnet",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "XPLA Explorer": "https://explorer.xpla.io/mainnet"
+  },
   "redFlags": [
     "reusedChainId"
   ],

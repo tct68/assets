@@ -14,13 +14,9 @@
   "shortName": "rbd",
   "chainId": 5869,
   "networkId": 5869,
-  "explorers": [
-    {
-      "name": "wegoscan2",
-      "url": "https://scan2.wegochain.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "wegoscan2": "https://scan2.wegochain.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

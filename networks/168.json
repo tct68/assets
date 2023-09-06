@@ -16,12 +16,8 @@
   "chainId": 168,
   "networkId": 168,
   "slip44": 60,
-  "explorers": [
-    {
-      "name": "AIOZ Network Explorer",
-      "url": "https://explorer.aioz.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "AIOZ Network Explorer": "https://explorer.aioz.network"
+  },
   "tokens": []
 }

@@ -15,12 +15,8 @@
   "shortName": "LA",
   "chainId": 225,
   "networkId": 225,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://scan.lachain.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://scan.lachain.io"
+  },
   "tokens": []
 }

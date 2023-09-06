@@ -16,13 +16,8 @@
   "chainId": 2151,
   "networkId": 2151,
   "icon": "agora",
-  "explorers": [
-    {
-      "name": "BOASCAN",
-      "url": "https://boascan.io",
-      "icon": "agora",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "BOASCAN": "https://boascan.io"
+  },
   "tokens": []
 }

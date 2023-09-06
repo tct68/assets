@@ -23,13 +23,8 @@
   "chainId": 13308,
   "networkId": 13308,
   "icon": "credit",
-  "explorers": [
-    {
-      "name": "Creditscan",
-      "url": "https://scan.creditsmartchain.com",
-      "icon": "credit",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Creditscan": "https://scan.creditsmartchain.com"
+  },
   "tokens": []
 }

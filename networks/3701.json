@@ -17,13 +17,9 @@
   "chainId": 3701,
   "networkId": 3701,
   "icon": "xpla",
-  "explorers": [
-    {
-      "name": "XPLA Explorer",
-      "url": "https://explorer.xpla.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "XPLA Explorer": "https://explorer.xpla.io"
+  },
   "status": "deprecated",
   "tokens": []
 }

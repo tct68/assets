@@ -15,12 +15,8 @@
   "shortName": "mcl",
   "chainId": 67390,
   "networkId": 67390,
-  "explorers": [
-    {
-      "name": "siriusnetscan",
-      "url": "https://siriusnet.tryethernal.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "siriusnetscan": "https://siriusnet.tryethernal.com"
+  },
   "tokens": []
 }

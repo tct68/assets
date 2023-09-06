@@ -19,13 +19,8 @@
   "networkId": 2199,
   "slip44": 2199,
   "icon": "msn",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.moonsama.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.moonsama.com"
+  },
   "tokens": []
 }

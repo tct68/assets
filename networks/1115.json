@@ -17,14 +17,9 @@
   "shortName": "tcore",
   "chainId": 1115,
   "networkId": 1115,
-  "explorers": [
-    {
-      "name": "Core Scan Testnet",
-      "url": "https://scan.test.btcs.network",
-      "icon": "core",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Core Scan Testnet": "https://scan.test.btcs.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

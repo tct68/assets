@@ -17,12 +17,8 @@
   "shortName": "STANDm",
   "chainId": 6789,
   "networkId": 6789,
-  "explorers": [
-    {
-      "name": "Gold Smart Chain",
-      "url": "https://mainnet.goldsmartchain.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Gold Smart Chain": "https://mainnet.goldsmartchain.com"
+  },
   "tokens": []
 }

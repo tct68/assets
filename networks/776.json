@@ -14,12 +14,8 @@
   "shortName": "opc",
   "chainId": 776,
   "networkId": 776,
-  "explorers": [
-    {
-      "name": "OPEN CHAIN TESTNET",
-      "url": "https://testnet.openchain.info",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "OPEN CHAIN TESTNET": "https://testnet.openchain.info"
+  },
   "tokens": []
 }

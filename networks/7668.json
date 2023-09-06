@@ -15,12 +15,8 @@
   "shortName": "trn-mainnet",
   "chainId": 7668,
   "networkId": 7668,
-  "explorers": [
-    {
-      "name": "rootnet",
-      "url": "https://explorer.rootnet.live",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "rootnet": "https://explorer.rootnet.live"
+  },
   "tokens": []
 }

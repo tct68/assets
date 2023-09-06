@@ -23,13 +23,9 @@
   "shortName": "team",
   "chainId": 88888888,
   "networkId": 88888888,
-  "explorers": [
-    {
-      "name": "teamscan",
-      "url": "https://teamblockchain.team",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "teamscan": "https://teamblockchain.team"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

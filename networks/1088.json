@@ -15,13 +15,9 @@
   "shortName": "metis-andromeda",
   "chainId": 1088,
   "networkId": 1088,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://andromeda-explorer.metis.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://andromeda-explorer.metis.io"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-1",

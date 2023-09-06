@@ -18,13 +18,8 @@
   "shortName": "quadranstestnet",
   "chainId": 10947,
   "networkId": 10947,
-  "explorers": [
-    {
-      "name": "explorer",
-      "url": "https://explorer.testnet.quadrans.io",
-      "icon": "quadrans",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer": "https://explorer.testnet.quadrans.io"
+  },
   "tokens": []
 }

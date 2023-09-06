@@ -23,13 +23,8 @@
   "shortName": "lightlink_pegasus",
   "chainId": 1891,
   "networkId": 1891,
-  "explorers": [
-    {
-      "name": "pegasus",
-      "url": "https://pegasus.lightlink.io",
-      "icon": "lightlink",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "pegasus": "https://pegasus.lightlink.io"
+  },
   "tokens": []
 }

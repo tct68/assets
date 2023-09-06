@@ -15,17 +15,9 @@
   "shortName": "planq",
   "chainId": 7070,
   "networkId": 7070,
-  "explorers": [
-    {
-      "name": "Planq EVM Explorer (Blockscout)",
-      "url": "https://evm.planq.network",
-      "standard": "none"
-    },
-    {
-      "name": "Planq Cosmos Explorer (BigDipper)",
-      "url": "https://explorer.planq.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Planq EVM Explorer (Blockscout)": "https://evm.planq.network",
+    "Planq Cosmos Explorer (BigDipper)": "https://explorer.planq.network"
+  },
   "tokens": []
 }

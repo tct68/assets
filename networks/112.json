@@ -15,13 +15,8 @@
   "chainId": 112,
   "networkId": 112,
   "icon": "coinbit",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://coinbit-explorer.chain.sbcrypto.app",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://coinbit-explorer.chain.sbcrypto.app"
+  },
   "tokens": []
 }

@@ -13,12 +13,8 @@
   "shortName": "top",
   "chainId": 989,
   "networkId": 0,
-  "explorers": [
-    {
-      "name": "topscan.dev",
-      "url": "https://www.topscan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "topscan.dev": "https://www.topscan.io"
+  },
   "tokens": []
 }

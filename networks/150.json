@@ -17,13 +17,8 @@
   "shortName": "sixt",
   "chainId": 150,
   "networkId": 150,
-  "explorers": [
-    {
-      "name": "SIX Scan fivenet",
-      "url": "https://sixscan.io/fivenet",
-      "standard": "none",
-      "icon": "six"
-    }
-  ],
+  "explorers": {
+    "SIX Scan fivenet": "https://sixscan.io/fivenet"
+  },
   "tokens": []
 }

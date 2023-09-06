@@ -17,12 +17,8 @@
   "chainId": 2613,
   "networkId": 2613,
   "icon": "ezchain",
-  "explorers": [
-    {
-      "name": "ezchain",
-      "url": "https://testnet-cchain-explorer.ezchain.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "ezchain": "https://testnet-cchain-explorer.ezchain.com"
+  },
   "tokens": []
 }

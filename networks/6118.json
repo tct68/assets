@@ -20,12 +20,8 @@
   "shortName": "UPTN-TEST",
   "chainId": 6118,
   "networkId": 6118,
-  "explorers": [
-    {
-      "name": "UPTN Testnet Explorer",
-      "url": "https://testnet.explorer.uptn.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "UPTN Testnet Explorer": "https://testnet.explorer.uptn.io"
+  },
   "tokens": []
 }

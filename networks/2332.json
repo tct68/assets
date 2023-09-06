@@ -19,14 +19,9 @@
   "networkId": 2332,
   "icon": "soma",
   "status": "incubating",
-  "explorers": [
-    {
-      "name": "SOMA Explorer Mainnet",
-      "icon": "soma",
-      "url": "https://somascan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "SOMA Explorer Mainnet": "https://somascan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

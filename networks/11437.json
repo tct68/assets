@@ -13,12 +13,8 @@
   "shortName": "shyftt",
   "chainId": 11437,
   "networkId": 11437,
-  "explorers": [
-    {
-      "name": "Shyft Testnet BX",
-      "url": "https://bx.testnet.shyft.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Shyft Testnet BX": "https://bx.testnet.shyft.network"
+  },
   "tokens": []
 }

@@ -17,13 +17,8 @@
   "chainId": 8181,
   "networkId": 8181,
   "icon": "beonechain",
-  "explorers": [
-    {
-      "name": "Testnet BeOne Chain",
-      "url": "https://testnet.beonescan.com",
-      "icon": "beonechain",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Testnet BeOne Chain": "https://testnet.beonescan.com"
+  },
   "tokens": []
 }

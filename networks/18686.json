@@ -15,12 +15,8 @@
   "shortName": "MXCzkEVM",
   "chainId": 18686,
   "networkId": 18686,
-  "explorers": [
-    {
-      "name": "MXC zkEVM Mainnet",
-      "url": "https://explorer.mxc.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "MXC zkEVM Mainnet": "https://explorer.mxc.com"
+  },
   "tokens": []
 }

@@ -23,14 +23,9 @@
   "chainId": 32520,
   "networkId": 32520,
   "icon": "brise",
-  "explorers": [
-    {
-      "name": "Brise Scan",
-      "url": "https://brisescan.com",
-      "icon": "brise",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Brise Scan": "https://brisescan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

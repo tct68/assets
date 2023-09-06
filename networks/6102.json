@@ -17,19 +17,9 @@
   "chainId": 6102,
   "networkId": 6102,
   "icon": "cascadia",
-  "explorers": [
-    {
-      "name": "Cascadia EVM Explorer",
-      "url": "https://explorer.cascadia.foundation",
-      "standard": "none",
-      "icon": "cascadia"
-    },
-    {
-      "name": "Cascadia Cosmos Explorer",
-      "url": "https://validator.cascadia.foundation",
-      "standard": "none",
-      "icon": "cascadia"
-    }
-  ],
+  "explorers": {
+    "Cascadia EVM Explorer": "https://explorer.cascadia.foundation",
+    "Cascadia Cosmos Explorer": "https://validator.cascadia.foundation"
+  },
   "tokens": []
 }

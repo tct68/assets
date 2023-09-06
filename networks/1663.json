@@ -27,13 +27,8 @@
   "chainId": 1663,
   "networkId": 1663,
   "slip44": 121,
-  "explorers": [
-    {
-      "name": "Gobi Testnet Block Explorer",
-      "url": "https://gobi-explorer.horizen.io",
-      "icon": "eon",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Gobi Testnet Block Explorer": "https://gobi-explorer.horizen.io"
+  },
   "tokens": []
 }

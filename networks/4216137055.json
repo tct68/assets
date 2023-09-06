@@ -17,12 +17,8 @@
   "shortName": "frankenstein",
   "chainId": 4216137055,
   "networkId": 4216137055,
-  "explorers": [
-    {
-      "name": "OneLedger Block Explorer",
-      "url": "https://frankenstein-explorer.oneledger.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "OneLedger Block Explorer": "https://frankenstein-explorer.oneledger.network"
+  },
   "tokens": []
 }

@@ -15,12 +15,8 @@
   "chainId": 530,
   "networkId": 530,
   "icon": "fxcore",
-  "explorers": [
-    {
-      "name": "FunctionX Explorer",
-      "url": "https://fx-evm.functionx.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "FunctionX Explorer": "https://fx-evm.functionx.io"
+  },
   "tokens": []
 }

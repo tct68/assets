@@ -18,20 +18,10 @@
   "shortName": "chi",
   "chainId": 10200,
   "networkId": 10200,
-  "explorers": [
-    {
-      "name": "blockscout-chiadochain",
-      "url": "https://blockscout.chiadochain.net",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    },
-    {
-      "name": "blockscout",
-      "url": "https://gnosis-chiado.blockscout.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout-chiadochain": "https://blockscout.chiadochain.net",
+    "blockscout": "https://gnosis-chiado.blockscout.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

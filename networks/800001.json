@@ -16,13 +16,8 @@
   "chainId": 800001,
   "networkId": 800001,
   "icon": "octaspace",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.octa.space",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.octa.space"
+  },
   "tokens": []
 }

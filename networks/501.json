@@ -15,12 +15,8 @@
   "chainId": 501,
   "networkId": 1001,
   "icon": "camino",
-  "explorers": [
-    {
-      "name": "blockexplorer",
-      "url": "https://suite.camino.network/explorer",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "blockexplorer": "https://suite.camino.network/explorer"
+  },
   "tokens": []
 }

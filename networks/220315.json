@@ -23,12 +23,8 @@
   "chainId": 220315,
   "networkId": 220315,
   "icon": "mas",
-  "explorers": [
-    {
-      "name": "explorer masnet",
-      "url": "https://explorer.masnet.ai",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer masnet": "https://explorer.masnet.ai"
+  },
   "tokens": []
 }

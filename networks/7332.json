@@ -25,13 +25,8 @@
   "chainId": 7332,
   "networkId": 7332,
   "slip44": 121,
-  "explorers": [
-    {
-      "name": "Horizen EON Block Explorer",
-      "url": "https://eon-explorer.horizenlabs.io",
-      "icon": "eon",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Horizen EON Block Explorer": "https://eon-explorer.horizenlabs.io"
+  },
   "tokens": []
 }

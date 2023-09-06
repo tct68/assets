@@ -27,14 +27,9 @@
   "chainId": 32659,
   "networkId": 32659,
   "slip44": 288,
-  "explorers": [
-    {
-      "name": "fsnscan",
-      "url": "https://fsnscan.com",
-      "icon": "fsnscan",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "fsnscan": "https://fsnscan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

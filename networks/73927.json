@@ -15,13 +15,8 @@
   "chainId": 73927,
   "networkId": 73927,
   "icon": "mvm",
-  "explorers": [
-    {
-      "name": "mvmscan",
-      "url": "https://scan.mvm.dev",
-      "icon": "mvm",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "mvmscan": "https://scan.mvm.dev"
+  },
   "tokens": []
 }

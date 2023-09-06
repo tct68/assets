@@ -16,12 +16,8 @@
   "shortName": "DXT",
   "chainId": 877,
   "networkId": 877,
-  "explorers": [
-    {
-      "name": "dxtscan",
-      "url": "https://dxtscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "dxtscan": "https://dxtscan.com"
+  },
   "tokens": []
 }

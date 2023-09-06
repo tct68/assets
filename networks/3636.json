@@ -17,12 +17,8 @@
   "shortName": "BTCt",
   "chainId": 3636,
   "networkId": 3636,
-  "explorers": [
-    {
-      "name": "Botanix",
-      "url": "https://testnet.btxtestchain.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Botanix": "https://testnet.btxtestchain.com"
+  },
   "tokens": []
 }

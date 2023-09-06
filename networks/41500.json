@@ -14,12 +14,8 @@
   ],
   "faucets": [],
   "infoURL": "https://beta.opulent-x.com",
-  "explorers": [
-    {
-      "name": "Opulent-X BETA Explorer",
-      "url": "https://explorer.opulent-x.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Opulent-X BETA Explorer": "https://explorer.opulent-x.com"
+  },
   "tokens": []
 }

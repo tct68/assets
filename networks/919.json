@@ -17,13 +17,9 @@
   "chainId": 919,
   "networkId": 919,
   "icon": "modeTestnet",
-  "explorers": [
-    {
-      "name": "modescout",
-      "url": "https://sepolia.explorer.mode.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "modescout": "https://sepolia.explorer.mode.network"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-11155111",

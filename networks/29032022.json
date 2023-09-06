@@ -23,12 +23,8 @@
   "shortName": "fla",
   "chainId": 29032022,
   "networkId": 29032022,
-  "explorers": [
-    {
-      "name": "FLXExplorer",
-      "url": "https://explorer.flaexchange.top",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "FLXExplorer": "https://explorer.flaexchange.top"
+  },
   "tokens": []
 }

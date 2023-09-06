@@ -15,13 +15,8 @@
   "chainId": 2569,
   "networkId": 2569,
   "icon": "techpay",
-  "explorers": [
-    {
-      "name": "tpcscan",
-      "url": "https://tpcscan.com",
-      "icon": "techpay",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "tpcscan": "https://tpcscan.com"
+  },
   "tokens": []
 }

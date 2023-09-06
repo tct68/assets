@@ -15,12 +15,8 @@
   "shortName": "TWLC",
   "chainId": 10395,
   "networkId": 10395,
-  "explorers": [
-    {
-      "name": "Worldland Explorer",
-      "url": "https://testscan.worldland.foundation",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Worldland Explorer": "https://testscan.worldland.foundation"
+  },
   "tokens": []
 }

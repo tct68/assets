@@ -17,13 +17,9 @@
   "shortName": "Sphinx10",
   "chainId": 8082,
   "networkId": 8082,
-  "explorers": [
-    {
-      "name": "Shardeum Scan",
-      "url": "https://explorer-sphinx.shardeum.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Shardeum Scan": "https://explorer-sphinx.shardeum.org"
+  },
   "redFlags": [
     "reusedChainId"
   ],

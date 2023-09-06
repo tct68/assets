@@ -16,12 +16,8 @@
   "chainId": 2019,
   "networkId": 2019,
   "slip44": 60,
-  "explorers": [
-    {
-      "name": "PublicMint Explorer",
-      "url": "https://explorer.tst.publicmint.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "PublicMint Explorer": "https://explorer.tst.publicmint.io"
+  },
   "tokens": []
 }

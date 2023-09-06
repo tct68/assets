@@ -17,19 +17,9 @@
   "chainId": 8001,
   "networkId": 8001,
   "icon": "teleport",
-  "explorers": [
-    {
-      "name": "Teleport EVM Explorer (Blockscout)",
-      "url": "https://evm-explorer.testnet.teleport.network",
-      "standard": "none",
-      "icon": "teleport"
-    },
-    {
-      "name": "Teleport Cosmos Explorer (Big Dipper)",
-      "url": "https://explorer.testnet.teleport.network",
-      "standard": "none",
-      "icon": "teleport"
-    }
-  ],
+  "explorers": {
+    "Teleport EVM Explorer (Blockscout)": "https://evm-explorer.testnet.teleport.network",
+    "Teleport Cosmos Explorer (Big Dipper)": "https://explorer.testnet.teleport.network"
+  },
   "tokens": []
 }

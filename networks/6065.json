@@ -17,13 +17,8 @@
   "chainId": 6065,
   "networkId": 6065,
   "icon": "tresleches",
-  "explorers": [
-    {
-      "name": "treslechesexplorer",
-      "url": "https://explorer-test.tresleches.finance",
-      "icon": "treslechesexplorer",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "treslechesexplorer": "https://explorer-test.tresleches.finance"
+  },
   "tokens": []
 }

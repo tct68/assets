@@ -17,12 +17,8 @@
   "shortName": "satst",
   "chainId": 5758,
   "networkId": 5758,
-  "explorers": [
-    {
-      "name": "SatoshiChain Testnet Explorer",
-      "url": "https://testnet.satoshiscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "SatoshiChain Testnet Explorer": "https://testnet.satoshiscan.io"
+  },
   "tokens": []
 }

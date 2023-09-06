@@ -16,13 +16,8 @@
   "chainId": 8989,
   "networkId": 8989,
   "icon": "gmmt",
-  "explorers": [
-    {
-      "name": "gmmtscan",
-      "url": "https://scan.gmmtchain.io",
-      "standard": "EIP3091",
-      "icon": "gmmt"
-    }
-  ],
+  "explorers": {
+    "gmmtscan": "https://scan.gmmtchain.io"
+  },
   "tokens": []
 }

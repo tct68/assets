@@ -12,13 +12,9 @@
   "shortName": "ambros",
   "chainId": 880,
   "networkId": 880,
-  "explorers": [
-    {
-      "name": "Ambros Chain Explorer",
-      "url": "https://ambrosscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Ambros Chain Explorer": "https://ambrosscan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

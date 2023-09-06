@@ -21,13 +21,9 @@
   ],
   "faucets": [],
   "infoURL": "https://arbitrum.io/",
-  "explorers": [
-    {
-      "name": "Arbitrum Goerli Rollup Explorer",
-      "url": "https://goerli-rollup-explorer.arbitrum.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Arbitrum Goerli Rollup Explorer": "https://goerli-rollup-explorer.arbitrum.io"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-5",

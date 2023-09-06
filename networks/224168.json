@@ -15,12 +15,8 @@
   "shortName": "TAFECO",
   "chainId": 224168,
   "networkId": 224168,
-  "explorers": [
-    {
-      "name": "Taf ECO Chain Mainnet",
-      "url": "https://ecoscan.tafchain.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Taf ECO Chain Mainnet": "https://ecoscan.tafchain.com"
+  },
   "tokens": []
 }

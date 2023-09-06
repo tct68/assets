@@ -17,12 +17,8 @@
   "shortName": "hbit",
   "chainId": 11119,
   "networkId": 11119,
-  "explorers": [
-    {
-      "name": "hashbitscan",
-      "url": "https://explorer.hashbit.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "hashbitscan": "https://explorer.hashbit.org"
+  },
   "tokens": []
 }

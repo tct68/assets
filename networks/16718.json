@@ -15,12 +15,8 @@
   "shortName": "airdao",
   "chainId": 16718,
   "networkId": 16718,
-  "explorers": [
-    {
-      "name": "AirDAO Network Explorer",
-      "url": "https://airdao.io/explorer",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "AirDAO Network Explorer": "https://airdao.io/explorer"
+  },
   "tokens": []
 }

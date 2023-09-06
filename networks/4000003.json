@@ -23,13 +23,8 @@
   "chainId": 4000003,
   "networkId": 4000003,
   "icon": "altlayer",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://zero-explorer.alt.technology",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://zero-explorer.alt.technology"
+  },
   "tokens": []
 }

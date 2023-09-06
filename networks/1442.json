@@ -15,13 +15,9 @@
   "shortName": "testnet-zkEVM-mango",
   "chainId": 1442,
   "networkId": 1442,
-  "explorers": [
-    {
-      "name": "Polygon zkEVM explorer",
-      "url": "https://explorer.public.zkevm-test.net",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Polygon zkEVM explorer": "https://explorer.public.zkevm-test.net"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

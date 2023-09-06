@@ -17,12 +17,8 @@
   "shortName": "gw-testnet-v1",
   "chainId": 71401,
   "networkId": 71401,
-  "explorers": [
-    {
-      "name": "GWScan Block Explorer",
-      "url": "https://v1.testnet.gwscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "GWScan Block Explorer": "https://v1.testnet.gwscan.com"
+  },
   "tokens": []
 }

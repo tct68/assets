@@ -14,13 +14,9 @@
   "shortName": "GeneChain",
   "chainId": 80,
   "networkId": 80,
-  "explorers": [
-    {
-      "name": "GeneChain Scan",
-      "url": "https://scan.genechain.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "GeneChain Scan": "https://scan.genechain.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

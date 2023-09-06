@@ -21,12 +21,8 @@
   "chainId": 818,
   "networkId": 818,
   "slip44": 8181,
-  "explorers": [
-    {
-      "name": "BeOne Chain Mainnet",
-      "url": "https://beonescan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "BeOne Chain Mainnet": "https://beonescan.com"
+  },
   "tokens": []
 }

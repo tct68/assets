@@ -15,12 +15,8 @@
   "shortName": "OPtest",
   "chainId": 141,
   "networkId": 141,
-  "explorers": [
-    {
-      "name": "Belly Scan",
-      "url": "https://testnet.bellyscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Belly Scan": "https://testnet.bellyscan.com"
+  },
   "tokens": []
 }

@@ -15,12 +15,8 @@
   "chainId": 4000,
   "networkId": 4000,
   "icon": "ozonechain",
-  "explorers": [
-    {
-      "name": "OZONE Scan",
-      "url": "https://ozonescan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "OZONE Scan": "https://ozonescan.io"
+  },
   "tokens": []
 }

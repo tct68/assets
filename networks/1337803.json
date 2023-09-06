@@ -18,13 +18,8 @@
   "chainId": 1337803,
   "networkId": 1337803,
   "icon": "ethereum",
-  "explorers": [
-    {
-      "name": "Zhejiang Explorer",
-      "url": "https://zhejiang.beaconcha.in",
-      "icon": "ethereum",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Zhejiang Explorer": "https://zhejiang.beaconcha.in"
+  },
   "tokens": []
 }

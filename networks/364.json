@@ -14,12 +14,8 @@
   "shortName": "theta-amber",
   "chainId": 364,
   "networkId": 364,
-  "explorers": [
-    {
-      "name": "Theta Amber Testnet Explorer",
-      "url": "https://guardian-testnet-amber-explorer.thetatoken.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Theta Amber Testnet Explorer": "https://guardian-testnet-amber-explorer.thetatoken.org"
+  },
   "tokens": []
 }

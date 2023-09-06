@@ -14,12 +14,8 @@
   "shortName": "L1test",
   "chainId": 26,
   "networkId": 26,
-  "explorers": [
-    {
-      "name": "Genesis L1 testnet explorer",
-      "url": "https://testnet.genesisl1.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Genesis L1 testnet explorer": "https://testnet.genesisl1.org"
+  },
   "tokens": []
 }

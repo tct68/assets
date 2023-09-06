@@ -12,13 +12,9 @@
   "shortName": "wtt",
   "chainId": 1202,
   "networkId": 2048,
-  "explorers": [
-    {
-      "name": "WTTScout",
-      "url": "https://explorer.cadaut.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "WTTScout": "https://explorer.cadaut.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

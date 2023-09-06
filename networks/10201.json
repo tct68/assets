@@ -19,12 +19,8 @@
   "shortName": "PWR",
   "chainId": 10201,
   "networkId": 10201,
-  "explorers": [
-    {
-      "name": "MaxxChain Block Explorer",
-      "url": "https://explorer.maxxchain.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "MaxxChain Block Explorer": "https://explorer.maxxchain.org"
+  },
   "tokens": []
 }

@@ -14,12 +14,8 @@
   "shortName": "jouleverse",
   "chainId": 3666,
   "networkId": 3666,
-  "explorers": [
-    {
-      "name": "jscan",
-      "url": "https://jscan.jnsdao.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "jscan": "https://jscan.jnsdao.com"
+  },
   "tokens": []
 }

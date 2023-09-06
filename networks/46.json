@@ -14,12 +14,8 @@
   "shortName": "darwinia",
   "chainId": 46,
   "networkId": 46,
-  "explorers": [
-    {
-      "name": "subscan",
-      "url": "https://darwinia.subscan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "subscan": "https://darwinia.subscan.io"
+  },
   "tokens": []
 }

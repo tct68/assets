@@ -15,13 +15,8 @@
   "chainId": 35441,
   "networkId": 35441,
   "icon": "q",
-  "explorers": [
-    {
-      "name": "Q explorer",
-      "url": "https://explorer.q.org",
-      "icon": "q",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Q explorer": "https://explorer.q.org"
+  },
   "tokens": []
 }

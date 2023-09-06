@@ -15,13 +15,8 @@
   "chainId": 117,
   "networkId": 117,
   "icon": "uptick",
-  "explorers": [
-    {
-      "name": "Uptick Explorer",
-      "url": "https://evm-explorer.uptick.network",
-      "icon": "uptick",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Uptick Explorer": "https://evm-explorer.uptick.network"
+  },
   "tokens": []
 }

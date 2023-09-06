@@ -15,14 +15,9 @@
   "chainId": 4062,
   "networkId": 4062,
   "icon": "nahmii",
-  "explorers": [
-    {
-      "name": "Nahmii 3 Testnet Explorer",
-      "url": "https://explorer.testnet.n3.nahmii.io",
-      "icon": "nahmii",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Nahmii 3 Testnet Explorer": "https://explorer.testnet.n3.nahmii.io"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-3",

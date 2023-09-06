@@ -14,17 +14,9 @@
   "shortName": "stos-testnet",
   "chainId": 2047,
   "networkId": 2047,
-  "explorers": [
-    {
-      "name": "Stratos EVM Explorer (Blockscout)",
-      "url": "https://web3-explorer-mesos.thestratos.org",
-      "standard": "none"
-    },
-    {
-      "name": "Stratos Cosmos Explorer (BigDipper)",
-      "url": "https://big-dipper-mesos.thestratos.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Stratos EVM Explorer (Blockscout)": "https://web3-explorer-mesos.thestratos.org",
+    "Stratos Cosmos Explorer (BigDipper)": "https://big-dipper-mesos.thestratos.org"
+  },
   "tokens": []
 }

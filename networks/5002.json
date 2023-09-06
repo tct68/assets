@@ -23,13 +23,8 @@
   "shortName": "treasurenet",
   "chainId": 5002,
   "networkId": 5002,
-  "explorers": [
-    {
-      "name": "Treasurenet EVM BlockExplorer",
-      "url": "https://evmexplorer.treasurenet.io",
-      "icon": "treasurenet",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Treasurenet EVM BlockExplorer": "https://evmexplorer.treasurenet.io"
+  },
   "tokens": []
 }

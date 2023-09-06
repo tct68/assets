@@ -17,12 +17,8 @@
   "chainId": 12123,
   "networkId": 12123,
   "icon": "brcchain",
-  "explorers": [
-    {
-      "name": "BRC Chain Explorer",
-      "url": "https://scan.brcchain.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "BRC Chain Explorer": "https://scan.brcchain.io"
+  },
   "tokens": []
 }

@@ -14,12 +14,8 @@
   "shortName": "moactest",
   "chainId": 201,
   "networkId": 201,
-  "explorers": [
-    {
-      "name": "moac testnet explorer",
-      "url": "https://testnet.moac.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "moac testnet explorer": "https://testnet.moac.io"
+  },
   "tokens": []
 }

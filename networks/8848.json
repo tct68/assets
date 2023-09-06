@@ -15,12 +15,8 @@
   "shortName": "maro",
   "chainId": 8848,
   "networkId": 8848,
-  "explorers": [
-    {
-      "name": "MARO Scan",
-      "url": "https://scan.ma.ro/#",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "MARO Scan": "https://scan.ma.ro/#"
+  },
   "tokens": []
 }

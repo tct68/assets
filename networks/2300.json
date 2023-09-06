@@ -15,13 +15,8 @@
   "chainId": 2300,
   "networkId": 2300,
   "icon": "bomb",
-  "explorers": [
-    {
-      "name": "bombscan",
-      "icon": "bomb",
-      "url": "https://bombscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "bombscan": "https://bombscan.com"
+  },
   "tokens": []
 }

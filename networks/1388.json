@@ -15,12 +15,8 @@
   "shortName": "ASAR",
   "chainId": 1388,
   "networkId": 1388,
-  "explorers": [
-    {
-      "name": "amstarscan",
-      "url": "https://mainnet.amstarscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "amstarscan": "https://mainnet.amstarscan.com"
+  },
   "tokens": []
 }

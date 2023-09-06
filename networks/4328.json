@@ -16,13 +16,9 @@
   "shortName": "BobaFujiTestnet",
   "chainId": 4328,
   "networkId": 4328,
-  "explorers": [
-    {
-      "name": "Bobafuji Testnet block explorer",
-      "url": "https://blockexplorer.testnet.avax.boba.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Bobafuji Testnet block explorer": "https://blockexplorer.testnet.avax.boba.network"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-5",

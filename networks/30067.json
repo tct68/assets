@@ -17,12 +17,8 @@
   "shortName": "Piece",
   "chainId": 30067,
   "networkId": 30067,
-  "explorers": [
-    {
-      "name": "Piece Scan",
-      "url": "https://testnet-scan.piecenetwork.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Piece Scan": "https://testnet-scan.piecenetwork.com"
+  },
   "tokens": []
 }

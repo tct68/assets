@@ -18,12 +18,8 @@
   "chainId": 1995,
   "networkId": 1995,
   "icon": "edexa",
-  "explorers": [
-    {
-      "name": "edexa-testnet",
-      "url": "https://explorer.testnet.edexa.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "edexa-testnet": "https://explorer.testnet.edexa.com"
+  },
   "tokens": []
 }

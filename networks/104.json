@@ -15,13 +15,8 @@
   "chainId": 104,
   "networkId": 104,
   "icon": "kaiba",
-  "explorers": [
-    {
-      "name": "kaibascan",
-      "url": "https://kaibascan.io",
-      "icon": "kaibascan",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "kaibascan": "https://kaibascan.io"
+  },
   "tokens": []
 }

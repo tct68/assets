@@ -17,12 +17,8 @@
   "shortName": "TPBXt",
   "chainId": 4141,
   "networkId": 4141,
-  "explorers": [
-    {
-      "name": "Tipboxcoin",
-      "url": "https://testnet.tipboxcoin.net",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Tipboxcoin": "https://testnet.tipboxcoin.net"
+  },
   "tokens": []
 }

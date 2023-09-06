@@ -17,12 +17,8 @@
   "shortName": "shi",
   "chainId": 534849,
   "networkId": 534849,
-  "explorers": [
-    {
-      "name": "shinascan",
-      "url": "https://shinascan.shinarium.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "shinascan": "https://shinascan.shinarium.org"
+  },
   "tokens": []
 }

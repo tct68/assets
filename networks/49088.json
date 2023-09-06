@@ -17,12 +17,8 @@
   "chainId": 49088,
   "networkId": 49088,
   "icon": "bifrost",
-  "explorers": [
-    {
-      "name": "explorer-thebifrost",
-      "url": "https://explorer.testnet.thebifrost.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer-thebifrost": "https://explorer.testnet.thebifrost.io"
+  },
   "tokens": []
 }

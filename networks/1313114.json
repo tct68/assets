@@ -15,13 +15,9 @@
   "chainId": 1313114,
   "networkId": 1313114,
   "slip44": 1313114,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.ethoprotocol.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.ethoprotocol.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

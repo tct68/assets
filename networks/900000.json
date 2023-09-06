@@ -17,13 +17,9 @@
   "shortName": "psc-s0",
   "chainId": 900000,
   "networkId": 900000,
-  "explorers": [
-    {
-      "name": "Posichain Explorer",
-      "url": "https://explorer.posichain.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Posichain Explorer": "https://explorer.posichain.org"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

@@ -17,12 +17,8 @@
   "shortName": "SPCm",
   "chainId": 3699,
   "networkId": 3699,
-  "explorers": [
-    {
-      "name": "SenjePowers",
-      "url": "https://senjepowersscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "SenjePowers": "https://senjepowersscan.com"
+  },
   "tokens": []
 }

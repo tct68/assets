@@ -18,13 +18,9 @@
   "chainId": 246,
   "networkId": 246,
   "slip44": 246,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.energyweb.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.energyweb.org"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

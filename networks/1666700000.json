@@ -16,12 +16,8 @@
   "shortName": "hmy-b-s0",
   "chainId": 1666700000,
   "networkId": 1666700000,
-  "explorers": [
-    {
-      "name": "Harmony Testnet Block Explorer",
-      "url": "https://explorer.testnet.harmony.one",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Harmony Testnet Block Explorer": "https://explorer.testnet.harmony.one"
+  },
   "tokens": []
 }

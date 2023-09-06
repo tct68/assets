@@ -15,13 +15,8 @@
   "chainId": 444,
   "networkId": 444,
   "icon": "fren",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://testnet.frenscan.io",
-      "icon": "fren",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://testnet.frenscan.io"
+  },
   "tokens": []
 }

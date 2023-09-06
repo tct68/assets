@@ -15,12 +15,8 @@
   "shortName": "joct",
   "chainId": 10081,
   "networkId": 10081,
-  "explorers": [
-    {
-      "name": "Testnet Block Explorer",
-      "url": "https://explorer.testnet.japanopenchain.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Testnet Block Explorer": "https://explorer.testnet.japanopenchain.org"
+  },
   "tokens": []
 }

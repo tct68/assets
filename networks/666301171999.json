@@ -14,12 +14,8 @@
   "shortName": "ipdc",
   "chainId": 666301171999,
   "networkId": 666301171999,
-  "explorers": [
-    {
-      "name": "ipdcscan",
-      "url": "https://scan.ipdc.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "ipdcscan": "https://scan.ipdc.io"
+  },
   "tokens": []
 }

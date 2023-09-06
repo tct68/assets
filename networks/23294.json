@@ -16,12 +16,8 @@
   "shortName": "sapphire",
   "chainId": 23294,
   "networkId": 23294,
-  "explorers": [
-    {
-      "name": "Oasis Sapphire Explorer",
-      "url": "https://explorer.sapphire.oasis.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Oasis Sapphire Explorer": "https://explorer.sapphire.oasis.io"
+  },
   "tokens": []
 }

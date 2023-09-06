@@ -17,13 +17,8 @@
   "shortName": "NAUTTest",
   "chainId": 88002,
   "networkId": 88002,
-  "explorers": [
-    {
-      "name": "Nautscan",
-      "url": "https://proteus.nautscan.com",
-      "standard": "EIP3091",
-      "icon": "nautilus"
-    }
-  ],
+  "explorers": {
+    "Nautscan": "https://proteus.nautscan.com"
+  },
   "tokens": []
 }

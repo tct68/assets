@@ -17,12 +17,8 @@
   "shortName": "ABNm",
   "chainId": 2202,
   "networkId": 2202,
-  "explorers": [
-    {
-      "name": "Antofy Mainnet",
-      "url": "https://antofyscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Antofy Mainnet": "https://antofyscan.com"
+  },
   "tokens": []
 }

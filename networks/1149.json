@@ -15,13 +15,8 @@
   "chainId": 1149,
   "networkId": 1149,
   "icon": "plexchain",
-  "explorers": [
-    {
-      "name": "Plexchain Explorer",
-      "url": "https://explorer.plexfinance.us",
-      "icon": "plexchain",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Plexchain Explorer": "https://explorer.plexfinance.us"
+  },
   "tokens": []
 }

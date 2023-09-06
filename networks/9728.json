@@ -19,13 +19,9 @@
   "shortName": "BobaBnbTestnet",
   "chainId": 9728,
   "networkId": 9728,
-  "explorers": [
-    {
-      "name": "Boba BNB Testnet block explorer",
-      "url": "https://blockexplorer.testnet.bnb.boba.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Boba BNB Testnet block explorer": "https://blockexplorer.testnet.bnb.boba.network"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-5",

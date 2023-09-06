@@ -17,13 +17,8 @@
   "shortName": "calypso-mainnet",
   "chainId": 1564830818,
   "networkId": 1564830818,
-  "explorers": [
-    {
-      "name": "Blockscout",
-      "url": "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com",
-      "icon": "calypso",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Blockscout": "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com"
+  },
   "tokens": []
 }

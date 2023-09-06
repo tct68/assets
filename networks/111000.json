@@ -15,13 +15,8 @@
   "chainId": 111000,
   "networkId": 111000,
   "icon": "siberium",
-  "explorers": [
-    {
-      "name": "Siberium Testnet Explorer - blockscout",
-      "url": "https://explorer.test.siberium.net",
-      "icon": "siberium",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Siberium Testnet Explorer - blockscout": "https://explorer.test.siberium.net"
+  },
   "tokens": []
 }

@@ -16,17 +16,9 @@
   "shortName": "obnbt",
   "chainId": 5611,
   "networkId": 5611,
-  "explorers": [
-    {
-      "name": "bscscan-opbnb-testnet",
-      "url": "https://opbnb-testnet.bscscan.com",
-      "standard": "EIP3091"
-    },
-    {
-      "name": "opbnbscan",
-      "url": "http://opbnbscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "bscscan-opbnb-testnet": "https://opbnb-testnet.bscscan.com",
+    "opbnbscan": "http://opbnbscan.com"
+  },
   "tokens": []
 }

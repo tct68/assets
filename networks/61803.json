@@ -18,17 +18,9 @@
   "shortName": "Etica",
   "chainId": 61803,
   "networkId": 61803,
-  "explorers": [
-    {
-      "name": "eticascan",
-      "url": "https://eticascan.org",
-      "standard": "EIP3091"
-    },
-    {
-      "name": "eticastats",
-      "url": "http://explorer.etica-stats.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "eticascan": "https://eticascan.org",
+    "eticastats": "http://explorer.etica-stats.org"
+  },
   "tokens": []
 }

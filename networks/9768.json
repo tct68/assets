@@ -17,12 +17,8 @@
   "shortName": "NetZt",
   "chainId": 9768,
   "networkId": 9768,
-  "explorers": [
-    {
-      "name": "MainnetZ",
-      "url": "https://testnet.mainnetz.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "MainnetZ": "https://testnet.mainnetz.io"
+  },
   "tokens": []
 }

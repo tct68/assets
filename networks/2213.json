@@ -15,13 +15,9 @@
   "chainId": 2213,
   "networkId": 2213,
   "icon": "evanesco",
-  "explorers": [
-    {
-      "name": "Evanesco Explorer",
-      "url": "https://explorer.evanesco.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Evanesco Explorer": "https://explorer.evanesco.org"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

@@ -31,14 +31,9 @@
   "chainId": 250,
   "networkId": 250,
   "icon": "fantom",
-  "explorers": [
-    {
-      "name": "ftmscan",
-      "url": "https://ftmscan.com",
-      "icon": "ftmscan",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "ftmscan": "https://ftmscan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

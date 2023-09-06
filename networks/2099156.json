@@ -14,13 +14,9 @@
   "shortName": "plian-mainnet",
   "chainId": 2099156,
   "networkId": 2099156,
-  "explorers": [
-    {
-      "name": "piscan",
-      "url": "https://piscan.plian.org/pchain",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "piscan": "https://piscan.plian.org/pchain"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

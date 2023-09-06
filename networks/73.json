@@ -17,13 +17,8 @@
   "chainId": 73,
   "networkId": 73,
   "icon": "fncy",
-  "explorers": [
-    {
-      "name": "fncy scan",
-      "url": "https://fncyscan.fncy.world",
-      "icon": "fncy",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "fncy scan": "https://fncyscan.fncy.world"
+  },
   "tokens": []
 }

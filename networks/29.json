@@ -14,13 +14,9 @@
   "shortName": "L1",
   "chainId": 29,
   "networkId": 29,
-  "explorers": [
-    {
-      "name": "Genesis L1 blockchain explorer",
-      "url": "https://explorer.genesisl1.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Genesis L1 blockchain explorer": "https://explorer.genesisl1.org"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

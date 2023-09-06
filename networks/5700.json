@@ -16,13 +16,9 @@
   "shortName": "tsys",
   "chainId": 5700,
   "networkId": 5700,
-  "explorers": [
-    {
-      "name": "Syscoin Testnet Block Explorer",
-      "url": "https://tanenbaum.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Syscoin Testnet Block Explorer": "https://tanenbaum.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

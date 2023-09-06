@@ -13,13 +13,9 @@
     "https://rpc.etherfair.org"
   ],
   "faucets": [],
-  "explorers": [
-    {
-      "name": "etherfair",
-      "url": "https://www.oklink.com/ethf",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "etherfair": "https://www.oklink.com/ethf"
+  },
   "infoURL": "https://etherfair.org",
   "tokens": []
 }

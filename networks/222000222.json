@@ -17,13 +17,8 @@
   "shortName": "kanazawa",
   "chainId": 222000222,
   "networkId": 222000222,
-  "explorers": [
-    {
-      "name": "explorer",
-      "url": "https://subnets-test.avax.network/meld",
-      "icon": "meld",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer": "https://subnets-test.avax.network/meld"
+  },
   "tokens": []
 }

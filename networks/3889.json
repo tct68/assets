@@ -23,12 +23,8 @@
   "shortName": "kalytestnet",
   "chainId": 3889,
   "networkId": 3889,
-  "explorers": [
-    {
-      "name": "KalyScan",
-      "url": "https://testnet.kalyscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "KalyScan": "https://testnet.kalyscan.io"
+  },
   "tokens": []
 }

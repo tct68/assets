@@ -25,13 +25,8 @@
   "chainId": 622277,
   "networkId": 622277,
   "icon": "rethereum",
-  "explorers": [
-    {
-      "name": "rethereum",
-      "url": "https://explorer.rethereum.org",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "rethereum": "https://explorer.rethereum.org"
+  },
   "tokens": []
 }

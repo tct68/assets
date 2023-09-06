@@ -13,13 +13,9 @@
   "shortName": "testnet-zkEVM-mango-pre-audit-upgraded",
   "chainId": 1422,
   "networkId": 1422,
-  "explorers": [
-    {
-      "name": "Polygon zkEVM explorer",
-      "url": "https://explorer.public.zkevm-test.net",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Polygon zkEVM explorer": "https://explorer.public.zkevm-test.net"
+  },
   "status": "deprecated",
   "tokens": []
 }

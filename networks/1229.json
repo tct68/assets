@@ -15,12 +15,8 @@
   "shortName": "xzo",
   "chainId": 1229,
   "networkId": 1229,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://exzoscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://exzoscan.io"
+  },
   "tokens": []
 }

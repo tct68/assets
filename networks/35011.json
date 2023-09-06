@@ -22,14 +22,9 @@
   "shortName": "j2o",
   "chainId": 35011,
   "networkId": 35011,
-  "explorers": [
-    {
-      "name": "J2O Taro Explorer",
-      "url": "https://exp.j2o.io",
-      "icon": "j2otaro",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "J2O Taro Explorer": "https://exp.j2o.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

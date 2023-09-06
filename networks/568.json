@@ -17,12 +17,8 @@
   "shortName": "dct",
   "chainId": 568,
   "networkId": 568,
-  "explorers": [
-    {
-      "name": "dogechain testnet explorer",
-      "url": "https://explorer-testnet.dogechain.dog",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "dogechain testnet explorer": "https://explorer-testnet.dogechain.dog"
+  },
   "tokens": []
 }

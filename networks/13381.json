@@ -15,13 +15,9 @@
   "chainId": 13381,
   "networkId": 13381,
   "icon": "phoenix",
-  "explorers": [
-    {
-      "name": "phoenixplorer",
-      "url": "https://phoenixplorer.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "phoenixplorer": "https://phoenixplorer.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

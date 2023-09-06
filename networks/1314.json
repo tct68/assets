@@ -14,13 +14,9 @@
   "shortName": "alyx",
   "chainId": 1314,
   "networkId": 1314,
-  "explorers": [
-    {
-      "name": "alyxscan",
-      "url": "https://www.alyxscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "alyxscan": "https://www.alyxscan.com"
+  },
   "icon": "alyx",
   "tokens": []
 }

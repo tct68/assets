@@ -25,12 +25,8 @@
   "chainId": 1291,
   "networkId": 1291,
   "icon": "swisstronik",
-  "explorers": [
-    {
-      "name": "Swisstronik Scout",
-      "url": "https://explorer-evm.testnet.swisstronik.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Swisstronik Scout": "https://explorer-evm.testnet.swisstronik.com"
+  },
   "tokens": []
 }

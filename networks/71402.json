@@ -14,13 +14,9 @@
   "shortName": "gw-mainnet-v1",
   "chainId": 71402,
   "networkId": 71402,
-  "explorers": [
-    {
-      "name": "GWScan Block Explorer",
-      "url": "https://v1.gwscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "GWScan Block Explorer": "https://v1.gwscan.com"
+  },
   "tokens": [],
   "iconUrl": "https://raw.githubusercontent.com/tct68/icons/v2/assets/chains/rsz_godwoken.jpg",
   "chainSlug": "godwoken"

@@ -17,13 +17,8 @@
   "shortName": "calypso-testnet",
   "chainId": 344106930,
   "networkId": 344106930,
-  "explorers": [
-    {
-      "name": "Blockscout",
-      "url": "https://staging-utter-unripe-menkar.explorer.staging-v3.skalenodes.com",
-      "icon": "calypso",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Blockscout": "https://staging-utter-unripe-menkar.explorer.staging-v3.skalenodes.com"
+  },
   "tokens": []
 }

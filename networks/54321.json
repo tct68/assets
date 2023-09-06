@@ -18,12 +18,8 @@
   "ens": {
     "registry": "0x059C474f26D65B0458F9da10A649a7322aB02C09"
   },
-  "explorers": [
-    {
-      "name": "toronet_explorer",
-      "url": "https://testnet.toronet.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "toronet_explorer": "https://testnet.toronet.org"
+  },
   "tokens": []
 }

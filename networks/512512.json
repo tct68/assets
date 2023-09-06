@@ -16,13 +16,9 @@
   "shortName": "cmp",
   "chainId": 512512,
   "networkId": 512512,
-  "explorers": [
-    {
-      "name": "Galaxy Scan",
-      "url": "https://galaxy.scan.caduceus.foundation",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Galaxy Scan": "https://galaxy.scan.caduceus.foundation"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

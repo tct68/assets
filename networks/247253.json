@@ -15,12 +15,8 @@
   "shortName": "saakuru-testnet",
   "chainId": 247253,
   "networkId": 247253,
-  "explorers": [
-    {
-      "name": "saakuru-explorer-testnet",
-      "url": "https://explorer-testnet.saakuru.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "saakuru-explorer-testnet": "https://explorer-testnet.saakuru.network"
+  },
   "tokens": []
 }

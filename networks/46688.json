@@ -25,13 +25,8 @@
   "chainId": 46688,
   "networkId": 46688,
   "slip44": 288,
-  "explorers": [
-    {
-      "name": "fsnscan",
-      "url": "https://testnet.fsnscan.com",
-      "icon": "fsnscan",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "fsnscan": "https://testnet.fsnscan.com"
+  },
   "tokens": []
 }

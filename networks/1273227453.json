@@ -17,13 +17,8 @@
   "shortName": "human-mainnet",
   "chainId": 1273227453,
   "networkId": 1273227453,
-  "explorers": [
-    {
-      "name": "Blockscout",
-      "url": "https://wan-red-ain.explorer.mainnet.skalenodes.com",
-      "icon": "human",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Blockscout": "https://wan-red-ain.explorer.mainnet.skalenodes.com"
+  },
   "tokens": []
 }

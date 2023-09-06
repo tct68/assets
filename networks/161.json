@@ -14,12 +14,8 @@
   "shortName": "wall-e",
   "chainId": 161,
   "networkId": 161,
-  "explorers": [
-    {
-      "name": "blockscout - evascan",
-      "url": "https://testnet.evascan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout - evascan": "https://testnet.evascan.io"
+  },
   "tokens": []
 }

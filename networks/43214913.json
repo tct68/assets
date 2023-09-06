@@ -14,12 +14,8 @@
   "shortName": "mais",
   "chainId": 43214913,
   "networkId": 43214913,
-  "explorers": [
-    {
-      "name": "maistesntet",
-      "url": "http://174.138.9.169:3006/?network=maistesntet",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "maistesntet": "http://174.138.9.169:3006/?network=maistesntet"
+  },
   "tokens": []
 }

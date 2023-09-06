@@ -18,13 +18,8 @@
   "shortName": "dfly",
   "chainId": 78281,
   "networkId": 78281,
-  "explorers": [
-    {
-      "name": "Dragonfly Blockscout",
-      "url": "https://blockscout.dragonfly.hexapod.network",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Dragonfly Blockscout": "https://blockscout.dragonfly.hexapod.network"
+  },
   "tokens": []
 }

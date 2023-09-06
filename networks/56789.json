@@ -17,12 +17,8 @@
   "chainId": 56789,
   "networkId": 56789,
   "icon": "novachain",
-  "explorers": [
-    {
-      "name": "novascan",
-      "url": "https://novascan.velo.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "novascan": "https://novascan.velo.org"
+  },
   "tokens": []
 }

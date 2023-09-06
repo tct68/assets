@@ -15,12 +15,8 @@
   "shortName": "ELST",
   "chainId": 1338,
   "networkId": 1338,
-  "explorers": [
-    {
-      "name": "Elysium testnet explorer",
-      "url": "https://elysium-explorer.vulcanforged.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Elysium testnet explorer": "https://elysium-explorer.vulcanforged.com"
+  },
   "tokens": []
 }

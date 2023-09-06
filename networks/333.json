@@ -12,13 +12,9 @@
   "shortName": "w3q",
   "chainId": 333,
   "networkId": 333,
-  "explorers": [
-    {
-      "name": "w3q-mainnet",
-      "url": "https://explorer.mainnet.web3q.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "w3q-mainnet": "https://explorer.mainnet.web3q.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

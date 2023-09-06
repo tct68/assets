@@ -14,13 +14,9 @@
   "shortName": "BobaRinkeby",
   "chainId": 28,
   "networkId": 28,
-  "explorers": [
-    {
-      "name": "Blockscout",
-      "url": "https://blockexplorer.rinkeby.boba.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Blockscout": "https://blockexplorer.rinkeby.boba.network"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-4",

@@ -15,12 +15,8 @@
   "shortName": "pando-mainnet",
   "chainId": 3601,
   "networkId": 3601,
-  "explorers": [
-    {
-      "name": "Pando Mainnet Explorer",
-      "url": "https://explorer.pandoproject.org",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Pando Mainnet Explorer": "https://explorer.pandoproject.org"
+  },
   "tokens": []
 }

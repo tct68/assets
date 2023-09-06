@@ -15,13 +15,8 @@
   "chainId": 373737,
   "networkId": 373737,
   "icon": "hap",
-  "explorers": [
-    {
-      "name": "HAP EVM Explorer (Blockscout)",
-      "url": "https://blockscout-test.hap.land",
-      "standard": "none",
-      "icon": "hap"
-    }
-  ],
+  "explorers": {
+    "HAP EVM Explorer (Blockscout)": "https://blockscout-test.hap.land"
+  },
   "tokens": []
 }

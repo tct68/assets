@@ -23,13 +23,9 @@
   "shortName": "mbeam",
   "chainId": 1284,
   "networkId": 1284,
-  "explorers": [
-    {
-      "name": "moonscan",
-      "url": "https://moonbeam.moonscan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "moonscan": "https://moonbeam.moonscan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

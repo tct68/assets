@@ -18,12 +18,8 @@
   "chainId": 65010000,
   "networkId": 65010000,
   "icon": "autonity",
-  "explorers": [
-    {
-      "name": "autonity-blockscout",
-      "url": "https://bakerloo.autonity.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "autonity-blockscout": "https://bakerloo.autonity.org"
+  },
   "tokens": []
 }

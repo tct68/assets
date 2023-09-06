@@ -15,13 +15,8 @@
   "chainId": 1984,
   "networkId": 1984,
   "icon": "eurus",
-  "explorers": [
-    {
-      "name": "testnetexplorer",
-      "url": "https://testnetexplorer.eurus.network",
-      "icon": "eurus",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "testnetexplorer": "https://testnetexplorer.eurus.network"
+  },
   "tokens": []
 }

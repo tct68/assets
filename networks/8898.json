@@ -20,13 +20,8 @@
   "chainId": 8898,
   "networkId": 8898,
   "icon": "mmt",
-  "explorers": [
-    {
-      "name": "mmtscan",
-      "url": "https://mmtscan.io",
-      "standard": "EIP3091",
-      "icon": "mmt"
-    }
-  ],
+  "explorers": {
+    "mmtscan": "https://mmtscan.io"
+  },
   "tokens": []
 }

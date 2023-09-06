@@ -17,12 +17,8 @@
   "chainId": 9012,
   "networkId": 9012,
   "icon": "berylbit",
-  "explorers": [
-    {
-      "name": "berylbit-explorer",
-      "url": "https://explorer.berylbit.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "berylbit-explorer": "https://explorer.berylbit.io"
+  },
   "tokens": []
 }

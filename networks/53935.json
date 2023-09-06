@@ -16,14 +16,9 @@
   "shortName": "DFK",
   "chainId": 53935,
   "networkId": 53935,
-  "explorers": [
-    {
-      "name": "ethernal",
-      "url": "https://explorer.dfkchain.com",
-      "icon": "ethereum",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "ethernal": "https://explorer.dfkchain.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

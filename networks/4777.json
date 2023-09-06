@@ -23,13 +23,8 @@
   "chainId": 4777,
   "networkId": 4777,
   "icon": "bxn",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://testnet-explorer.blackfort.network",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://testnet-explorer.blackfort.network"
+  },
   "tokens": []
 }

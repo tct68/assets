@@ -15,12 +15,8 @@
   "shortName": "bitci",
   "chainId": 1907,
   "networkId": 1907,
-  "explorers": [
-    {
-      "name": "Bitci Explorer",
-      "url": "https://bitciexplorer.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Bitci Explorer": "https://bitciexplorer.com"
+  },
   "tokens": []
 }

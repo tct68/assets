@@ -37,13 +37,9 @@
   "chainId": 43114,
   "networkId": 43114,
   "slip44": 9005,
-  "explorers": [
-    {
-      "name": "snowtrace",
-      "url": "https://snowtrace.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "snowtrace": "https://snowtrace.io"
+  },
   "tokens": [
     {
       "chainId": 43114,
@@ -1038,14 +1034,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
-      "name": "Bitcoin Avalanche Bridged  BTC b ",
-      "symbol": "BTCB",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/26115/thumb/btcb.png?1655921693"
-    },
-    {
-      "chainId": 43114,
       "address": "0xf32398dae246c5f672b52a54e9b413dffcae1a44",
       "name": "Kassandra",
       "symbol": "KACY",
@@ -1059,6 +1047,14 @@
       "symbol": "STL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30914/thumb/STL_Token_Logo.png?1688712609"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x00ee200df31b869a321b10400da10b561f3ee60d",
+      "name": "Arable Protocol",
+      "symbol": "ACRE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23659/thumb/acre_token-02.png?1644989289"
     },
     {
       "chainId": 43114,
@@ -1118,11 +1114,19 @@
     },
     {
       "chainId": 43114,
-      "address": "0xa77e70d0af1ac7ff86726740db1bd065c3566937",
-      "name": "PLAYA3ULL GAMES",
-      "symbol": "3ULL",
+      "address": "0x5085434227ab73151fad2de546210cbc8663df96",
+      "name": "Metaderby",
+      "symbol": "DBY",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30695/thumb/App_Icon_Round.png?1686297419"
+      "logoURI": "https://assets.coingecko.com/coins/images/25242/thumb/metaderby.png?1650974944"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+      "name": "Bitcoin Avalanche Bridged  BTC b ",
+      "symbol": "BTCB",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/26115/thumb/btcb.png?1655921693"
     },
     {
       "chainId": 43114,
@@ -1142,14 +1146,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x9366d30feba284e62900f6295bc28c9906f33172",
-      "name": "BiometricFinancial",
-      "symbol": "BIOFI",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/25207/thumb/CoinGekoBioFiImage.png?1650771084"
-    },
-    {
-      "chainId": 43114,
       "address": "0x7b2b702706d9b361dfe3f00bd138c0cfda7fb2cf",
       "name": "Pollen",
       "symbol": "PLN",
@@ -1163,22 +1159,6 @@
       "symbol": "CHRO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26165/thumb/Untitled_%28200_%C3%97_200_px%29.png?1657245976"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xeeee99b35eb6af5e7d76dd846dbe4bcc0c60ca1d",
-      "name": "SoliSnek",
-      "symbol": "SNEK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29877/thumb/SoliSnek2.png?1681973947"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
-      "name": "Wonderful Memories",
-      "symbol": "WMEMO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22392/thumb/wMEMO.png?1665832927"
     },
     {
       "chainId": 43114,
@@ -1203,6 +1183,14 @@
       "symbol": "TUS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/20012/thumb/img-tus.png?1636378482"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xe06fba763c2104db5027f57f6a5be0a0d86308af",
+      "name": "Akitavax",
+      "symbol": "AKITAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23043/thumb/coingeckologoakitax.png?1643100394"
     },
     {
       "chainId": 43114,
@@ -1278,14 +1266,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x8f47416cae600bccf9530e9f3aeaa06bdd1caa79",
-      "name": "ThorFi",
-      "symbol": "THOR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21322/thumb/ThorFi-Mark-Storm2x.png?1670736181"
-    },
-    {
-      "chainId": 43114,
       "address": "0x3eefb18003d033661f84e48360ebecd181a84709",
       "name": "Islander",
       "symbol": "ISA",
@@ -1302,6 +1282,22 @@
     },
     {
       "chainId": 43114,
+      "address": "0xfd538ca3f58dc309da55b11f007ff53fb4602876",
+      "name": "Battle For Giostone",
+      "symbol": "BFG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27715/thumb/BFG-token-logo.00b4b09c.png?1665453193"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xa77e70d0af1ac7ff86726740db1bd065c3566937",
+      "name": "PLAYA3ULL GAMES",
+      "symbol": "3ULL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30695/thumb/App_Icon_Round.png?1686297419"
+    },
+    {
+      "chainId": 43114,
       "address": "0x9c846d808a41328a209e235b5e3c4e626dab169e",
       "name": "Chikn Fert",
       "symbol": "FERT",
@@ -1310,11 +1306,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0x9f285507ea5b4f33822ca7abb5ec8953ce37a645",
-      "name": "Degis",
-      "symbol": "DEG",
+      "address": "0xeeee99b35eb6af5e7d76dd846dbe4bcc0c60ca1d",
+      "name": "SoliSnek",
+      "symbol": "SNEK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24333/thumb/DEG_Logo.png?1647359628"
+      "logoURI": "https://assets.coingecko.com/coins/images/29877/thumb/SoliSnek2.png?1681973947"
     },
     {
       "chainId": 43114,
@@ -1323,14 +1319,6 @@
       "symbol": "OWL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26453/thumb/Jq6a3dLK_400x400.jpeg?1658114178"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x00ee200df31b869a321b10400da10b561f3ee60d",
-      "name": "Arable Protocol",
-      "symbol": "ACRE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23659/thumb/acre_token-02.png?1644989289"
     },
     {
       "chainId": 43114,
@@ -1374,6 +1362,14 @@
     },
     {
       "chainId": 43114,
+      "address": "0x9366d30feba284e62900f6295bc28c9906f33172",
+      "name": "BiometricFinancial",
+      "symbol": "BIOFI",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/25207/thumb/CoinGekoBioFiImage.png?1650771084"
+    },
+    {
+      "chainId": 43114,
       "address": "0xab592d197acc575d16c3346f4eb70c703f308d1e",
       "name": "chikn feed",
       "symbol": "FEED",
@@ -1387,14 +1383,6 @@
       "symbol": "ELK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/17813/thumb/elk.png?1629336971"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xfd538ca3f58dc309da55b11f007ff53fb4602876",
-      "name": "Battle For Giostone",
-      "symbol": "BFG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27715/thumb/BFG-token-logo.00b4b09c.png?1665453193"
     },
     {
       "chainId": 43114,
@@ -1414,6 +1402,14 @@
     },
     {
       "chainId": 43114,
+      "address": "0x8f47416cae600bccf9530e9f3aeaa06bdd1caa79",
+      "name": "ThorFi",
+      "symbol": "THOR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21322/thumb/ThorFi-Mark-Storm2x.png?1670736181"
+    },
+    {
+      "chainId": 43114,
       "address": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
       "name": "Lydia Finance",
       "symbol": "LYD",
@@ -1422,19 +1418,19 @@
     },
     {
       "chainId": 43114,
+      "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+      "name": "Wonderful Memories",
+      "symbol": "WMEMO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22392/thumb/wMEMO.png?1665832927"
+    },
+    {
+      "chainId": 43114,
       "address": "0x1ecd47ff4d9598f89721a2866bfeb99505a413ed",
       "name": "AVME",
       "symbol": "AVME",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/17184/thumb/avme_logo.png?1626820475"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xe9d62a1daffaa10e4f239936972807955ad765b4",
-      "name": "Earniverse",
-      "symbol": "EIV",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23929/thumb/HGpGTTBc_400x400.jpg?1689323712"
     },
     {
       "chainId": 43114,
@@ -1531,6 +1527,14 @@
       "symbol": "NNT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24378/thumb/NNT_99cc33.png?1649120059"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9f285507ea5b4f33822ca7abb5ec8953ce37a645",
+      "name": "Degis",
+      "symbol": "DEG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24333/thumb/DEG_Logo.png?1647359628"
     },
     {
       "chainId": 43114,
@@ -1726,11 +1730,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0xa1afcc973d44ce1c65a21d9e644cb82489d26503",
-      "name": "RunBlox",
-      "symbol": "RUX",
+      "address": "0xe9d62a1daffaa10e4f239936972807955ad765b4",
+      "name": "Earniverse",
+      "symbol": "EIV",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26156/thumb/img_v2_37fc1523-649d-45bc-a75f-387f9de1bfch.png?1656405106"
+      "logoURI": "https://assets.coingecko.com/coins/images/23929/thumb/HGpGTTBc_400x400.jpg?1689323712"
     },
     {
       "chainId": 43114,
@@ -1766,14 +1770,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x5085434227ab73151fad2de546210cbc8663df96",
-      "name": "Metaderby",
-      "symbol": "DBY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25242/thumb/metaderby.png?1650974944"
-    },
-    {
-      "chainId": 43114,
       "address": "0x2d052048fe7e4f59277e5e5ed5d21d35419fe747",
       "name": "MinerJoe",
       "symbol": "GOLD",
@@ -1795,14 +1791,6 @@
       "symbol": "GGP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30267/thumb/GGP_logo_square.png?1683776057"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x714f020c54cc9d104b6f4f6998c63ce2a31d1888",
-      "name": "Step App",
-      "symbol": "FITFI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25015/thumb/801485424e1f49bc8d0facff9287eb9b_photo.png?1649827972"
     },
     {
       "chainId": 43114,
@@ -1862,19 +1850,19 @@
     },
     {
       "chainId": 43114,
+      "address": "0xa1afcc973d44ce1c65a21d9e644cb82489d26503",
+      "name": "RunBlox",
+      "symbol": "RUX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26156/thumb/img_v2_37fc1523-649d-45bc-a75f-387f9de1bfch.png?1656405106"
+    },
+    {
+      "chainId": 43114,
       "address": "0xe533b81297b820d2eb2cd837263926596328e8d2",
       "name": "EMDX",
       "symbol": "EMDX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30774/thumb/EMDX_200x200.png?1687149980"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xe06fba763c2104db5027f57f6a5be0a0d86308af",
-      "name": "Akitavax",
-      "symbol": "AKITAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23043/thumb/coingeckologoakitax.png?1643100394"
     },
     {
       "chainId": 43114,
@@ -1947,6 +1935,14 @@
       "symbol": "AGX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28297/thumb/AGX-Coin_200.png?1669265558"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x714f020c54cc9d104b6f4f6998c63ce2a31d1888",
+      "name": "Step App",
+      "symbol": "FITFI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25015/thumb/801485424e1f49bc8d0facff9287eb9b_photo.png?1649827972"
     },
     {
       "chainId": 43114,

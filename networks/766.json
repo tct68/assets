@@ -16,13 +16,8 @@
   "chainId": 766,
   "networkId": 766,
   "icon": "qom",
-  "explorers": [
-    {
-      "name": "QL1 Mainnet Explorer",
-      "url": "https://mainnet.qom.one",
-      "icon": "qom",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "QL1 Mainnet Explorer": "https://mainnet.qom.one"
+  },
   "tokens": []
 }

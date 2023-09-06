@@ -15,13 +15,9 @@
   "shortName": "CURVEm",
   "chainId": 827431,
   "networkId": 827431,
-  "explorers": [
-    {
-      "name": "CURVE Mainnet",
-      "url": "https://curvescan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "CURVE Mainnet": "https://curvescan.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

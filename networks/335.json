@@ -15,13 +15,8 @@
   "shortName": "DFKTEST",
   "chainId": 335,
   "networkId": 335,
-  "explorers": [
-    {
-      "name": "ethernal",
-      "url": "https://explorer-test.dfkchain.com",
-      "icon": "ethereum",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "ethernal": "https://explorer-test.dfkchain.com"
+  },
   "tokens": []
 }

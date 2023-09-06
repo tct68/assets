@@ -15,12 +15,8 @@
   "chainId": 401,
   "networkId": 401,
   "icon": "ozonechain",
-  "explorers": [
-    {
-      "name": "OZONE Scan",
-      "url": "https://testnet.ozonescan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "OZONE Scan": "https://testnet.ozonescan.io"
+  },
   "tokens": []
 }

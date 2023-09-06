@@ -17,13 +17,8 @@
   "shortName": "AnytypeChain",
   "chainId": 1701,
   "networkId": 1701,
-  "explorers": [
-    {
-      "name": "Anytype Explorer",
-      "url": "https://explorer.anytype.io",
-      "icon": "any",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Anytype Explorer": "https://explorer.anytype.io"
+  },
   "tokens": []
 }

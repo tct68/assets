@@ -20,13 +20,9 @@
   "chainId": 321,
   "networkId": 321,
   "slip44": 641,
-  "explorers": [
-    {
-      "name": "KCC Explorer",
-      "url": "https://explorer.kcc.io/en",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "KCC Explorer": "https://explorer.kcc.io/en"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

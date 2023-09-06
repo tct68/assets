@@ -16,12 +16,8 @@
   "shortName": "FSCMainnet",
   "chainId": 868,
   "networkId": 868,
-  "explorers": [
-    {
-      "name": "FSCScan",
-      "url": "https://explorer.fantasiachain.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "FSCScan": "https://explorer.fantasiachain.com"
+  },
   "tokens": []
 }

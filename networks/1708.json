@@ -17,13 +17,9 @@
   "shortName": "tTBSI",
   "chainId": 1708,
   "networkId": 1708,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://exp.testnet.blockchain.or.th",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://exp.testnet.blockchain.or.th"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

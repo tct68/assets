@@ -14,13 +14,9 @@
   "shortName": "tombchain",
   "chainId": 6969,
   "networkId": 6969,
-  "explorers": [
-    {
-      "name": "tombscout",
-      "url": "https://tombscout.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "tombscout": "https://tombscout.com"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-250",

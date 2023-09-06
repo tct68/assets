@@ -17,13 +17,9 @@
   "shortName": "shimmerevm-testnet-deprecated",
   "chainId": 1071,
   "networkId": 1071,
-  "explorers": [
-    {
-      "name": "explorer",
-      "url": "https://explorer.evm.testnet.shimmer.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer": "https://explorer.evm.testnet.shimmer.network"
+  },
   "status": "deprecated",
   "tokens": []
 }

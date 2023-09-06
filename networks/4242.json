@@ -18,12 +18,8 @@
   "chainId": 4242,
   "networkId": 4242,
   "slip44": 2500,
-  "explorers": [
-    {
-      "name": "nexiscan",
-      "url": "https://www.nexiscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "nexiscan": "https://www.nexiscan.com"
+  },
   "tokens": []
 }

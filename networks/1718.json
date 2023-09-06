@@ -16,13 +16,8 @@
   "chainId": 1718,
   "networkId": 1718,
   "icon": "PLT",
-  "explorers": [
-    {
-      "name": "Palettescan",
-      "url": "https://palettescan.com",
-      "icon": "PLT",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Palettescan": "https://palettescan.com"
+  },
   "tokens": []
 }

@@ -17,13 +17,9 @@
   "chainId": 126,
   "networkId": 126,
   "slip44": 126,
-  "explorers": [
-    {
-      "name": "OYchain Mainnet Explorer",
-      "url": "https://explorer.oychain.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "OYchain Mainnet Explorer": "https://explorer.oychain.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

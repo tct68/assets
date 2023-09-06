@@ -18,13 +18,8 @@
   "chainId": 120,
   "networkId": 120,
   "icon": "enuls",
-  "explorers": [
-    {
-      "name": "enulsscan",
-      "url": "https://beta.evmscan.nuls.io",
-      "icon": "enuls",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "enulsscan": "https://beta.evmscan.nuls.io"
+  },
   "tokens": []
 }

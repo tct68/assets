@@ -15,14 +15,9 @@
   "shortName": "onus-mainnet",
   "chainId": 1975,
   "networkId": 1975,
-  "explorers": [
-    {
-      "name": "Onus explorer mainnet",
-      "url": "https://explorer.onuschain.io",
-      "icon": "onus",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Onus explorer mainnet": "https://explorer.onuschain.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

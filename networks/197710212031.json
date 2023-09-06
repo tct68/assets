@@ -15,13 +15,8 @@
   "chainId": 197710212031,
   "networkId": 197710212031,
   "icon": "ntity",
-  "explorers": [
-    {
-      "name": "Ntity Haradev Blockscout",
-      "url": "https://blockscout.haradev.com",
-      "icon": "ntity",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Ntity Haradev Blockscout": "https://blockscout.haradev.com"
+  },
   "tokens": []
 }

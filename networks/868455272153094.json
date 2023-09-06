@@ -17,12 +17,8 @@
   "chainId": 868455272153094,
   "networkId": 868455272153094,
   "status": "deprecated",
-  "explorers": [
-    {
-      "name": "GWScan Block Explorer",
-      "url": "https://v1.aggron.gwscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "GWScan Block Explorer": "https://v1.aggron.gwscan.com"
+  },
   "tokens": []
 }

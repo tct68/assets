@@ -24,12 +24,8 @@
       }
     ]
   },
-  "explorers": [
-    {
-      "name": "SanR Chain Explorer",
-      "url": "https://sanrchain-explorer.santiment.net",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "SanR Chain Explorer": "https://sanrchain-explorer.santiment.net"
+  },
   "tokens": []
 }

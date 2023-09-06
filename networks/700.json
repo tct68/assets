@@ -14,12 +14,8 @@
   "shortName": "SNS",
   "chainId": 700,
   "networkId": 700,
-  "explorers": [
-    {
-      "name": "starscan",
-      "url": "https://avastar.info",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "starscan": "https://avastar.info"
+  },
   "tokens": []
 }

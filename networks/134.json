@@ -15,13 +15,8 @@
   "shortName": "rlc",
   "chainId": 134,
   "networkId": 134,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://blockscout.bellecour.iex.ec",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://blockscout.bellecour.iex.ec"
+  },
   "tokens": []
 }

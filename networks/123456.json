@@ -15,12 +15,8 @@
   "shortName": "dadil",
   "chainId": 123456,
   "networkId": 123456,
-  "explorers": [
-    {
-      "name": "ADIL Devnet Explorer",
-      "url": "https://devnet.adilchain-scan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "ADIL Devnet Explorer": "https://devnet.adilchain-scan.io"
+  },
   "tokens": []
 }

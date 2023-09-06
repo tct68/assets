@@ -22,12 +22,8 @@
   "shortName": "lachain",
   "chainId": 274,
   "networkId": 274,
-  "explorers": [
-    {
-      "name": "LaChain Explorer",
-      "url": "https://explorer.lachain.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "LaChain Explorer": "https://explorer.lachain.network"
+  },
   "tokens": []
 }

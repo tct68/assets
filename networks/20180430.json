@@ -14,12 +14,8 @@
   "shortName": "spectrum",
   "chainId": 20180430,
   "networkId": 1,
-  "explorers": [
-    {
-      "name": "spectrum",
-      "url": "https://spectrum.pub",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "spectrum": "https://spectrum.pub"
+  },
   "tokens": []
 }

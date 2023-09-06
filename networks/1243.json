@@ -15,12 +15,8 @@
   "shortName": "ARC",
   "chainId": 1243,
   "networkId": 1243,
-  "explorers": [
-    {
-      "name": "archiescan",
-      "url": "https://app.archiescan.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "archiescan": "https://app.archiescan.io"
+  },
   "tokens": []
 }

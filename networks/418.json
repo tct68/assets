@@ -23,12 +23,8 @@
   "shortName": "latestnet",
   "chainId": 418,
   "networkId": 418,
-  "explorers": [
-    {
-      "name": "LaTestnet Explorer",
-      "url": "https://testexplorer.lachain.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "LaTestnet Explorer": "https://testexplorer.lachain.network"
+  },
   "tokens": []
 }

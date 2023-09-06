@@ -15,13 +15,8 @@
   "chainId": 144,
   "networkId": 144,
   "icon": "phi",
-  "explorers": [
-    {
-      "name": "Phiscan",
-      "url": "https://phiscan.com",
-      "icon": "phi",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Phiscan": "https://phiscan.com"
+  },
   "tokens": []
 }

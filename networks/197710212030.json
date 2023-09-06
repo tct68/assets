@@ -15,14 +15,9 @@
   "chainId": 197710212030,
   "networkId": 197710212030,
   "icon": "ntity",
-  "explorers": [
-    {
-      "name": "Ntity Blockscout",
-      "url": "https://blockscout.ntity.io",
-      "icon": "ntity",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Ntity Blockscout": "https://blockscout.ntity.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

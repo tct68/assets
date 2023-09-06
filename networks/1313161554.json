@@ -17,13 +17,9 @@
   "shortName": "aurora",
   "chainId": 1313161554,
   "networkId": 1313161554,
-  "explorers": [
-    {
-      "name": "aurorascan.dev",
-      "url": "https://aurorascan.dev",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "aurorascan.dev": "https://aurorascan.dev"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

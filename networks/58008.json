@@ -23,14 +23,9 @@
   "chainId": 58008,
   "networkId": 58008,
   "icon": "publicGoodsNetwork",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.sepolia.publicgoods.network",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://explorer.sepolia.publicgoods.network"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-11155111",

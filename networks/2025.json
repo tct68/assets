@@ -16,13 +16,9 @@
   "chainId": 2025,
   "networkId": 2025,
   "slip44": 1008,
-  "explorers": [
-    {
-      "name": "rangersscan",
-      "url": "https://scan.rangersprotocol.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "rangersscan": "https://scan.rangersprotocol.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

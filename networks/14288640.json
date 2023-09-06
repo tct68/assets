@@ -15,13 +15,8 @@
   "shortName": "anduschain-mainnet",
   "chainId": 14288640,
   "networkId": 14288640,
-  "explorers": [
-    {
-      "name": "anduschain explorer",
-      "url": "https://explorer.anduschain.io",
-      "icon": "daon",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "anduschain explorer": "https://explorer.anduschain.io"
+  },
   "tokens": []
 }

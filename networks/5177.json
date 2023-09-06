@@ -13,13 +13,9 @@
   "shortName": "tlc",
   "chainId": 5177,
   "networkId": 5177,
-  "explorers": [
-    {
-      "name": "TLChain Explorer",
-      "url": "https://explorer.tlchain.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "TLChain Explorer": "https://explorer.tlchain.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

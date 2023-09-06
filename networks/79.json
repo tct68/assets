@@ -17,13 +17,9 @@
   "chainId": 79,
   "networkId": 79,
   "shortName": "zenith",
-  "explorers": [
-    {
-      "name": "zenith scan",
-      "url": "https://scan.zenithchain.co",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "zenith scan": "https://scan.zenithchain.co"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

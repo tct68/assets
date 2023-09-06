@@ -17,12 +17,8 @@
   "shortName": "ABNt",
   "chainId": 23006,
   "networkId": 23006,
-  "explorers": [
-    {
-      "name": "Antofy Testnet",
-      "url": "https://test.antofyscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Antofy Testnet": "https://test.antofyscan.com"
+  },
   "tokens": []
 }

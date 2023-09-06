@@ -15,12 +15,8 @@
   "chainId": 1875,
   "networkId": 1875,
   "icon": "whitebit",
-  "explorers": [
-    {
-      "name": "wb-explorer",
-      "url": "https://explorer.whitebit.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "wb-explorer": "https://explorer.whitebit.network"
+  },
   "tokens": []
 }

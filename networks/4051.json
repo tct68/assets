@@ -17,12 +17,8 @@
   "shortName": "BobaoperaTestnet",
   "chainId": 4051,
   "networkId": 4051,
-  "explorers": [
-    {
-      "name": "Bobaopera Testnet block explorer",
-      "url": "https://blockexplorer.testnet.bobaopera.boba.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Bobaopera Testnet block explorer": "https://blockexplorer.testnet.bobaopera.boba.network"
+  },
   "tokens": []
 }

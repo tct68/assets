@@ -15,14 +15,9 @@
   "chainId": 5551,
   "networkId": 5551,
   "icon": "nahmii",
-  "explorers": [
-    {
-      "name": "Nahmii mainnet explorer",
-      "url": "https://explorer.nahmii.io",
-      "icon": "nahmii",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Nahmii mainnet explorer": "https://explorer.nahmii.io"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-1",

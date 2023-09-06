@@ -17,14 +17,9 @@
   "shortName": "gar-test-s2",
   "chainId": 902,
   "networkId": 902,
-  "explorers": [
-    {
-      "name": "explorer",
-      "url": "https://explorer-testnet.garizon.com",
-      "icon": "garizon",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "explorer": "https://explorer-testnet.garizon.com"
+  },
   "parent": {
     "chain": "eip155-900",
     "type": "shard"

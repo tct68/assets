@@ -14,13 +14,9 @@
   "shortName": "plian-mainnet-l2",
   "chainId": 8007736,
   "networkId": 8007736,
-  "explorers": [
-    {
-      "name": "piscan",
-      "url": "https://piscan.plian.org/child_0",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "piscan": "https://piscan.plian.org/child_0"
+  },
   "parent": {
     "chain": "eip155-2099156",
     "type": "L2"

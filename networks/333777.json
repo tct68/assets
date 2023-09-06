@@ -16,12 +16,8 @@
   "shortName": "oonetest",
   "chainId": 333777,
   "networkId": 333777,
-  "explorers": [
-    {
-      "name": "expedition",
-      "url": "https://explorer-test.adigium.world",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "expedition": "https://explorer-test.adigium.world"
+  },
   "tokens": []
 }

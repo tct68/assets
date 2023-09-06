@@ -23,13 +23,8 @@
   "chainId": 16688,
   "networkId": 16688,
   "icon": "nyancat",
-  "explorers": [
-    {
-      "name": "IRISHub Testnet Cosmos Explorer (IOBScan)",
-      "url": "https://nyancat.iobscan.io",
-      "standard": "none",
-      "icon": "nyancat"
-    }
-  ],
+  "explorers": {
+    "IRISHub Testnet Cosmos Explorer (IOBScan)": "https://nyancat.iobscan.io"
+  },
   "tokens": []
 }

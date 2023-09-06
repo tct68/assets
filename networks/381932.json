@@ -15,12 +15,8 @@
   "chainId": 381932,
   "networkId": 381932,
   "slip44": 9005,
-  "explorers": [
-    {
-      "name": "metalscan",
-      "url": "https://tahoe.metalscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "metalscan": "https://tahoe.metalscan.io"
+  },
   "tokens": []
 }

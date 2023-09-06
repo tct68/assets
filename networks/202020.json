@@ -23,13 +23,8 @@
   "chainId": 202020,
   "networkId": 202020,
   "icon": "dsc",
-  "explorers": [
-    {
-      "name": "DSC Explorer Testnet",
-      "url": "https://testnet.explorer.decimalchain.com",
-      "icon": "dsc",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "DSC Explorer Testnet": "https://testnet.explorer.decimalchain.com"
+  },
   "tokens": []
 }

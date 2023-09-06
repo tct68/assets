@@ -17,13 +17,8 @@
   "chainId": 601,
   "networkId": 601,
   "icon": "peer",
-  "explorers": [
-    {
-      "name": "PEER Explorer",
-      "url": "https://testnet.peer.inc",
-      "standard": "none",
-      "icon": "peer"
-    }
-  ],
+  "explorers": {
+    "PEER Explorer": "https://testnet.peer.inc"
+  },
   "tokens": []
 }

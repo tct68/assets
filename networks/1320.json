@@ -17,12 +17,8 @@
   "shortName": "aitdtestnet",
   "chainId": 1320,
   "networkId": 1320,
-  "explorers": [
-    {
-      "name": "AITD Chain Explorer Testnet",
-      "url": "https://block-explorer-testnet.aitd.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "AITD Chain Explorer Testnet": "https://block-explorer-testnet.aitd.io"
+  },
   "tokens": []
 }

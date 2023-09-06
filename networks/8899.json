@@ -22,12 +22,8 @@
   "shortName": "jbc",
   "chainId": 8899,
   "networkId": 8899,
-  "explorers": [
-    {
-      "name": "JIBCHAIN Explorer",
-      "url": "https://exp-l1.jibchain.net",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "JIBCHAIN Explorer": "https://exp-l1.jibchain.net"
+  },
   "tokens": []
 }

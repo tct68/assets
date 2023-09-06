@@ -18,13 +18,8 @@
   "chainId": 9818,
   "networkId": 9818,
   "icon": "timp",
-  "explorers": [
-    {
-      "name": "IMPERIUM TESTNET Explorer",
-      "icon": "timp",
-      "url": "https://network.impscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "IMPERIUM TESTNET Explorer": "https://network.impscan.com"
+  },
   "tokens": []
 }

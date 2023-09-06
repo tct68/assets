@@ -16,12 +16,8 @@
   "shortName": "alv",
   "chainId": 3797,
   "networkId": 3797,
-  "explorers": [
-    {
-      "name": "AlveyScan",
-      "url": "https://alveyscan.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "AlveyScan": "https://alveyscan.com"
+  },
   "tokens": []
 }

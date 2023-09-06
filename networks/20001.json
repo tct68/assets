@@ -14,13 +14,9 @@
     "https://mainnet-http-rpc.camelark.com"
   ],
   "faucets": [],
-  "explorers": [
-    {
-      "name": "CamelarkScan",
-      "url": "https://scan.camelark.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "CamelarkScan": "https://scan.camelark.com"
+  },
   "infoURL": "https://www.camelark.com",
   "tokens": []
 }

@@ -14,13 +14,9 @@
     "symbol": "LYXt",
     "decimals": 18
   },
-  "explorers": [
-    {
-      "name": "Blockscout",
-      "url": "https://explorer.execution.testnet.lukso.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Blockscout": "https://explorer.execution.testnet.lukso.network"
+  },
   "infoURL": "https://lukso.network",
   "shortName": "lukso-testnet",
   "chainId": 4201,

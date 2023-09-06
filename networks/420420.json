@@ -18,14 +18,9 @@
   "chainId": 420420,
   "networkId": 103090,
   "icon": "kek",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://mainnet-explorer.kekchain.com",
-      "icon": "kek",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "blockscout": "https://mainnet-explorer.kekchain.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

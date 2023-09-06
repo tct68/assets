@@ -19,13 +19,9 @@
   "chainId": 128,
   "networkId": 128,
   "slip44": 1010,
-  "explorers": [
-    {
-      "name": "hecoinfo",
-      "url": "https://hecoinfo.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "hecoinfo": "https://hecoinfo.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

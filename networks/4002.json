@@ -21,14 +21,9 @@
   "chainId": 4002,
   "networkId": 4002,
   "icon": "fantom",
-  "explorers": [
-    {
-      "name": "ftmscan",
-      "url": "https://testnet.ftmscan.com",
-      "icon": "ftmscan",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "ftmscan": "https://testnet.ftmscan.com"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

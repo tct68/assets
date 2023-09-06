@@ -19,13 +19,8 @@
   "chainId": 2221,
   "networkId": 2221,
   "icon": "kava",
-  "explorers": [
-    {
-      "name": "Kava Testnet Explorer",
-      "url": "http://testnet.kavascan.com",
-      "standard": "EIP3091",
-      "icon": "kava"
-    }
-  ],
+  "explorers": {
+    "Kava Testnet Explorer": "http://testnet.kavascan.com"
+  },
   "tokens": []
 }

@@ -14,12 +14,8 @@
   "shortName": "empire",
   "chainId": 3693,
   "networkId": 3693,
-  "explorers": [
-    {
-      "name": "Empire Explorer",
-      "url": "https://explorer.empirenetwork.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Empire Explorer": "https://explorer.empirenetwork.io"
+  },
   "tokens": []
 }

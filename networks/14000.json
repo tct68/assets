@@ -12,13 +12,9 @@
   "shortName": "SPS-Test",
   "chainId": 14000,
   "networkId": 14000,
-  "explorers": [
-    {
-      "name": "SPS Test Explorer",
-      "url": "https://explorer.3sps.net",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "SPS Test Explorer": "https://explorer.3sps.net"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

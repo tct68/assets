@@ -16,13 +16,9 @@
   "shortName": "hik",
   "chainId": 5729,
   "networkId": 5729,
-  "explorers": [
-    {
-      "name": "Hika Network Testnet Explorer",
-      "url": "https://scan-testnet.hika.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Hika Network Testnet Explorer": "https://scan-testnet.hika.network"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

@@ -17,12 +17,8 @@
   "shortName": "aact",
   "chainId": 513,
   "networkId": 513,
-  "explorers": [
-    {
-      "name": "aacscan-testnet",
-      "url": "https://scan-testnet.acuteangle.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "aacscan-testnet": "https://scan-testnet.acuteangle.com"
+  },
   "tokens": []
 }

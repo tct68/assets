@@ -18,12 +18,8 @@
   "shortName": "OAC",
   "chainId": 26863,
   "networkId": 26863,
-  "explorers": [
-    {
-      "name": "OasisChain Explorer",
-      "url": "https://scan.oasischain.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "OasisChain Explorer": "https://scan.oasischain.io"
+  },
   "tokens": []
 }

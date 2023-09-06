@@ -23,12 +23,8 @@
   "shortName": "woop",
   "chainId": 139,
   "networkId": 139,
-  "explorers": [
-    {
-      "name": "wikiwoop",
-      "url": "https://explorer.wikiwoop.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "wikiwoop": "https://explorer.wikiwoop.com"
+  },
   "tokens": []
 }

@@ -21,13 +21,9 @@
   "shortName": "scr-sepolia",
   "chainId": 534351,
   "networkId": 534351,
-  "explorers": [
-    {
-      "name": "Scroll Sepolia Testnet Block Explorer",
-      "url": "https://sepolia-blockscout.scroll.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Scroll Sepolia Testnet Block Explorer": "https://sepolia-blockscout.scroll.io"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-11155111",

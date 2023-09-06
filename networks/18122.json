@@ -15,13 +15,8 @@
   "chainId": 18122,
   "networkId": 18122,
   "icon": "stn",
-  "explorers": [
-    {
-      "name": "stnscan",
-      "url": "https://stnscan.com",
-      "icon": "stn",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "stnscan": "https://stnscan.com"
+  },
   "tokens": []
 }

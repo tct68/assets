@@ -23,12 +23,8 @@
   "shortName": "p12",
   "chainId": 20736,
   "networkId": 20736,
-  "explorers": [
-    {
-      "name": "P12 Chain Explorer",
-      "url": "https://explorer.p12.games",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "P12 Chain Explorer": "https://explorer.p12.games"
+  },
   "tokens": []
 }

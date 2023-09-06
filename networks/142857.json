@@ -15,13 +15,9 @@
   "shortName": "ICPlaza",
   "chainId": 142857,
   "networkId": 142857,
-  "explorers": [
-    {
-      "name": "ICPlaza",
-      "url": "https://browsemainnet.ic-plaza.org/index",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "ICPlaza": "https://browsemainnet.ic-plaza.org/index"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

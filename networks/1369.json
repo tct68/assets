@@ -15,12 +15,8 @@
   "shortName": "zafic",
   "chainId": 1369,
   "networkId": 1369,
-  "explorers": [
-    {
-      "name": "zafirium-explorer",
-      "url": "https://explorer.zakumi.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "zafirium-explorer": "https://explorer.zakumi.io"
+  },
   "tokens": []
 }

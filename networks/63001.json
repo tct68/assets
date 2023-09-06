@@ -17,13 +17,8 @@
   "chainId": 63001,
   "networkId": 63001,
   "icon": "ecredits",
-  "explorers": [
-    {
-      "name": "eCredits TestNet Explorer",
-      "url": "https://explorer.tst.ecredits.com",
-      "icon": "ecredits",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "eCredits TestNet Explorer": "https://explorer.tst.ecredits.com"
+  },
   "tokens": []
 }

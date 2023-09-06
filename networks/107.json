@@ -17,12 +17,8 @@
   "shortName": "ntn",
   "chainId": 107,
   "networkId": 107,
-  "explorers": [
-    {
-      "name": "nebulatestnet",
-      "url": "https://explorer.novanetwork.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "nebulatestnet": "https://explorer.novanetwork.io"
+  },
   "tokens": []
 }

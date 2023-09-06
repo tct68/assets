@@ -24,12 +24,8 @@
       }
     ]
   },
-  "explorers": [
-    {
-      "name": "Alterium L2 Testnet Explorer",
-      "url": "https://l2-testnet.altscan.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Alterium L2 Testnet Explorer": "https://l2-testnet.altscan.org"
+  },
   "tokens": []
 }

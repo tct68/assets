@@ -17,12 +17,8 @@
   "chainId": 125,
   "networkId": 125,
   "slip44": 125,
-  "explorers": [
-    {
-      "name": "OYchain Testnet Explorer",
-      "url": "https://explorer.testnet.oychain.io",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "OYchain Testnet Explorer": "https://explorer.testnet.oychain.io"
+  },
   "tokens": []
 }

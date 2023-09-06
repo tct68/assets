@@ -15,12 +15,8 @@
   "shortName": "zora",
   "chainId": 7777777,
   "networkId": 7777777,
-  "explorers": [
-    {
-      "name": "Zora Network Explorer",
-      "url": "https://explorer.zora.energy",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Zora Network Explorer": "https://explorer.zora.energy"
+  },
   "tokens": []
 }

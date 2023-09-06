@@ -17,12 +17,8 @@
   "shortName": "maal",
   "chainId": 786,
   "networkId": 786,
-  "explorers": [
-    {
-      "name": "maalscan",
-      "url": "https://maalscan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "maalscan": "https://maalscan.io"
+  },
   "tokens": []
 }

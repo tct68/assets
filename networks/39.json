@@ -15,13 +15,8 @@
   "chainId": 39,
   "networkId": 39,
   "icon": "u2u",
-  "explorers": [
-    {
-      "icon": "u2u",
-      "name": "U2U Explorer",
-      "url": "https://u2uscan.xyz",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "U2U Explorer": "https://u2uscan.xyz"
+  },
   "tokens": []
 }

@@ -13,13 +13,9 @@
   "shortName": "hmy-s3",
   "chainId": 1666600003,
   "networkId": 1666600003,
-  "explorers": [
-    {
-      "name": "Harmony Block Explorer",
-      "url": "https://explorer.harmony.one/blocks/shard/3",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Harmony Block Explorer": "https://explorer.harmony.one/blocks/shard/3"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

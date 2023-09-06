@@ -20,13 +20,8 @@
   "chainId": 1804,
   "networkId": 1804,
   "icon": "pocr",
-  "explorers": [
-    {
-      "name": "Lite Explorer",
-      "url": "https://ethereum-pocr.github.io/explorer/kerleano",
-      "icon": "pocr",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Lite Explorer": "https://ethereum-pocr.github.io/explorer/kerleano"
+  },
   "tokens": []
 }

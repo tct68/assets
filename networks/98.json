@@ -15,13 +15,8 @@
   "shortName": "six",
   "chainId": 98,
   "networkId": 98,
-  "explorers": [
-    {
-      "name": "SIX Scan",
-      "url": "https://sixscan.io/sixnet",
-      "standard": "none",
-      "icon": "six"
-    }
-  ],
+  "explorers": {
+    "SIX Scan": "https://sixscan.io/sixnet"
+  },
   "tokens": []
 }

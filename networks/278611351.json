@@ -17,12 +17,8 @@
   "shortName": "razor",
   "chainId": 278611351,
   "networkId": 278611351,
-  "explorers": [
-    {
-      "name": "turbulent-unique-scheat",
-      "url": "https://turbulent-unique-scheat.explorer.mainnet.skalenodes.com",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "turbulent-unique-scheat": "https://turbulent-unique-scheat.explorer.mainnet.skalenodes.com"
+  },
   "tokens": []
 }

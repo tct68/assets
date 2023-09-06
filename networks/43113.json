@@ -25,13 +25,9 @@
   "shortName": "Fuji",
   "chainId": 43113,
   "networkId": 1,
-  "explorers": [
-    {
-      "name": "snowtrace",
-      "url": "https://testnet.snowtrace.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "snowtrace": "https://testnet.snowtrace.io"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

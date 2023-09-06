@@ -15,12 +15,8 @@
   "shortName": "Genesys",
   "chainId": 16507,
   "networkId": 16507,
-  "explorers": [
-    {
-      "name": "GchainExplorer",
-      "url": "https://gchainexplorer.genesys.network",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "GchainExplorer": "https://gchainexplorer.genesys.network"
+  },
   "tokens": []
 }

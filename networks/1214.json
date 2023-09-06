@@ -13,14 +13,9 @@
   "chainId": 1214,
   "networkId": 1214,
   "icon": "enter",
-  "explorers": [
-    {
-      "name": "Enter Explorer - Expenter",
-      "url": "https://explorer.entercoin.net",
-      "icon": "enter",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Enter Explorer - Expenter": "https://explorer.entercoin.net"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {}

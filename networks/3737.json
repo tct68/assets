@@ -17,12 +17,8 @@
   "chainId": 3737,
   "networkId": 3737,
   "icon": "crossbell",
-  "explorers": [
-    {
-      "name": "Crossbell Explorer",
-      "url": "https://scan.crossbell.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Crossbell Explorer": "https://scan.crossbell.io"
+  },
   "tokens": []
 }

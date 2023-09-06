@@ -14,12 +14,8 @@
   "shortName": "BMCT",
   "chainId": 189,
   "networkId": 189,
-  "explorers": [
-    {
-      "name": "Blockmeta",
-      "url": "https://bmctestnet.blockmeta.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Blockmeta": "https://bmctestnet.blockmeta.com"
+  },
   "tokens": []
 }

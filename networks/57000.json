@@ -18,12 +18,8 @@
   "shortName": "tsys-rollux",
   "chainId": 57000,
   "networkId": 57000,
-  "explorers": [
-    {
-      "name": "Rollux Testnet Explorer",
-      "url": "https://rollux.tanenbaum.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Rollux Testnet Explorer": "https://rollux.tanenbaum.io"
+  },
   "tokens": []
 }

@@ -18,13 +18,9 @@
   "shortName": "scr-alpha",
   "chainId": 534353,
   "networkId": 534353,
-  "explorers": [
-    {
-      "name": "Scroll Alpha Testnet Block Explorer",
-      "url": "https://alpha-blockscout.scroll.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Scroll Alpha Testnet Block Explorer": "https://alpha-blockscout.scroll.io"
+  },
   "parent": {
     "type": "L2",
     "chain": "eip155-5",

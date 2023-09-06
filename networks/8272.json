@@ -17,12 +17,8 @@
   "shortName": "BTON",
   "chainId": 8272,
   "networkId": 8272,
-  "explorers": [
-    {
-      "name": "Blockton Explorer",
-      "url": "https://blocktonscan.com",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Blockton Explorer": "https://blocktonscan.com"
+  },
   "tokens": []
 }

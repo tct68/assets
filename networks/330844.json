@@ -17,13 +17,8 @@
   "shortName": "tc",
   "chainId": 330844,
   "networkId": 330844,
-  "explorers": [
-    {
-      "name": "TTcoin Smart Chain Explorer",
-      "url": "https://tscscan.com",
-      "standard": "EIP3091",
-      "icon": "tscscan"
-    }
-  ],
+  "explorers": {
+    "TTcoin Smart Chain Explorer": "https://tscscan.com"
+  },
   "tokens": []
 }

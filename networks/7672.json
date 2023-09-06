@@ -15,12 +15,8 @@
   "shortName": "trn-porcini",
   "chainId": 7672,
   "networkId": 7672,
-  "explorers": [
-    {
-      "name": "rootnet",
-      "url": "https://explorer.rootnet.cloud",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "rootnet": "https://explorer.rootnet.cloud"
+  },
   "tokens": []
 }

@@ -14,13 +14,9 @@
   "shortName": "theta-mainnet",
   "chainId": 361,
   "networkId": 361,
-  "explorers": [
-    {
-      "name": "Theta Mainnet Explorer",
-      "url": "https://explorer.thetatoken.org",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "Theta Mainnet Explorer": "https://explorer.thetatoken.org"
+  },
   "tokens": [],
   "isDefault": false,
   "contract": {},

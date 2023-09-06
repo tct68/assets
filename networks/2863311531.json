@@ -15,12 +15,8 @@
   "shortName": "a8",
   "chainId": 2863311531,
   "networkId": 2863311531,
-  "explorers": [
-    {
-      "name": "a8scan-testnet",
-      "url": "https://testnet.a8scan.io",
-      "standard": "EIP3091"
-    }
-  ],
+  "explorers": {
+    "a8scan-testnet": "https://testnet.a8scan.io"
+  },
   "tokens": []
 }

@@ -12,13 +12,9 @@
   "shortName": "BobaBnbOld",
   "chainId": 97288,
   "networkId": 97288,
-  "explorers": [
-    {
-      "name": "Boba BNB block explorer",
-      "url": "https://blockexplorer.bnb.boba.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Boba BNB block explorer": "https://blockexplorer.bnb.boba.network"
+  },
   "status": "deprecated",
   "tokens": []
 }

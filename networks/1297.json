@@ -17,12 +17,8 @@
   "shortName": "Bobabase",
   "chainId": 1297,
   "networkId": 1297,
-  "explorers": [
-    {
-      "name": "Bobabase block explorer",
-      "url": "https://blockexplorer.bobabase.boba.network",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "Bobabase block explorer": "https://blockexplorer.bobabase.boba.network"
+  },
   "tokens": []
 }

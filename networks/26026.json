@@ -24,12 +24,8 @@
   "shortName": "frm",
   "chainId": 26026,
   "networkId": 26026,
-  "explorers": [
-    {
-      "name": "polkadotjs",
-      "url": "https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet.dev.svcs.ferrumnetwork.io#/explorer",
-      "standard": "none"
-    }
-  ],
+  "explorers": {
+    "polkadotjs": "https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet.dev.svcs.ferrumnetwork.io#/explorer"
+  },
   "tokens": []
 }
